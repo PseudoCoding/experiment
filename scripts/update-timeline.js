@@ -16,7 +16,7 @@ import { dirname, join } from 'node:path'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const TIMELINE_PATH = join(__dirname, '..', 'src', 'data', 'timeline.json')
 const GITHUB_MODELS_ENDPOINT = 'https://models.inference.ai.azure.com'
-const MODEL = 'gpt-4o'
+const MODEL = 'claude-opus-4-5'
 
 const today = new Date().toISOString().split('T')[0]
 const month = new Date().toLocaleString('en-US', { month: 'long' })
@@ -108,7 +108,6 @@ try {
       ],
       temperature: 0.3, // lower temperature = more factual, less hallucination
       max_tokens: 2000,
-      response_format: { type: 'json_object' },
     }),
   })
 

@@ -16,7 +16,7 @@ import { dirname, join } from 'node:path'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const THEME_PATH = join(__dirname, '..', 'src', 'theme.json')
 const GITHUB_MODELS_ENDPOINT = 'https://models.inference.ai.azure.com'
-const MODEL = 'gpt-4o-mini'
+const MODEL = 'claude-opus-4-5'
 
 const today = new Date().toISOString().split('T')[0]
 const month = new Date().toLocaleString('en-US', { month: 'long' })
@@ -121,7 +121,6 @@ try {
       ],
       temperature: 0.8,
       max_tokens: 1200,
-      response_format: { type: 'json_object' },
     }),
   })
 
