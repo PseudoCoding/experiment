@@ -2,6 +2,11 @@
   "name": "ai-evolution",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://github.com/PseudoCoding/experiment",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PseudoCoding/experiment.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

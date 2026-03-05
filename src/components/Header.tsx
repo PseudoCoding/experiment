@@ -27,7 +27,7 @@ export function Header() {
         <nav className="header__nav">
           <a href="#timeline" className="header__nav-link">Timeline</a>
           <a
-            href="https://github.com"
+            href="https://github.com/PseudoCoding/experiment"
             target="_blank"
             rel="noopener noreferrer"
             className="header__cta"

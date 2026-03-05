@@ -2,10 +2,10 @@
 
 An interactive single-page application tracing the history of artificial intelligence from 1950 to today — with a twist: **its color palette and aesthetic are updated daily by GitHub Copilot**, automatically, based on current design trends.
 
-![Built with React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square&logo=typescript)
-![Deployed on Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-deployed-f38020?style=flat-square&logo=cloudflare)
+[![Built with React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react)](https://github.com/PseudoCoding/experiment)
+[![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite)](https://github.com/PseudoCoding/experiment)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square&logo=typescript)](https://github.com/PseudoCoding/experiment)
+[![Deployed on Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-deployed-f38020?style=flat-square&logo=cloudflare)](https://github.com/PseudoCoding/experiment)
 
 ---
 
