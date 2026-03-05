@@ -1,38 +1,38 @@
 {
   "lastUpdated": "2026-03-05",
   "palette": {
-    "background": "#050508",
-    "surface": "#0f0f1a",
-    "surfaceAlt": "#141428",
-    "primary": "#6366f1",
-    "primaryLight": "#818cf8",
-    "secondary": "#8b5cf6",
-    "accent": "#06b6d4",
-    "accentWarm": "#f59e0b",
-    "text": "#f1f5f9",
-    "textMuted": "#94a3b8",
-    "textSubtle": "#475569",
-    "border": "#1e2040",
-    "glow": "rgba(99, 102, 241, 0.3)"
+    "background": "#0a0815",
+    "surface": "#151129",
+    "surfaceAlt": "#1e1a3a",
+    "primary": "#6a5cff",
+    "primaryLight": "#8f7bff",
+    "secondary": "#4de0e0",
+    "accent": "#ff7bd5",
+    "accentWarm": "#ffad5c",
+    "text": "#f2f5ff",
+    "textMuted": "#c1c7df",
+    "textSubtle": "#8f95b2",
+    "border": "#2e2a48",
+    "glow": "rgba(106, 92, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
-    "headingWeight": "800",
+    "headingWeight": "700",
     "bodyWeight": "400"
   },
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
-    "shadowIntensity": "high",
-    "animationSpeed": "0.5s",
+    "cardBlur": "30px",
+    "shadowIntensity": "medium",
+    "animationSpeed": "0.6s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #06b6d4 100%)",
-    "timeline": "linear-gradient(180deg, #6366f1 0%, #8b5cf6 50%, #06b6d4 100%)",
-    "text": "linear-gradient(90deg, #818cf8 0%, #c084fc 50%, #67e8f9 100%)"
+    "hero": "linear-gradient(135deg, #6a5cff 0%, #4de0e0 50%, #ff7bd5 100%)",
+    "timeline": "linear-gradient(180deg, #151129 0%, #6a5cff 50%, #ffad5c 100%)",
+    "text": "linear-gradient(90deg, #ff7bd5 0%, #6a5cff 50%, #4de0e0 100%)"
   },
-  "trendNote": "Deep space-inspired dark palettes with indigo and violet tones are dominating tech interfaces in Q1 2026. Glassmorphism continues its relevance paired with subtle grid backgrounds and glowing accents. Motion design favors smooth, intentional transitions that feel intelligent."
+  "trendNote": "In March 2026, AI and tech-driven websites are embracing vibrant yet professional palettes with a balance of futuristic purples and energetic neons. Glassmorphism remains dominant for its sleek, airy look, while typography and animations are dynamic yet restrained to maintain a refined edge."
 }
