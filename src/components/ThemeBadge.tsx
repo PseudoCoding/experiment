@@ -8,8 +8,8 @@ interface Props {
 export function ThemeBadge({ theme }: Props) {
   const [open, setOpen] = useState(false)
 
-  const date = new Date(theme.lastUpdated)
-  const formatted = date.toLocaleDateString('en-US', {
+  const [y, m, d] = theme.lastUpdated.split('-').map(Number)
+  const formatted = new Date(y, m - 1, d).toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
     day: 'numeric',
