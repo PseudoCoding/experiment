@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "ai-evolution",
+  "name": "experiment",
   "compatibility_date": "2026-03-05",
   "assets": {
     "directory": "./dist",
