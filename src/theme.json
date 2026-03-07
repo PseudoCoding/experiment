@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-06",
+  "lastUpdated": "2026-03-07",
   "palette": {
-    "background": "#0b0d16",
-    "surface": "#131722",
-    "surfaceAlt": "#1a1e2b",
-    "primary": "#5e76ff",
-    "primaryLight": "#8091ff",
-    "secondary": "#ff7e6a",
-    "accent": "#26d7b1",
-    "accentWarm": "#ffc764",
-    "text": "#f8f9fc",
-    "textMuted": "#c0c4d4",
-    "textSubtle": "#9499b0",
-    "border": "#2e3448",
-    "glow": "rgba(94, 118, 255, 0.8)"
+    "background": "#0a0b16",
+    "surface": "#141627",
+    "surfaceAlt": "#1b1d33",
+    "primary": "#5e5cff",
+    "primaryLight": "#8a88ff",
+    "secondary": "#ff6bcb",
+    "accent": "#29cf78",
+    "accentWarm": "#ffb347",
+    "text": "#e5e8f4",
+    "textMuted": "#c1c4d6",
+    "textSubtle": "#9094a8",
+    "border": "#292d44",
+    "glow": "rgba(94, 92, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "32px",
-    "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "48px"
+    "cardBlur": "40px",
+    "shadowIntensity": "high",
+    "animationSpeed": "0.3s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e76ff 0%, #26d7b1 50%, #ff7e6a 100%)",
-    "timeline": "linear-gradient(180deg, #131722 0%, #5e76ff 50%, #ff7e6a 100%)",
-    "text": "linear-gradient(90deg, #5e76ff 0%, #8091ff 50%, #26d7b1 100%)"
+    "hero": "linear-gradient(135deg, #5e5cff 0%, #ff6bcb 50%, #29cf78 100%)",
+    "timeline": "linear-gradient(180deg, #5e5cff 0%, #8a88ff 50%, #ffb347 100%)",
+    "text": "linear-gradient(90deg, #e5e8f4 0%, #ff6bcb 50%, #5e5cff 100%)"
   },
-  "trendNote": "In March 2026, dark-mode tech interfaces focus on deep, rich backgrounds paired with vibrant, glowing accents for a futuristic aesthetic. Glassmorphism remains dominant, with blurred surfaces and layered depth, while animations emphasize smooth, fluid transitions to enhance user engagement. Seasonal tones hint at warmth and renewal through accent colors like coral and soft gold."
+  "trendNote": "In March 2026, tech interfaces embrace vibrant neon tones with high-contrast dark mode designs enhanced by glassmorphism. The use of glowing accents and blurred surfaces creates a futuristic yet approachable aesthetic, reflecting the cutting-edge innovation in AI and technology."
 }
