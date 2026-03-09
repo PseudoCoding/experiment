@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-08",
+  "lastUpdated": "2026-03-09",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#13132a",
-    "surfaceAlt": "#1c1c3b",
-    "primary": "#4a98ff",
-    "primaryLight": "#82baff",
-    "secondary": "#ff6ec7",
-    "accent": "#ffac4a",
-    "accentWarm": "#ffa378",
-    "text": "#f3f4fc",
-    "textMuted": "#c1c2d9",
-    "textSubtle": "#9091a8",
-    "border": "#3a3a5c",
-    "glow": "rgba(74, 152, 255, 0.4)"
+    "background": "#0a0c14",
+    "surface": "#141826",
+    "surfaceAlt": "#1e2437",
+    "primary": "#5b8efb",
+    "primaryLight": "#92b6ff",
+    "secondary": "#19e8b3",
+    "accent": "#ff68a3",
+    "accentWarm": "#ffa76f",
+    "text": "#f5f7fa",
+    "textMuted": "#c9cdda",
+    "textSubtle": "#8f95a6",
+    "border": "#2a3249",
+    "glow": "rgba(91, 142, 251, 0.5)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Space Grotesk",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a98ff 0%, #ff6ec7 50%, #ffac4a 100%)",
-    "timeline": "linear-gradient(180deg, #13132a 0%, #4a98ff 50%, #ff6ec7 100%)",
-    "text": "linear-gradient(90deg, #ff6ec7 0%, #4a98ff 50%, #f3f4fc 100%)"
+    "hero": "linear-gradient(135deg, #5b8efb 0%, #19e8b3 50%, #ff68a3 100%)",
+    "timeline": "linear-gradient(180deg, #1e2437 0%, #5b8efb 50%, #19e8b3 100%)",
+    "text": "linear-gradient(90deg, #5b8efb 0%, #19e8b3 50%, #ff68a3 100%)"
   },
-  "trendNote": "March 2026 sees the fusion of glassmorphism with bold, vivid colors and subtle glowing accents to highlight AI and tech themes. Typography is clean and professional, with animations leaning towards smooth transitions to complement the futuristic aesthetic. Seasonal influences favor warm accents paired with vibrant blues to create a dynamic yet approachable interface."
+  "trendNote": "March 2026 emphasizes a futuristic yet approachable aesthetic for tech and AI interfaces. Dark glassmorphic themes with vivid accent colors and soft glows dominate, incorporating gradients and layered transparencies to create depth. Typography is clean and geometric, while animations are fluid and deliberate, reflecting the seamless nature of AI interactions."
 }
