@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-10",
+  "lastUpdated": "2026-03-11",
   "palette": {
-    "background": "#0a0b16",
-    "surface": "#12172b",
-    "surfaceAlt": "#1b2238",
-    "primary": "#5a7df2",
-    "primaryLight": "#8ca9ff",
-    "secondary": "#6cf0bf",
-    "accent": "#ff876e",
-    "accentWarm": "#fcba5a",
-    "text": "#f3f6fc",
-    "textMuted": "#b2bdd9",
-    "textSubtle": "#8a94ac",
-    "border": "#29324e",
-    "glow": "rgba(90, 125, 242, 0.5)"
+    "background": "#0a0d17",
+    "surface": "#131a28",
+    "surfaceAlt": "#1b2538",
+    "primary": "#4f8cff",
+    "primaryLight": "#86b8ff",
+    "secondary": "#00e6b8",
+    "accent": "#f95d75",
+    "accentWarm": "#ff9d4d",
+    "text": "#f3f5fa",
+    "textMuted": "#b0b5c2",
+    "textSubtle": "#828997",
+    "border": "#2a3550",
+    "glow": "rgba(79, 140, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.6s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a7df2 0%, #6cf0bf 50%, #ff876e 100%)",
-    "timeline": "linear-gradient(180deg, #1b2238 0%, #5a7df2 50%, #fcba5a 100%)",
-    "text": "linear-gradient(90deg, #5a7df2 0%, #ff876e 50%, #6cf0bf 100%)"
+    "hero": "linear-gradient(135deg, #4f8cff 0%, #00e6b8 50%, #f95d75 100%)",
+    "timeline": "linear-gradient(180deg, #4f8cff 0%, #86b8ff 50%, #ff9d4d 100%)",
+    "text": "linear-gradient(90deg, #4f8cff 0%, #00e6b8 50%, #f95d75 100%)"
   },
-  "trendNote": "March 2026 sees a continuation of glassmorphism, enhanced with soft neon glows and vivid gradients for tech-focused interfaces. Typography leans towards clarity and elegance, while animations emphasize fluidity and calm professionalism. Seasonal warmth is reflected in the use of warm accents and spring-like secondary hues."
+  "trendNote": "In March 2026, tech and AI-themed websites are embracing a futuristic glassmorphism aesthetic with vibrant, glowing accents against deep, muted backgrounds. Typography remains clean and modern, with fluid animations and soft gradients adding a sense of motion and sophistication. Seasonal trends favor balanced warmth, reflecting optimism and renewal as spring begins."
 }
