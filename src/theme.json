@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-11",
+  "lastUpdated": "2026-03-12",
   "palette": {
-    "background": "#0a0d17",
-    "surface": "#131a28",
-    "surfaceAlt": "#1b2538",
-    "primary": "#4f8cff",
-    "primaryLight": "#86b8ff",
-    "secondary": "#00e6b8",
-    "accent": "#f95d75",
-    "accentWarm": "#ff9d4d",
-    "text": "#f3f5fa",
-    "textMuted": "#b0b5c2",
-    "textSubtle": "#828997",
-    "border": "#2a3550",
-    "glow": "rgba(79, 140, 255, 0.6)"
+    "background": "#0a0a14",
+    "surface": "#141424",
+    "surfaceAlt": "#1c1c30",
+    "primary": "#5a72ff",
+    "primaryLight": "#879bff",
+    "secondary": "#ff6e72",
+    "accent": "#64f5c4",
+    "accentWarm": "#ffb347",
+    "text": "#f7f8fb",
+    "textMuted": "#b3b5c6",
+    "textSubtle": "#8a8d9f",
+    "border": "#2e2e44",
+    "glow": "rgba(90, 114, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4f8cff 0%, #00e6b8 50%, #f95d75 100%)",
-    "timeline": "linear-gradient(180deg, #4f8cff 0%, #86b8ff 50%, #ff9d4d 100%)",
-    "text": "linear-gradient(90deg, #4f8cff 0%, #00e6b8 50%, #f95d75 100%)"
+    "hero": "linear-gradient(135deg, #5a72ff 0%, #64f5c4 50%, #ff6e72 100%)",
+    "timeline": "linear-gradient(180deg, #141424 0%, #5a72ff 50%, #64f5c4 100%)",
+    "text": "linear-gradient(90deg, #ff6e72 0%, #5a72ff 50%, #64f5c4 100%)"
   },
-  "trendNote": "In March 2026, tech and AI-themed websites are embracing a futuristic glassmorphism aesthetic with vibrant, glowing accents against deep, muted backgrounds. Typography remains clean and modern, with fluid animations and soft gradients adding a sense of motion and sophistication. Seasonal trends favor balanced warmth, reflecting optimism and renewal as spring begins."
+  "trendNote": "In March 2026, AI and tech-themed designs lean heavily into futuristic aesthetics, with glassmorphism dominating thanks to its clean, layered look. Dynamic gradients, vivid contrasts, and soft glows evoke a sense of innovation and creativity while maintaining professionalism. Typography is clean yet bold, with readable sans-serif fonts paired with subtle interactive animations."
 }
