@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-13",
+  "lastUpdated": "2026-03-14",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#11131f",
-    "surfaceAlt": "#1a1d2e",
-    "primary": "#5a8dee",
-    "primaryLight": "#8bb5ff",
-    "secondary": "#ff6363",
-    "accent": "#c77dff",
-    "accentWarm": "#ffb356",
-    "text": "#f0f3fc",
-    "textMuted": "#a8adc8",
-    "textSubtle": "#767b96",
-    "border": "#2e3248",
-    "glow": "rgba(90, 141, 238, 0.35)"
+    "background": "#08090f",
+    "surface": "#10131c",
+    "surfaceAlt": "#1c1f28",
+    "primary": "#4a90e2",
+    "primaryLight": "#87b7f5",
+    "secondary": "#2ec4b6",
+    "accent": "#d74a72",
+    "accentWarm": "#ff8e42",
+    "text": "#f5f8fb",
+    "textMuted": "#c4c9d4",
+    "textSubtle": "#9fa3b3",
+    "border": "#2a2d40",
+    "glow": "rgba(74, 144, 226, 0.3)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a8dee 0%, #c77dff 50%, #ff6363 100%)",
-    "timeline": "linear-gradient(180deg, #1a1d2e 0%, #5a8dee 50%, #8bb5ff 100%)",
-    "text": "linear-gradient(90deg, #5a8dee 0%, #ffb356 50%, #c77dff 100%)"
+    "hero": "linear-gradient(135deg, #4a90e2 0%, #2ec4b6 50%, #d74a72 100%)",
+    "timeline": "linear-gradient(180deg, #1c1f28 0%, #4a90e2 50%, #ff8e42 100%)",
+    "text": "linear-gradient(90deg, #4a90e2 0%, #d74a72 50%, #2ec4b6 100%)"
   },
-  "trendNote": "In March 2026, dark-mode tech websites are embracing a futuristic glassmorphism aesthetic with vibrant color accents, soft glows, and medium blurs to convey sophistication. Typography leans toward geometric precision with modern sans-serif fonts like Inter, while animations focus on subtle yet fluid transitions for a professional and polished feel."
+  "trendNote": "In March 2026, technology and AI-themed websites lean heavily into glassmorphism with softened transparent layers, vivid primary colors, and warm accents. The combination of high-contrast text and glowing effects creates an elegant yet futuristic vibe, ideal for spring innovation and forward-thinking design."
 }
