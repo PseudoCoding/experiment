@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-15",
+  "lastUpdated": "2026-03-16",
   "palette": {
     "background": "#0a0b12",
-    "surface": "#12131e",
-    "surfaceAlt": "#1a1b28",
-    "primary": "#7c4dff",
-    "primaryLight": "#b89eff",
-    "secondary": "#ff4081",
-    "accent": "#26c6da",
-    "accentWarm": "#ffad42",
-    "text": "#f2f4fa",
-    "textMuted": "#a3a6b3",
-    "textSubtle": "#84889c",
-    "border": "#2a2c3b",
-    "glow": "rgba(124, 77, 255, 0.3)"
+    "surface": "#131624",
+    "surfaceAlt": "#1a1d2e",
+    "primary": "#4f8bff",
+    "primaryLight": "#85aaff",
+    "secondary": "#ff876d",
+    "accent": "#00d9a7",
+    "accentWarm": "#ffae42",
+    "text": "#f2f4f9",
+    "textMuted": "#b0b5c4",
+    "textSubtle": "#8d92a3",
+    "border": "#2c3042",
+    "glow": "rgba(79, 139, 255, 0.6)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #7c4dff 0%, #26c6da 50%, #ff4081 100%)",
-    "timeline": "linear-gradient(180deg, #1a1b28 0%, #7c4dff 50%, #12131e 100%)",
-    "text": "linear-gradient(90deg, #ff4081 0%, #7c4dff 50%, #26c6da 100%)"
+    "hero": "linear-gradient(135deg, #4f8bff 0%, #00d9a7 50%, #ff876d 100%)",
+    "timeline": "linear-gradient(180deg, #131624 0%, #1a1d2e 50%, #4f8bff 100%)",
+    "text": "linear-gradient(90deg, #ff876d 0%, #00d9a7 50%, #85aaff 100%)"
   },
-  "trendNote": "In March 2026, AI and tech websites lean heavily into vibrant, futuristic palettes that contrast against dark, glassy surfaces. Glassmorphism is dominant, with blur and glow effects creating layers of depth, while typography trends prioritize geometric fonts with a bold but clean aesthetic. Subtle animations add refinement and interactivity."
+  "trendNote": "March 2026 sees a resurgence of glassmorphism in tech and AI-themed design, combining vivid gradients and translucent card effects with vibrant accent colors. Animation trends focus on fluid motion and glowing transitions, reflecting a futuristic yet approachable aesthetic."
 }
