@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-18",
+  "lastUpdated": "2026-03-19",
   "palette": {
-    "background": "#05050d",
-    "surface": "#10101b",
-    "surfaceAlt": "#181825",
-    "primary": "#4f70ff",
-    "primaryLight": "#8096ff",
-    "secondary": "#ff5768",
-    "accent": "#19cfa8",
-    "accentWarm": "#f9ac42",
-    "text": "#f1f2f9",
-    "textMuted": "#c1c3d0",
+    "background": "#0b0c14",
+    "surface": "#131526",
+    "surfaceAlt": "#1b1e30",
+    "primary": "#5e7fff",
+    "primaryLight": "#89a3ff",
+    "secondary": "#ff6e6e",
+    "accent": "#39e09b",
+    "accentWarm": "#f9a847",
+    "text": "#f5f7fc",
+    "textMuted": "#b6b9c7",
     "textSubtle": "#8a8c99",
-    "border": "#2d2d3c",
-    "glow": "rgba(79, 112, 255, 0.6)"
+    "border": "#2a2d45",
+    "glow": "rgba(94, 127, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.35s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4f70ff 0%, #19cfa8 50%, #ff5768 100%)",
-    "timeline": "linear-gradient(180deg, #4f70ff 0%, #f9ac42 50%, #19cfa8 100%)",
-    "text": "linear-gradient(90deg, #4f70ff 0%, #ff5768 50%, #f9ac42 100%)"
+    "hero": "linear-gradient(135deg, #5e7fff 0%, #39e09b 50%, #ff6e6e 100%)",
+    "timeline": "linear-gradient(180deg, #131526 0%, #1b1e30 50%, #5e7fff 100%)",
+    "text": "linear-gradient(90deg, #ff6e6e 0%, #5e7fff 50%, #39e09b 100%)"
   },
-  "trendNote": "March 2026 design trends emphasize futuristic yet approachable aesthetics. Glassmorphism remains popular, with glowing accents and vivid primary colors bringing energy to dark-mode designs. Typography leans clean and modern, while animations focus on smooth transitions for a polished feel."
+  "trendNote": "March 2026 sees glassmorphism thriving, paired with vibrant gradients to evoke sophistication and energy in AI-themed designs. Typography remains clean and modern, with subtle animations enhancing interactivity without distraction. Seasonal influences bring warm accents like orange and green to balance the cooler tech-centric blues."
 }
