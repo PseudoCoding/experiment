@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-19",
+  "lastUpdated": "2026-03-20",
   "palette": {
-    "background": "#0b0c14",
-    "surface": "#131526",
-    "surfaceAlt": "#1b1e30",
-    "primary": "#5e7fff",
-    "primaryLight": "#89a3ff",
-    "secondary": "#ff6e6e",
-    "accent": "#39e09b",
-    "accentWarm": "#f9a847",
-    "text": "#f5f7fc",
-    "textMuted": "#b6b9c7",
-    "textSubtle": "#8a8c99",
-    "border": "#2a2d45",
-    "glow": "rgba(94, 127, 255, 0.4)"
+    "background": "#0b0d14",
+    "surface": "#16181f",
+    "surfaceAlt": "#1e212a",
+    "primary": "#5e7ce2",
+    "primaryLight": "#9bb4f5",
+    "secondary": "#e06c75",
+    "accent": "#8de6d1",
+    "accentWarm": "#ffa561",
+    "text": "#e9eef5",
+    "textMuted": "#aeb4c2",
+    "textSubtle": "#6c7284",
+    "border": "#2c2f3a",
+    "glow": "rgba(94, 124, 226, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.3s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e7fff 0%, #39e09b 50%, #ff6e6e 100%)",
-    "timeline": "linear-gradient(180deg, #131526 0%, #1b1e30 50%, #5e7fff 100%)",
-    "text": "linear-gradient(90deg, #ff6e6e 0%, #5e7fff 50%, #39e09b 100%)"
+    "hero": "linear-gradient(135deg, #5e7ce2 0%, #8de6d1 50%, #ffa561 100%)",
+    "timeline": "linear-gradient(180deg, #16181f 0%, #1e212a 50%, #5e7ce2 100%)",
+    "text": "linear-gradient(90deg, #5e7ce2 0%, #e06c75 50%, #8de6d1 100%)"
   },
-  "trendNote": "March 2026 sees glassmorphism thriving, paired with vibrant gradients to evoke sophistication and energy in AI-themed designs. Typography remains clean and modern, with subtle animations enhancing interactivity without distraction. Seasonal influences bring warm accents like orange and green to balance the cooler tech-centric blues."
+  "trendNote": "In March 2026, AI-themed websites are embracing glassmorphism with vivid gradients and glowing accents, evoking a futuristic and approachable tone. Typography is clean and modern, favoring legibility while animations are subtle but polished, reflecting technical sophistication."
 }
