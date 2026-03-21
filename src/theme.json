@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-20",
+  "lastUpdated": "2026-03-21",
   "palette": {
-    "background": "#0b0d14",
-    "surface": "#16181f",
-    "surfaceAlt": "#1e212a",
-    "primary": "#5e7ce2",
-    "primaryLight": "#9bb4f5",
-    "secondary": "#e06c75",
-    "accent": "#8de6d1",
-    "accentWarm": "#ffa561",
-    "text": "#e9eef5",
-    "textMuted": "#aeb4c2",
-    "textSubtle": "#6c7284",
-    "border": "#2c2f3a",
-    "glow": "rgba(94, 124, 226, 0.6)"
+    "background": "#0a0b1a",
+    "surface": "#12122b",
+    "surfaceAlt": "#1b1c33",
+    "primary": "#5a4bff",
+    "primaryLight": "#7b6eff",
+    "secondary": "#3db3ff",
+    "accent": "#ff6d8d",
+    "accentWarm": "#ff8f4b",
+    "text": "#f5f8fc",
+    "textMuted": "#c7c9d5",
+    "textSubtle": "#8a8d99",
+    "border": "#2a2b43",
+    "glow": "rgba(90, 75, 255, 0.8)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.5s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e7ce2 0%, #8de6d1 50%, #ffa561 100%)",
-    "timeline": "linear-gradient(180deg, #16181f 0%, #1e212a 50%, #5e7ce2 100%)",
-    "text": "linear-gradient(90deg, #5e7ce2 0%, #e06c75 50%, #8de6d1 100%)"
+    "hero": "linear-gradient(135deg, #5a4bff 0%, #3db3ff 50%, #ff6d8d 100%)",
+    "timeline": "linear-gradient(180deg, #12122b 0%, #3db3ff 50%, #ff8f4b 100%)",
+    "text": "linear-gradient(90deg, #5a4bff 0%, #ff6d8d 50%, #ff8f4b 100%)"
   },
-  "trendNote": "In March 2026, AI-themed websites are embracing glassmorphism with vivid gradients and glowing accents, evoking a futuristic and approachable tone. Typography is clean and modern, favoring legibility while animations are subtle but polished, reflecting technical sophistication."
+  "trendNote": "In March 2026, dark-mode tech interfaces emphasize vibrant, glowing accents to create an ultramodern and dynamic feel, complemented by glassmorphism's frosted blur effects. Seasonal brightness influences the use of warm accent tones, balancing the cool, tech-inspired palette."
 }
