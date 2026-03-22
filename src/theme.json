@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-03-21",
+  "lastUpdated": "2026-03-22",
   "palette": {
-    "background": "#0a0b1a",
-    "surface": "#12122b",
-    "surfaceAlt": "#1b1c33",
-    "primary": "#5a4bff",
-    "primaryLight": "#7b6eff",
-    "secondary": "#3db3ff",
-    "accent": "#ff6d8d",
-    "accentWarm": "#ff8f4b",
-    "text": "#f5f8fc",
-    "textMuted": "#c7c9d5",
-    "textSubtle": "#8a8d99",
-    "border": "#2a2b43",
-    "glow": "rgba(90, 75, 255, 0.8)"
+    "background": "#0a0c12",
+    "surface": "#16181f",
+    "surfaceAlt": "#20232b",
+    "primary": "#5a6fff",
+    "primaryLight": "#788aff",
+    "secondary": "#ff726f",
+    "accent": "#16db93",
+    "accentWarm": "#ffcc66",
+    "text": "#f3f4fa",
+    "textMuted": "#c2c5d0",
+    "textSubtle": "#8a8e9b",
+    "border": "#2a2d38",
+    "glow": "rgba(90, 111, 255, 0.5)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Space Grotesk",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a4bff 0%, #3db3ff 50%, #ff6d8d 100%)",
-    "timeline": "linear-gradient(180deg, #12122b 0%, #3db3ff 50%, #ff8f4b 100%)",
-    "text": "linear-gradient(90deg, #5a4bff 0%, #ff6d8d 50%, #ff8f4b 100%)"
+    "hero": "linear-gradient(135deg, #5a6fff 0%, #16db93 50%, #ff726f 100%)",
+    "timeline": "linear-gradient(180deg, #16181f 0%, #5a6fff 50%, #ffcc66 100%)",
+    "text": "linear-gradient(90deg, #ff726f 0%, #ffcc66 50%, #5a6fff 100%)"
   },
-  "trendNote": "In March 2026, dark-mode tech interfaces emphasize vibrant, glowing accents to create an ultramodern and dynamic feel, complemented by glassmorphism's frosted blur effects. Seasonal brightness influences the use of warm accent tones, balancing the cool, tech-inspired palette."
+  "trendNote": "March 2026 leans into vibrant, futuristic glassmorphism, with glowing accents and organic gradients reflecting AI innovation. Designers are balancing vivid, high-energy palettes with calm, minimal surfaces to communicate both technology and trust."
 }
