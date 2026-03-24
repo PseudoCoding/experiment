@@ -1,38 +1,38 @@
 {
-  "lastUpdated": "2026-03-23",
+  "lastUpdated": "2026-03-24",
   "palette": {
-    "background": "#0b0d16",
-    "surface": "#141827",
-    "surfaceAlt": "#1d2133",
-    "primary": "#5b8bf7",
-    "primaryLight": "#8db1ff",
-    "secondary": "#a16ff2",
-    "accent": "#f2a75e",
-    "accentWarm": "#f25d5d",
-    "text": "#f1f5fc",
-    "textMuted": "#a7adc6",
-    "textSubtle": "#70778e",
-    "border": "#2b2f41",
-    "glow": "rgba(91, 139, 247, 0.6)"
+    "background": "#0a0b14",
+    "surface": "#161924",
+    "surfaceAlt": "#1e2130",
+    "primary": "#3d5afe",
+    "primaryLight": "#809bff",
+    "secondary": "#ff4081",
+    "accent": "#00e676",
+    "accentWarm": "#ffa726",
+    "text": "#f2f4fa",
+    "textMuted": "#b0b8d1",
+    "textSubtle": "#8a90a6",
+    "border": "#2a2e3b",
+    "glow": "rgba(61, 90, 254, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
-    "headingWeight": "600",
+    "headingWeight": "700",
     "bodyWeight": "400"
   },
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5b8bf7 0%, #a16ff2 50%, #f25d5d 100%)",
-    "timeline": "linear-gradient(180deg, #141827 0%, #5b8bf7 50%, #f2a75e 100%)",
-    "text": "linear-gradient(90deg, #f2a75e 0%, #a16ff2 50%, #5b8bf7 100%)"
+    "hero": "linear-gradient(135deg, #3d5afe 0%, #00e676 50%, #ff4081 100%)",
+    "timeline": "linear-gradient(180deg, #161924 0%, #3d5afe 50%, #ff4081 100%)",
+    "text": "linear-gradient(90deg, #3d5afe 0%, #00e676 50%, #ff4081 100%)"
   },
-  "trendNote": "In March 2026, technology and AI-themed designs are embracing vivid gradients and glassmorphism for a polished, futuristic look. Dark interfaces balance high contrast text and glowing accents, while typography trends favor clean, geometric sans-serif fonts for a professional yet approachable feel."
+  "trendNote": "March 2026 is heavily driven by vibrant, neon-inspired palettes and a renewed focus on glassmorphism with increased use of frosted transparency and glowing effects. Typography combines bold, geometric sans-serif fonts with subtle gradients and fluid animations, emphasizing a futuristic and professional aesthetic tailored for AI and tech-driven interfaces."
 }
