@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-25",
+  "lastUpdated": "2026-03-26",
   "palette": {
-    "background": "#0a0a13",
-    "surface": "#161622",
-    "surfaceAlt": "#1e1e2b",
-    "primary": "#5c7cfa",
-    "primaryLight": "#a5b8ff",
-    "secondary": "#5beaa2",
-    "accent": "#ff6ad5",
-    "accentWarm": "#ff9d4d",
-    "text": "#e8eaf0",
-    "textMuted": "#a3a6b2",
-    "textSubtle": "#868a98",
-    "border": "#3a3a4a",
-    "glow": "rgba(92, 124, 250, 0.4)"
+    "background": "#0a0b14",
+    "surface": "#161821",
+    "surfaceAlt": "#1d1f2b",
+    "primary": "#5a6ee1",
+    "primaryLight": "#8497f5",
+    "secondary": "#00d1b2",
+    "accent": "#ff6f61",
+    "accentWarm": "#ff9f43",
+    "text": "#f3f4fa",
+    "textMuted": "#c3c6d4",
+    "textSubtle": "#8c91a3",
+    "border": "#323645",
+    "glow": "rgba(90, 110, 225, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.35s",
     "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5c7cfa 0%, #5beaa2 50%, #ff6ad5 100%)",
-    "timeline": "linear-gradient(180deg, #161622 0%, #5c7cfa 50%, #1e1e2b 100%)",
-    "text": "linear-gradient(90deg, #ff6ad5 0%, #5beaa2 50%, #a5b8ff 100%)"
+    "hero": "linear-gradient(135deg, #5a6ee1 0%, #00d1b2 50%, #ff6f61 100%)",
+    "timeline": "linear-gradient(180deg, #1d1f2b 0%, #5a6ee1 50%, #ff9f43 100%)",
+    "text": "linear-gradient(90deg, #ff6f61 0%, #00d1b2 50%, #5a6ee1 100%)"
   },
-  "trendNote": "In March 2026, dark interfaces incorporate vibrant, high-contrast neon hues with glassmorphism to evoke a futuristic, AI-driven aesthetic. Typography trends focus on legibility with geometric sans-serif fonts, while smooth hover effects and glowing accents create an engaging yet professional user experience."
+  "trendNote": "March 2026 sees a revival of vibrant, futuristic aesthetics in tech and AI-themed designs, with glassmorphism dominating the UI landscape. Subtle gradients, glowing accents, and carefully tuned blurs create a sense of depth and sophistication while maintaining high usability and legibility in dark-mode interfaces."
 }
