@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-26",
+  "lastUpdated": "2026-03-27",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#161821",
-    "surfaceAlt": "#1d1f2b",
-    "primary": "#5a6ee1",
-    "primaryLight": "#8497f5",
-    "secondary": "#00d1b2",
-    "accent": "#ff6f61",
-    "accentWarm": "#ff9f43",
-    "text": "#f3f4fa",
-    "textMuted": "#c3c6d4",
-    "textSubtle": "#8c91a3",
-    "border": "#323645",
-    "glow": "rgba(90, 110, 225, 0.4)"
+    "background": "#0a0b1e",
+    "surface": "#141634",
+    "surfaceAlt": "#1d1f41",
+    "primary": "#5a33ff",
+    "primaryLight": "#9f80ff",
+    "secondary": "#ff4fa1",
+    "accent": "#18e3c8",
+    "accentWarm": "#ffa14f",
+    "text": "#f3f5fa",
+    "textMuted": "#b2b6cc",
+    "textSubtle": "#8c90a6",
+    "border": "#262a48",
+    "glow": "rgba(90, 51, 255, 0.8)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.3s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a6ee1 0%, #00d1b2 50%, #ff6f61 100%)",
-    "timeline": "linear-gradient(180deg, #1d1f2b 0%, #5a6ee1 50%, #ff9f43 100%)",
-    "text": "linear-gradient(90deg, #ff6f61 0%, #00d1b2 50%, #5a6ee1 100%)"
+    "hero": "linear-gradient(135deg, #5a33ff 0%, #18e3c8 50%, #ff4fa1 100%)",
+    "timeline": "linear-gradient(180deg, #5a33ff 0%, #ffa14f 50%, #1d1f41 100%)",
+    "text": "linear-gradient(90deg, #5a33ff 0%, #9f80ff 50%, #18e3c8 100%)"
   },
-  "trendNote": "March 2026 sees a revival of vibrant, futuristic aesthetics in tech and AI-themed designs, with glassmorphism dominating the UI landscape. Subtle gradients, glowing accents, and carefully tuned blurs create a sense of depth and sophistication while maintaining high usability and legibility in dark-mode interfaces."
+  "trendNote": "In March 2026, dark-mode tech interfaces embrace a futuristic glassmorphism aesthetic with luminous glows, vivid contrast, and dynamic gradients. Typography leans minimalist yet modern, combining bold headings with clean sans-serif fonts like Poppins for a professional feel. Seasonal influences are seen in the warming accent tones that add vibrancy to the otherwise cool palette."
 }
