@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-29",
+  "lastUpdated": "2026-03-30",
   "palette": {
-    "background": "#0a0b16",
-    "surface": "#16182a",
-    "surfaceAlt": "#1e2136",
-    "primary": "#5b80ff",
-    "primaryLight": "#7fa4ff",
-    "secondary": "#00c9a7",
-    "accent": "#ff6ec7",
-    "accentWarm": "#ff934f",
-    "text": "#e8ecf5",
-    "textMuted": "#a0a5b8",
-    "textSubtle": "#707487",
-    "border": "#2a2e44",
-    "glow": "rgba(91, 128, 255, 0.4)"
+    "background": "#0a0a14",
+    "surface": "#151529",
+    "surfaceAlt": "#1e1e3a",
+    "primary": "#5a2ee0",
+    "primaryLight": "#916eff",
+    "secondary": "#1fa2ff",
+    "accent": "#29e3c1",
+    "accentWarm": "#ff8c42",
+    "text": "#f5f7fa",
+    "textMuted": "#a1a6b8",
+    "textSubtle": "#707488",
+    "border": "#2d2d47",
+    "glow": "rgba(90, 46, 224, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5b80ff 0%, #00c9a7 50%, #ff6ec7 100%)",
-    "timeline": "linear-gradient(180deg, #16182a 0%, #1e2136 50%, #5b80ff 100%)",
-    "text": "linear-gradient(90deg, #ff934f 0%, #ff6ec7 50%, #7fa4ff 100%)"
+    "hero": "linear-gradient(135deg, #5a2ee0 0%, #1fa2ff 50%, #29e3c1 100%)",
+    "timeline": "linear-gradient(180deg, #151529 0%, #5a2ee0 50%, #29e3c1 100%)",
+    "text": "linear-gradient(90deg, #ff8c42 0%, #5a2ee0 50%, #1fa2ff 100%)"
   },
-  "trendNote": "In March 2026, AI-themed websites are embracing futuristic yet human-centric designs, combining vibrant neon accents with modern glassmorphism aesthetics. Typography prioritizes clarity and adaptability, complemented by soft glows and fluid, organic animations for an immersive experience."
+  "trendNote": "March 2026 sees technology websites embracing refined glassmorphism paired with bold and glowing accent colors for a futuristic aesthetic. Typography trends favor professional yet approachable fonts like Inter, with subtle animations and gradients adding warmth and depth to dark-mode interfaces."
 }
