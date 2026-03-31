@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-30",
+  "lastUpdated": "2026-03-31",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#151529",
+    "background": "#0a0a18",
+    "surface": "#161629",
     "surfaceAlt": "#1e1e3a",
-    "primary": "#5a2ee0",
-    "primaryLight": "#916eff",
-    "secondary": "#1fa2ff",
-    "accent": "#29e3c1",
-    "accentWarm": "#ff8c42",
-    "text": "#f5f7fa",
-    "textMuted": "#a1a6b8",
-    "textSubtle": "#707488",
-    "border": "#2d2d47",
-    "glow": "rgba(90, 46, 224, 0.6)"
+    "primary": "#6c5ce7",
+    "primaryLight": "#a29bfe",
+    "secondary": "#22a6b3",
+    "accent": "#fd79a8",
+    "accentWarm": "#fdcb6e",
+    "text": "#f3f4fa",
+    "textMuted": "#b2b3c5",
+    "textSubtle": "#8c8da1",
+    "border": "#2c2c42",
+    "glow": "rgba(108, 92, 231, 0.7)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "40px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a2ee0 0%, #1fa2ff 50%, #29e3c1 100%)",
-    "timeline": "linear-gradient(180deg, #151529 0%, #5a2ee0 50%, #29e3c1 100%)",
-    "text": "linear-gradient(90deg, #ff8c42 0%, #5a2ee0 50%, #1fa2ff 100%)"
+    "hero": "linear-gradient(135deg, #6c5ce7 0%, #22a6b3 50%, #fd79a8 100%)",
+    "timeline": "linear-gradient(180deg, #1e1e3a 0%, #6c5ce7 50%, #fdcb6e 100%)",
+    "text": "linear-gradient(90deg, #a29bfe 0%, #6c5ce7 50%, #fd79a8 100%)"
   },
-  "trendNote": "March 2026 sees technology websites embracing refined glassmorphism paired with bold and glowing accent colors for a futuristic aesthetic. Typography trends favor professional yet approachable fonts like Inter, with subtle animations and gradients adding warmth and depth to dark-mode interfaces."
+  "trendNote": "March 2026 sees a rise in glassmorphism paired with vivid, futuristic palettes. Dark-mode interfaces emphasize glowing accents and soft transparency, while animations are smooth yet deliberate, reflecting the precision and sophistication of AI-driven experiences."
 }
