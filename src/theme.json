@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-01",
+  "lastUpdated": "2026-04-02",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#161626",
-    "surfaceAlt": "#1e1e30",
-    "primary": "#5a79ff",
-    "primaryLight": "#8aa4ff",
-    "secondary": "#ff7f50",
-    "accent": "#0cebc9",
-    "accentWarm": "#f4c542",
-    "text": "#f8f9fc",
-    "textMuted": "#b0b3c1",
-    "textSubtle": "#8c8f99",
-    "border": "#383b4a",
-    "glow": "rgba(90, 121, 255, 0.5)"
+    "background": "#0b0d17",
+    "surface": "#181a27",
+    "surfaceAlt": "#232537",
+    "primary": "#7b61ff",
+    "primaryLight": "#9d85ff",
+    "secondary": "#34d399",
+    "accent": "#ff8e3c",
+    "accentWarm": "#ff5e63",
+    "text": "#e8eaf0",
+    "textMuted": "#b0b3c2",
+    "textSubtle": "#62677a",
+    "border": "#343849",
+    "glow": "rgba(123, 97, 255, 0.6)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Space Grotesk",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.3s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a79ff 0%, #0cebc9 50%, #ff7f50 100%)",
-    "timeline": "linear-gradient(180deg, #1e1e30 0%, #5a79ff 50%, #f4c542 100%)",
-    "text": "linear-gradient(90deg, #8aa4ff 0%, #f4c542 50%, #0cebc9 100%)"
+    "hero": "linear-gradient(135deg, #7b61ff 0%, #34d399 50%, #ff8e3c 100%)",
+    "timeline": "linear-gradient(180deg, #232537 0%, #7b61ff 50%, #ff8e3c 100%)",
+    "text": "linear-gradient(90deg, #7b61ff 0%, #34d399 50%, #ff8e3c 100%)"
   },
-  "trendNote": "April 2026 trends showcase a strong preference for vivid, futuristic aesthetics paired with soft glass-like textures in dark mode. Dynamic gradients and glowing accents evoke an AI-driven, high-tech feel, with animations providing a smooth, deliberate sense of motion."
+  "trendNote": "In April 2026, glassmorphism remains dominant for tech and AI websites, blending frosted surfaces with vivid, glowing accents. A focus on high contrast ensures readability, while gradients and glowing elements evoke futuristic, AI-inspired aesthetics."
 }
