@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-02",
+  "lastUpdated": "2026-04-03",
   "palette": {
-    "background": "#0b0d17",
-    "surface": "#181a27",
-    "surfaceAlt": "#232537",
-    "primary": "#7b61ff",
-    "primaryLight": "#9d85ff",
-    "secondary": "#34d399",
-    "accent": "#ff8e3c",
-    "accentWarm": "#ff5e63",
-    "text": "#e8eaf0",
-    "textMuted": "#b0b3c2",
-    "textSubtle": "#62677a",
-    "border": "#343849",
-    "glow": "rgba(123, 97, 255, 0.6)"
+    "background": "#0b0d18",
+    "surface": "#11131f",
+    "surfaceAlt": "#1b1e2b",
+    "primary": "#7f5fff",
+    "primaryLight": "#9a82ff",
+    "secondary": "#3dc6f3",
+    "accent": "#ff6f91",
+    "accentWarm": "#ffb074",
+    "text": "#e9ecf8",
+    "textMuted": "#a1a7c2",
+    "textSubtle": "#7c849c",
+    "border": "#25304a",
+    "glow": "rgba(127, 95, 255, 0.6)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "32px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.6s",
+    "glowRadius": "64px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #7b61ff 0%, #34d399 50%, #ff8e3c 100%)",
-    "timeline": "linear-gradient(180deg, #232537 0%, #7b61ff 50%, #ff8e3c 100%)",
-    "text": "linear-gradient(90deg, #7b61ff 0%, #34d399 50%, #ff8e3c 100%)"
+    "hero": "linear-gradient(135deg, #7f5fff 0%, #3dc6f3 50%, #ff6f91 100%)",
+    "timeline": "linear-gradient(180deg, #1b1e2b 0%, #7f5fff 50%, #3dc6f3 100%)",
+    "text": "linear-gradient(90deg, #ffb074 0%, #ff6f91 50%, #7f5fff 100%)"
   },
-  "trendNote": "In April 2026, glassmorphism remains dominant for tech and AI websites, blending frosted surfaces with vivid, glowing accents. A focus on high contrast ensures readability, while gradients and glowing elements evoke futuristic, AI-inspired aesthetics."
+  "trendNote": "In April 2026, dark-mode tech designs emphasize a vibrant yet harmonious palette, with vivid purples and warm accents creating a futuristic but inviting aesthetic. Glassmorphism remains dominant, complemented by soft blurs and glowing highlights that evoke clarity and innovation in AI-driven interfaces."
 }
