@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-03",
+  "lastUpdated": "2026-04-04",
   "palette": {
-    "background": "#0b0d18",
-    "surface": "#11131f",
-    "surfaceAlt": "#1b1e2b",
-    "primary": "#7f5fff",
-    "primaryLight": "#9a82ff",
-    "secondary": "#3dc6f3",
-    "accent": "#ff6f91",
-    "accentWarm": "#ffb074",
-    "text": "#e9ecf8",
-    "textMuted": "#a1a7c2",
-    "textSubtle": "#7c849c",
-    "border": "#25304a",
-    "glow": "rgba(127, 95, 255, 0.6)"
+    "background": "#0a0a14",
+    "surface": "#12121f",
+    "surfaceAlt": "#1c1c2b",
+    "primary": "#4aafff",
+    "primaryLight": "#82cbff",
+    "secondary": "#ff8b42",
+    "accent": "#7d5aff",
+    "accentWarm": "#ff6e6e",
+    "text": "#f1f4f9",
+    "textMuted": "#b8bcd1",
+    "textSubtle": "#8f94a8",
+    "border": "#292942",
+    "glow": "rgba(117, 191, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "32px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.6s",
-    "glowRadius": "64px"
+    "animationSpeed": "0.5s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #7f5fff 0%, #3dc6f3 50%, #ff6f91 100%)",
-    "timeline": "linear-gradient(180deg, #1b1e2b 0%, #7f5fff 50%, #3dc6f3 100%)",
-    "text": "linear-gradient(90deg, #ffb074 0%, #ff6f91 50%, #7f5fff 100%)"
+    "hero": "linear-gradient(135deg, #4aafff 0%, #7d5aff 50%, #ff8b42 100%)",
+    "timeline": "linear-gradient(180deg, #1c1c2b 0%, #4aafff 50%, #ff6e6e 100%)",
+    "text": "linear-gradient(90deg, #4aafff 0%, #82cbff 50%, #ff8b42 100%)"
   },
-  "trendNote": "In April 2026, dark-mode tech designs emphasize a vibrant yet harmonious palette, with vivid purples and warm accents creating a futuristic but inviting aesthetic. Glassmorphism remains dominant, complemented by soft blurs and glowing highlights that evoke clarity and innovation in AI-driven interfaces."
+  "trendNote": "In April 2026, dark-mode tech interfaces feature bold contrasts and vivid gradients, combining cool tones like electric blue with warm accents like coral. Glassmorphism remains dominant with blurred surfaces and subtle glows, reflecting the futuristic and AI-driven aesthetic popular this year."
 }
