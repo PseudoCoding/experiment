@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-04",
+  "lastUpdated": "2026-04-05",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#12121f",
-    "surfaceAlt": "#1c1c2b",
-    "primary": "#4aafff",
-    "primaryLight": "#82cbff",
-    "secondary": "#ff8b42",
-    "accent": "#7d5aff",
-    "accentWarm": "#ff6e6e",
-    "text": "#f1f4f9",
-    "textMuted": "#b8bcd1",
-    "textSubtle": "#8f94a8",
-    "border": "#292942",
-    "glow": "rgba(117, 191, 255, 0.6)"
+    "background": "#0a0b18",
+    "surface": "#141629",
+    "surfaceAlt": "#1c1f33",
+    "primary": "#5372ff",
+    "primaryLight": "#8a9eff",
+    "secondary": "#00d4a5",
+    "accent": "#ff6af1",
+    "accentWarm": "#ff9e50",
+    "text": "#f1f4ff",
+    "textMuted": "#a8b0d6",
+    "textSubtle": "#5f678d",
+    "border": "#2a2e4a",
+    "glow": "rgba(83, 114, 255, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4aafff 0%, #7d5aff 50%, #ff8b42 100%)",
-    "timeline": "linear-gradient(180deg, #1c1c2b 0%, #4aafff 50%, #ff6e6e 100%)",
-    "text": "linear-gradient(90deg, #4aafff 0%, #82cbff 50%, #ff8b42 100%)"
+    "hero": "linear-gradient(135deg, #5372ff 0%, #ff6af1 50%, #00d4a5 100%)",
+    "timeline": "linear-gradient(180deg, #5372ff 0%, #8a9eff 50%, #00d4a5 100%)",
+    "text": "linear-gradient(90deg, #ff6af1 0%, #5372ff 50%, #00d4a5 100%)"
   },
-  "trendNote": "In April 2026, dark-mode tech interfaces feature bold contrasts and vivid gradients, combining cool tones like electric blue with warm accents like coral. Glassmorphism remains dominant with blurred surfaces and subtle glows, reflecting the futuristic and AI-driven aesthetic popular this year."
+  "trendNote": "April 2026 showcases a refined approach to dark mode design with vibrant, futuristic palettes and glassmorphism dominating tech UIs. Dynamic gradients and glowing effects add a sense of depth and innovation, while typography choices lean toward geometric sans-serif fonts with clean weight contrasts to balance modernity and readability."
 }
