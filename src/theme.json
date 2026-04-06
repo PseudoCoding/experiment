@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-05",
+  "lastUpdated": "2026-04-06",
   "palette": {
-    "background": "#0a0b18",
-    "surface": "#141629",
-    "surfaceAlt": "#1c1f33",
-    "primary": "#5372ff",
-    "primaryLight": "#8a9eff",
-    "secondary": "#00d4a5",
-    "accent": "#ff6af1",
-    "accentWarm": "#ff9e50",
-    "text": "#f1f4ff",
-    "textMuted": "#a8b0d6",
-    "textSubtle": "#5f678d",
-    "border": "#2a2e4a",
-    "glow": "rgba(83, 114, 255, 0.5)"
+    "background": "#0a0b10",
+    "surface": "#13151f",
+    "surfaceAlt": "#1c1f2b",
+    "primary": "#5e8bff",
+    "primaryLight": "#8daaff",
+    "secondary": "#ff5c7a",
+    "accent": "#4de6b2",
+    "accentWarm": "#ff9e57",
+    "text": "#f2f5ff",
+    "textMuted": "#c2c6d6",
+    "textSubtle": "#a0a4b8",
+    "border": "#2b2e3c",
+    "glow": "rgba(94, 139, 255, 0.4)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Outfit",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "glowRadius": "80px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5372ff 0%, #ff6af1 50%, #00d4a5 100%)",
-    "timeline": "linear-gradient(180deg, #5372ff 0%, #8a9eff 50%, #00d4a5 100%)",
-    "text": "linear-gradient(90deg, #ff6af1 0%, #5372ff 50%, #00d4a5 100%)"
+    "hero": "linear-gradient(135deg, #5e8bff 0%, #4de6b2 50%, #ff9e57 100%)",
+    "timeline": "linear-gradient(180deg, #13151f 0%, #5e8bff 50%, #ff9e57 100%)",
+    "text": "linear-gradient(90deg, #5e8bff 0%, #4de6b2 50%, #ff5c7a 100%)"
   },
-  "trendNote": "April 2026 showcases a refined approach to dark mode design with vibrant, futuristic palettes and glassmorphism dominating tech UIs. Dynamic gradients and glowing effects add a sense of depth and innovation, while typography choices lean toward geometric sans-serif fonts with clean weight contrasts to balance modernity and readability."
+  "trendNote": "In April 2026, AI-themed websites are embracing a luminous, futuristic dark-mode design with a glassmorphism aesthetic, featuring vibrant gradients and soft glows. Typography trends focus on geometric sans-serif fonts like 'Outfit,' with animations that are smooth yet deliberate, evoking a sense of precision and innovation."
 }
