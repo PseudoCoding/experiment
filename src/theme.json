@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-10",
   "palette": {
-    "background": "#0a0c1a",
-    "surface": "#111322",
-    "surfaceAlt": "#1a1d2f",
-    "primary": "#5a86ff",
-    "primaryLight": "#a5bcff",
-    "secondary": "#ff678e",
-    "accent": "#25f4a5",
-    "accentWarm": "#ffba67",
-    "text": "#f4f5fa",
-    "textMuted": "#b0b4c3",
-    "textSubtle": "#7a7e91",
-    "border": "#27293d",
-    "glow": "rgba(90, 134, 255, 0.5)"
+    "background": "#0a0a12",
+    "surface": "#12121c",
+    "surfaceAlt": "#1c1c2a",
+    "primary": "#5d81ff",
+    "primaryLight": "#8daaff",
+    "secondary": "#20c997",
+    "accent": "#ff6f91",
+    "accentWarm": "#ff9844",
+    "text": "#f8f9fc",
+    "textMuted": "#c4c6d6",
+    "textSubtle": "#9496a8",
+    "border": "#28283c",
+    "glow": "rgba(93, 129, 255, 0.8)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a86ff 0%, #25f4a5 50%, #ff678e 100%)",
-    "timeline": "linear-gradient(180deg, #111322 0%, #5a86ff 50%, #25f4a5 100%)",
-    "text": "linear-gradient(90deg, #5a86ff 0%, #25f4a5 50%, #ff678e 100%)"
+    "hero": "linear-gradient(135deg, #5d81ff 0%, #20c997 50%, #ff6f91 100%)",
+    "timeline": "linear-gradient(180deg, #1c1c2a 0%, #5d81ff 50%, #8daaff 100%)",
+    "text": "linear-gradient(90deg, #5d81ff 0%, #20c997 50%, #ff9844 100%)"
   },
-  "trendNote": "Dark-mode interfaces in April 2026 emphasize a sleek glassmorphism aesthetic with vivid accent colors against rich, dark backgrounds. Typography blends modern sans-serif fonts with elegant weight contrasts, while soft glows and medium-speed animations enhance interactivity. Seasonal hues like vibrant pinks and greens suggest renewal and energy."
+  "trendNote": "April 2026 brings a refined take on dark interfaces with glassmorphism at the forefront, offering depth and elegance. Bold, vivid accents like electric blue and warm coral complement professional fonts like Inter, while smooth animations and glowing highlights keep designs feeling advanced yet approachable."
 }
