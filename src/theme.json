@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-10",
+  "lastUpdated": "2026-04-11",
   "palette": {
-    "background": "#0a0a12",
-    "surface": "#12121c",
-    "surfaceAlt": "#1c1c2a",
-    "primary": "#5d81ff",
-    "primaryLight": "#8daaff",
-    "secondary": "#20c997",
-    "accent": "#ff6f91",
-    "accentWarm": "#ff9844",
-    "text": "#f8f9fc",
-    "textMuted": "#c4c6d6",
-    "textSubtle": "#9496a8",
-    "border": "#28283c",
-    "glow": "rgba(93, 129, 255, 0.8)"
+    "background": "#0a0a14",
+    "surface": "#13131f",
+    "surfaceAlt": "#1d1d2b",
+    "primary": "#5c6cff",
+    "primaryLight": "#8a95ff",
+    "secondary": "#24c6db",
+    "accent": "#ff5fae",
+    "accentWarm": "#ff825f",
+    "text": "#f3f4fa",
+    "textMuted": "#a5a8b5",
+    "textSubtle": "#727688",
+    "border": "#2a2a3d",
+    "glow": "rgba(92, 108, 255, 0.4)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Space Grotesk",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.3s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5d81ff 0%, #20c997 50%, #ff6f91 100%)",
-    "timeline": "linear-gradient(180deg, #1c1c2a 0%, #5d81ff 50%, #8daaff 100%)",
-    "text": "linear-gradient(90deg, #5d81ff 0%, #20c997 50%, #ff9844 100%)"
+    "hero": "linear-gradient(135deg, #5c6cff 0%, #24c6db 50%, #ff5fae 100%)",
+    "timeline": "linear-gradient(180deg, #13131f 0%, #5c6cff 50%, #24c6db 100%)",
+    "text": "linear-gradient(90deg, #5c6cff 0%, #24c6db 50%, #ff825f 100%)"
   },
-  "trendNote": "April 2026 brings a refined take on dark interfaces with glassmorphism at the forefront, offering depth and elegance. Bold, vivid accents like electric blue and warm coral complement professional fonts like Inter, while smooth animations and glowing highlights keep designs feeling advanced yet approachable."
+  "trendNote": "In April 2026, dark-mode tech interfaces prominently feature vivid neon accents against muted dark blues and purples. Glassmorphism has made a resurgence with frosted surfaces, soft glows, and immersive gradients—perfect for showcasing AI-driven designs with a futuristic yet approachable feel."
 }
