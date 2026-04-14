@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-13",
+  "lastUpdated": "2026-04-14",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#141425",
-    "surfaceAlt": "#1c1c30",
-    "primary": "#4d5fff",
-    "primaryLight": "#8796ff",
-    "secondary": "#ff5a5f",
-    "accent": "#49f5cb",
+    "background": "#0a0b16",
+    "surface": "#16182b",
+    "surfaceAlt": "#1e2038",
+    "primary": "#ff6bcb",
+    "primaryLight": "#ff98e0",
+    "secondary": "#3e8cff",
+    "accent": "#00e5a8",
     "accentWarm": "#ffb347",
     "text": "#f8f9fc",
-    "textMuted": "#b3b4c4",
-    "textSubtle": "#8c8ea0",
-    "border": "#2c2c3f",
-    "glow": "rgba(77, 95, 255, 0.6)"
+    "textMuted": "#a3a6b8",
+    "textSubtle": "#6c6f85",
+    "border": "#24273e",
+    "glow": "rgba(255, 107, 203, 0.5)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Space Grotesk",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4d5fff 0%, #49f5cb 50%, #ff5a5f 100%)",
-    "timeline": "linear-gradient(180deg, #1c1c30 0%, #4d5fff 50%, #49f5cb 100%)",
-    "text": "linear-gradient(90deg, #4d5fff 0%, #ff5a5f 50%, #ffb347 100%)"
+    "hero": "linear-gradient(135deg, #ff6bcb 0%, #3e8cff 50%, #00e5a8 100%)",
+    "timeline": "linear-gradient(180deg, #ff6bcb 0%, #ffb347 50%, #3e8cff 100%)",
+    "text": "linear-gradient(90deg, #00e5a8 0%, #3e8cff 50%, #ff6bcb 100%)"
   },
-  "trendNote": "April 2026 sees a shift toward refined glassmorphism paired with vibrant accent colors, emphasizing a futuristic yet approachable feel for AI tech interfaces. Spring influences warm tones like #ffb347, adding seasonal vibrancy while maintaining the sleek professionalism expected in tech design."
+  "trendNote": "In April 2026, dark-mode tech websites are embracing vibrant neon tones paired with glassmorphism aesthetics. Layered surfaces with soft blurs and glowing accents create a sense of depth and futuristic sophistication, while high-contrast pastel gradients evoke energy and springtime renewal."
 }
