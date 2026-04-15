@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-04-15",
   "palette": {
-    "background": "#0a0b16",
-    "surface": "#16182b",
-    "surfaceAlt": "#1e2038",
-    "primary": "#ff6bcb",
-    "primaryLight": "#ff98e0",
-    "secondary": "#3e8cff",
-    "accent": "#00e5a8",
-    "accentWarm": "#ffb347",
-    "text": "#f8f9fc",
-    "textMuted": "#a3a6b8",
-    "textSubtle": "#6c6f85",
-    "border": "#24273e",
-    "glow": "rgba(255, 107, 203, 0.5)"
+    "background": "#0a0a14",
+    "surface": "#13131f",
+    "surfaceAlt": "#1c1c2a",
+    "primary": "#4e8cff",
+    "primaryLight": "#87aaff",
+    "secondary": "#a05bff",
+    "accent": "#ff7f50",
+    "accentWarm": "#ffae42",
+    "text": "#f1f4fa",
+    "textMuted": "#b7bdca",
+    "textSubtle": "#8b92a3",
+    "border": "#2a2a3c",
+    "glow": "rgba(78, 140, 255, 0.6)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #ff6bcb 0%, #3e8cff 50%, #00e5a8 100%)",
-    "timeline": "linear-gradient(180deg, #ff6bcb 0%, #ffb347 50%, #3e8cff 100%)",
-    "text": "linear-gradient(90deg, #00e5a8 0%, #3e8cff 50%, #ff6bcb 100%)"
+    "hero": "linear-gradient(135deg, #4e8cff 0%, #a05bff 50%, #ff7f50 100%)",
+    "timeline": "linear-gradient(180deg, #13131f 0%, #4e8cff 50%, #ffae42 100%)",
+    "text": "linear-gradient(90deg, #4e8cff 0%, #a05bff 50%, #ff7f50 100%)"
   },
-  "trendNote": "In April 2026, dark-mode tech websites are embracing vibrant neon tones paired with glassmorphism aesthetics. Layered surfaces with soft blurs and glowing accents create a sense of depth and futuristic sophistication, while high-contrast pastel gradients evoke energy and springtime renewal."
+  "trendNote": "In April 2026, glassmorphism continues to dominate tech and AI-themed designs, offering a futuristic, ethereal feel. Designs blend vibrant neon accents with soft frosted surfaces, while gradients and glow effects emphasize interactivity and fluid motion. Seasonal warmth is subtly present in accents and gradients, adding a fresh vitality to the visual language."
 }
