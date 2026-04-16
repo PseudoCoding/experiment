@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-15",
+  "lastUpdated": "2026-04-16",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#13131f",
-    "surfaceAlt": "#1c1c2a",
-    "primary": "#4e8cff",
-    "primaryLight": "#87aaff",
-    "secondary": "#a05bff",
-    "accent": "#ff7f50",
-    "accentWarm": "#ffae42",
-    "text": "#f1f4fa",
-    "textMuted": "#b7bdca",
-    "textSubtle": "#8b92a3",
-    "border": "#2a2a3c",
-    "glow": "rgba(78, 140, 255, 0.6)"
+    "background": "#0a0b12",
+    "surface": "#12131c",
+    "surfaceAlt": "#1a1c26",
+    "primary": "#5a8dee",
+    "primaryLight": "#8bb5f9",
+    "secondary": "#ef6eb6",
+    "accent": "#53e5c7",
+    "accentWarm": "#f5a45d",
+    "text": "#f0f3f9",
+    "textMuted": "#a5a9b8",
+    "textSubtle": "#868a9d",
+    "border": "#283046",
+    "glow": "rgba(90, 141, 238, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "32px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e8cff 0%, #a05bff 50%, #ff7f50 100%)",
-    "timeline": "linear-gradient(180deg, #13131f 0%, #4e8cff 50%, #ffae42 100%)",
-    "text": "linear-gradient(90deg, #4e8cff 0%, #a05bff 50%, #ff7f50 100%)"
+    "hero": "linear-gradient(135deg, #5a8dee 0%, #ef6eb6 50%, #53e5c7 100%)",
+    "timeline": "linear-gradient(180deg, #12131c 0%, #5a8dee 50%, #ef6eb6 100%)",
+    "text": "linear-gradient(90deg, #5a8dee 0%, #53e5c7 50%, #f5a45d 100%)"
   },
-  "trendNote": "In April 2026, glassmorphism continues to dominate tech and AI-themed designs, offering a futuristic, ethereal feel. Designs blend vibrant neon accents with soft frosted surfaces, while gradients and glow effects emphasize interactivity and fluid motion. Seasonal warmth is subtly present in accents and gradients, adding a fresh vitality to the visual language."
+  "trendNote": "In April 2026, AI-themed websites focus on vibrant contrasts within dark-mode interfaces, leveraging glassmorphism for modernity and depth. Subtle animations with glowing accents and fluid gradients highlight innovation while maintaining professionalism."
 }
