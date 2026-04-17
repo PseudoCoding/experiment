@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-16",
+  "lastUpdated": "2026-04-17",
   "palette": {
     "background": "#0a0b12",
-    "surface": "#12131c",
-    "surfaceAlt": "#1a1c26",
-    "primary": "#5a8dee",
-    "primaryLight": "#8bb5f9",
-    "secondary": "#ef6eb6",
-    "accent": "#53e5c7",
-    "accentWarm": "#f5a45d",
-    "text": "#f0f3f9",
-    "textMuted": "#a5a9b8",
-    "textSubtle": "#868a9d",
-    "border": "#283046",
-    "glow": "rgba(90, 141, 238, 0.4)"
+    "surface": "#151a27",
+    "surfaceAlt": "#1e2334",
+    "primary": "#6247ff",
+    "primaryLight": "#917aff",
+    "secondary": "#19fa8f",
+    "accent": "#ff497a",
+    "accentWarm": "#ffa14a",
+    "text": "#f4f5fa",
+    "textMuted": "#c2c6d6",
+    "textSubtle": "#8c92a3",
+    "border": "#2a2f42",
+    "glow": "rgba(98, 71, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "32px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a8dee 0%, #ef6eb6 50%, #53e5c7 100%)",
-    "timeline": "linear-gradient(180deg, #12131c 0%, #5a8dee 50%, #ef6eb6 100%)",
-    "text": "linear-gradient(90deg, #5a8dee 0%, #53e5c7 50%, #f5a45d 100%)"
+    "hero": "linear-gradient(135deg, #6247ff 0%, #19fa8f 50%, #ff497a 100%)",
+    "timeline": "linear-gradient(180deg, #151a27 0%, #6247ff 50%, #19fa8f 100%)",
+    "text": "linear-gradient(90deg, #6247ff 0%, #19fa8f 50%, #ff497a 100%)"
   },
-  "trendNote": "In April 2026, AI-themed websites focus on vibrant contrasts within dark-mode interfaces, leveraging glassmorphism for modernity and depth. Subtle animations with glowing accents and fluid gradients highlight innovation while maintaining professionalism."
+  "trendNote": "April 2026 sees a strong embrace of glassmorphism with vivid, futuristic color palettes. Designers are pairing deep, moody backgrounds with bold neon accents to emphasize technology and AI themes, while maintaining a professional, polished feel. Organic gradients and soft-glow effects dominate hero sections and interactive elements."
 }
