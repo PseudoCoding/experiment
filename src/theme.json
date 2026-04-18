@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-17",
+  "lastUpdated": "2026-04-18",
   "palette": {
-    "background": "#0a0b12",
-    "surface": "#151a27",
-    "surfaceAlt": "#1e2334",
-    "primary": "#6247ff",
-    "primaryLight": "#917aff",
-    "secondary": "#19fa8f",
-    "accent": "#ff497a",
-    "accentWarm": "#ffa14a",
-    "text": "#f4f5fa",
-    "textMuted": "#c2c6d6",
-    "textSubtle": "#8c92a3",
-    "border": "#2a2f42",
-    "glow": "rgba(98, 71, 255, 0.6)"
+    "background": "#0a0a12",
+    "surface": "#151522",
+    "surfaceAlt": "#1f1f33",
+    "primary": "#5c83ff",
+    "primaryLight": "#a0b8ff",
+    "secondary": "#ff6bcb",
+    "accent": "#00d4a0",
+    "accentWarm": "#f6a500",
+    "text": "#f1f3fa",
+    "textMuted": "#b3b7c9",
+    "textSubtle": "#8a8ea3",
+    "border": "#24243a",
+    "glow": "rgba(92, 131, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "32px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #6247ff 0%, #19fa8f 50%, #ff497a 100%)",
-    "timeline": "linear-gradient(180deg, #151a27 0%, #6247ff 50%, #19fa8f 100%)",
-    "text": "linear-gradient(90deg, #6247ff 0%, #19fa8f 50%, #ff497a 100%)"
+    "hero": "linear-gradient(135deg, #5c83ff 0%, #ff6bcb 50%, #00d4a0 100%)",
+    "timeline": "linear-gradient(180deg, #151522 0%, #5c83ff 50%, #1f1f33 100%)",
+    "text": "linear-gradient(90deg, #5c83ff 0%, #ff6bcb 50%, #f6a500 100%)"
   },
-  "trendNote": "April 2026 sees a strong embrace of glassmorphism with vivid, futuristic color palettes. Designers are pairing deep, moody backgrounds with bold neon accents to emphasize technology and AI themes, while maintaining a professional, polished feel. Organic gradients and soft-glow effects dominate hero sections and interactive elements."
+  "trendNote": "In April 2026, AI-themed designs emphasize dynamic energy with vivid gradients and glowing accents, while glassmorphism continues to dominate for its futuristic yet soft aesthetic. Typography is clean and modern, with subtle animations adding sophistication without distracting from content."
 }
