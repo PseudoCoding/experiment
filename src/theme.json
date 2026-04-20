@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-19",
+  "lastUpdated": "2026-04-20",
   "palette": {
-    "background": "#0a0b12",
-    "surface": "#141622",
-    "surfaceAlt": "#1e2130",
-    "primary": "#5d5efc",
-    "primaryLight": "#9193ff",
-    "secondary": "#14c3b6",
-    "accent": "#ff7e79",
-    "accentWarm": "#ffb347",
-    "text": "#f4f5fa",
-    "textMuted": "#a2a4b2",
-    "textSubtle": "#6d6f83",
-    "border": "#2a2e3e",
-    "glow": "rgba(93, 94, 252, 0.5)"
+    "background": "#0a0c14",
+    "surface": "#151a28",
+    "surfaceAlt": "#1e2435",
+    "primary": "#4e91f9",
+    "primaryLight": "#82b9ff",
+    "secondary": "#f76d82",
+    "accent": "#7cf9cd",
+    "accentWarm": "#f9a84e",
+    "text": "#f5f7fc",
+    "textMuted": "#b3b8c7",
+    "textSubtle": "#8a90a3",
+    "border": "#313748",
+    "glow": "rgba(78, 145, 249, 0.4)"
   },
   "typography": {
-    "fontFamily": "Manrope",
+    "fontFamily": "Space Grotesk",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5d5efc 0%, #14c3b6 50%, #ff7e79 100%)",
-    "timeline": "linear-gradient(180deg, #1e2130 0%, #5d5efc 50%, #14c3b6 100%)",
-    "text": "linear-gradient(90deg, #5d5efc 0%, #14c3b6 50%, #ffb347 100%)"
+    "hero": "linear-gradient(135deg, #4e91f9 0%, #7cf9cd 50%, #f76d82 100%)",
+    "timeline": "linear-gradient(180deg, #151a28 0%, #4e91f9 50%, #f9a84e 100%)",
+    "text": "linear-gradient(90deg, #4e91f9 0%, #82b9ff 50%, #7cf9cd 100%)"
   },
-  "trendNote": "In April 2026, tech and AI-themed designs are embracing a refined glassmorphism aesthetic with vibrant neon hues and soft blurred surfaces. There's a strong emphasis on dynamic gradients and glowing accents, paired with clean and modern typography like Manrope for a futuristic yet approachable feel."
+  "trendNote": "In April 2026, technology and AI-themed websites embrace futuristic glassmorphism with glowing accents and blurred layers, evoking a high-tech yet approachable aesthetic. Vivid, cool-toned primaries like electric blues and teals dominate, complemented by warm accents for contrast, while smooth typography and subtle micro-interactions maintain a professional yet fresh feel."
 }
