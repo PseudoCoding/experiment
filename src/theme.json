@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-20",
+  "lastUpdated": "2026-04-21",
   "palette": {
-    "background": "#0a0c14",
-    "surface": "#151a28",
-    "surfaceAlt": "#1e2435",
-    "primary": "#4e91f9",
-    "primaryLight": "#82b9ff",
-    "secondary": "#f76d82",
-    "accent": "#7cf9cd",
-    "accentWarm": "#f9a84e",
-    "text": "#f5f7fc",
-    "textMuted": "#b3b8c7",
-    "textSubtle": "#8a90a3",
-    "border": "#313748",
-    "glow": "rgba(78, 145, 249, 0.4)"
+    "background": "#0a0d14",
+    "surface": "#121826",
+    "surfaceAlt": "#1a2233",
+    "primary": "#4b9fff",
+    "primaryLight": "#80b8ff",
+    "secondary": "#ff6b6b",
+    "accent": "#72f5a6",
+    "accentWarm": "#ffb347",
+    "text": "#e8eaf0",
+    "textMuted": "#a3aab5",
+    "textSubtle": "#7f8694",
+    "border": "#2a3342",
+    "glow": "rgba(75, 159, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Space Grotesk",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e91f9 0%, #7cf9cd 50%, #f76d82 100%)",
-    "timeline": "linear-gradient(180deg, #151a28 0%, #4e91f9 50%, #f9a84e 100%)",
-    "text": "linear-gradient(90deg, #4e91f9 0%, #82b9ff 50%, #7cf9cd 100%)"
+    "hero": "linear-gradient(135deg, #4b9fff 0%, #72f5a6 50%, #ffb347 100%)",
+    "timeline": "linear-gradient(180deg, #121826 0%, #1a2233 50%, #4b9fff 100%)",
+    "text": "linear-gradient(90deg, #4b9fff 0%, #72f5a6 50%, #ff6b6b 100%)"
   },
-  "trendNote": "In April 2026, technology and AI-themed websites embrace futuristic glassmorphism with glowing accents and blurred layers, evoking a high-tech yet approachable aesthetic. Vivid, cool-toned primaries like electric blues and teals dominate, complemented by warm accents for contrast, while smooth typography and subtle micro-interactions maintain a professional yet fresh feel."
+  "trendNote": "April 2026 sees glassmorphism paired with glowing accents as the dominant trend in tech and AI-themed interfaces, combining futuristic translucency with vibrant neons. Typography emphasizes clean readability with geometric sans-serif fonts like Space Grotesk, while animations are smooth and deliberate, evoking a sense of calm while maintaining a high-tech aesthetic."
 }
