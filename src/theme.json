@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-21",
+  "lastUpdated": "2026-04-22",
   "palette": {
-    "background": "#0a0d14",
-    "surface": "#121826",
-    "surfaceAlt": "#1a2233",
-    "primary": "#4b9fff",
-    "primaryLight": "#80b8ff",
-    "secondary": "#ff6b6b",
-    "accent": "#72f5a6",
-    "accentWarm": "#ffb347",
-    "text": "#e8eaf0",
-    "textMuted": "#a3aab5",
-    "textSubtle": "#7f8694",
-    "border": "#2a3342",
-    "glow": "rgba(75, 159, 255, 0.4)"
+    "background": "#0b0c14",
+    "surface": "#14161f",
+    "surfaceAlt": "#1c1e28",
+    "primary": "#4c7cff",
+    "primaryLight": "#87aaff",
+    "secondary": "#ff6fd8",
+    "accent": "#20e3b2",
+    "accentWarm": "#ffaf5f",
+    "text": "#f4f5fc",
+    "textMuted": "#c2c4d6",
+    "textSubtle": "#8a8ca1",
+    "border": "#2d2f3e",
+    "glow": "rgba(76, 124, 255, 0.5)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4b9fff 0%, #72f5a6 50%, #ffb347 100%)",
-    "timeline": "linear-gradient(180deg, #121826 0%, #1a2233 50%, #4b9fff 100%)",
-    "text": "linear-gradient(90deg, #4b9fff 0%, #72f5a6 50%, #ff6b6b 100%)"
+    "hero": "linear-gradient(135deg, #4c7cff 0%, #20e3b2 50%, #ff6fd8 100%)",
+    "timeline": "linear-gradient(180deg, #1c1e28 0%, #4c7cff 50%, #14161f 100%)",
+    "text": "linear-gradient(90deg, #4c7cff 0%, #ff6fd8 50%, #20e3b2 100%)"
   },
-  "trendNote": "April 2026 sees glassmorphism paired with glowing accents as the dominant trend in tech and AI-themed interfaces, combining futuristic translucency with vibrant neons. Typography emphasizes clean readability with geometric sans-serif fonts like Space Grotesk, while animations are smooth and deliberate, evoking a sense of calm while maintaining a high-tech aesthetic."
+  "trendNote": "In April 2026, tech and AI-themed websites emphasize vivid, high-contrast color palettes with neon accents and soft glows. Glassmorphism remains dominant, offering a futuristic yet approachable aesthetic, while animations focus on smooth, deliberate transitions for a polished user experience."
 }
