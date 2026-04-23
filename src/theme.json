@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-22",
+  "lastUpdated": "2026-04-23",
   "palette": {
-    "background": "#0b0c14",
-    "surface": "#14161f",
-    "surfaceAlt": "#1c1e28",
-    "primary": "#4c7cff",
-    "primaryLight": "#87aaff",
-    "secondary": "#ff6fd8",
-    "accent": "#20e3b2",
-    "accentWarm": "#ffaf5f",
-    "text": "#f4f5fc",
-    "textMuted": "#c2c4d6",
-    "textSubtle": "#8a8ca1",
-    "border": "#2d2f3e",
-    "glow": "rgba(76, 124, 255, 0.5)"
+    "background": "#0a0a14",
+    "surface": "#161625",
+    "surfaceAlt": "#1e1e33",
+    "primary": "#5f7afe",
+    "primaryLight": "#8fa6ff",
+    "secondary": "#ff6ad5",
+    "accent": "#80ffdb",
+    "accentWarm": "#ffaa64",
+    "text": "#f1f3f8",
+    "textMuted": "#c7cad6",
+    "textSubtle": "#9a9db0",
+    "border": "#303041",
+    "glow": "rgba(95, 122, 254, 0.7)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4c7cff 0%, #20e3b2 50%, #ff6fd8 100%)",
-    "timeline": "linear-gradient(180deg, #1c1e28 0%, #4c7cff 50%, #14161f 100%)",
-    "text": "linear-gradient(90deg, #4c7cff 0%, #ff6fd8 50%, #20e3b2 100%)"
+    "hero": "linear-gradient(135deg, #5f7afe 0%, #ff6ad5 50%, #80ffdb 100%)",
+    "timeline": "linear-gradient(180deg, #161625 0%, #1e1e33 50%, #303041 100%)",
+    "text": "linear-gradient(90deg, #5f7afe 0%, #ffaa64 50%, #80ffdb 100%)"
   },
-  "trendNote": "In April 2026, tech and AI-themed websites emphasize vivid, high-contrast color palettes with neon accents and soft glows. Glassmorphism remains dominant, offering a futuristic yet approachable aesthetic, while animations focus on smooth, deliberate transitions for a polished user experience."
+  "trendNote": "In April 2026, dark-mode tech interfaces embrace a futuristic look with glassmorphism featuring prominent glow effects and smooth animations. Designers are gravitating toward vibrant, contrasting colors like neon blues and pinks paired with muted surfaces, creating a stark yet harmonious aesthetic that feels fresh and innovative."
 }
