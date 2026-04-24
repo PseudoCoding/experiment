@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-23",
+  "lastUpdated": "2026-04-24",
   "palette": {
     "background": "#0a0a14",
-    "surface": "#161625",
-    "surfaceAlt": "#1e1e33",
-    "primary": "#5f7afe",
-    "primaryLight": "#8fa6ff",
-    "secondary": "#ff6ad5",
-    "accent": "#80ffdb",
-    "accentWarm": "#ffaa64",
-    "text": "#f1f3f8",
-    "textMuted": "#c7cad6",
-    "textSubtle": "#9a9db0",
-    "border": "#303041",
-    "glow": "rgba(95, 122, 254, 0.7)"
+    "surface": "#121222",
+    "surfaceAlt": "#1b1b2e",
+    "primary": "#5a67ff",
+    "primaryLight": "#8a95ff",
+    "secondary": "#ff6bcb",
+    "accent": "#20c997",
+    "accentWarm": "#ffb84c",
+    "text": "#f3f4fc",
+    "textMuted": "#c1c3d1",
+    "textSubtle": "#8a8da0",
+    "border": "#2f3145",
+    "glow": "rgba(90, 103, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5f7afe 0%, #ff6ad5 50%, #80ffdb 100%)",
-    "timeline": "linear-gradient(180deg, #161625 0%, #1e1e33 50%, #303041 100%)",
-    "text": "linear-gradient(90deg, #5f7afe 0%, #ffaa64 50%, #80ffdb 100%)"
+    "hero": "linear-gradient(135deg, #5a67ff 0%, #ff6bcb 50%, #20c997 100%)",
+    "timeline": "linear-gradient(180deg, #121222 0%, #5a67ff 50%, #8a95ff 100%)",
+    "text": "linear-gradient(90deg, #ff6bcb 0%, #20c997 50%, #ffb84c 100%)"
   },
-  "trendNote": "In April 2026, dark-mode tech interfaces embrace a futuristic look with glassmorphism featuring prominent glow effects and smooth animations. Designers are gravitating toward vibrant, contrasting colors like neon blues and pinks paired with muted surfaces, creating a stark yet harmonious aesthetic that feels fresh and innovative."
+  "trendNote": "In April 2026, AI-themed websites embrace a refined glassmorphism aesthetic, combining vibrant neon accents with soft frosted surfaces. Typography is clean and geometric, while animations feature smooth, deliberate transitions to highlight sophistication and professionalism in the tech domain."
 }
