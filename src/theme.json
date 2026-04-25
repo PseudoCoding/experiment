@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-24",
+  "lastUpdated": "2026-04-25",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#121222",
-    "surfaceAlt": "#1b1b2e",
-    "primary": "#5a67ff",
-    "primaryLight": "#8a95ff",
-    "secondary": "#ff6bcb",
-    "accent": "#20c997",
-    "accentWarm": "#ffb84c",
-    "text": "#f3f4fc",
-    "textMuted": "#c1c3d1",
-    "textSubtle": "#8a8da0",
-    "border": "#2f3145",
-    "glow": "rgba(90, 103, 255, 0.4)"
+    "background": "#0b0c1a",
+    "surface": "#141627",
+    "surfaceAlt": "#1f2138",
+    "primary": "#5ccfe6",
+    "primaryLight": "#a8efff",
+    "secondary": "#f78fb3",
+    "accent": "#ffba5a",
+    "accentWarm": "#ff7d57",
+    "text": "#f2f5fc",
+    "textMuted": "#b0b4c6",
+    "textSubtle": "#8d92a6",
+    "border": "#2a2f48",
+    "glow": "rgba(92, 207, 230, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "32px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a67ff 0%, #ff6bcb 50%, #20c997 100%)",
-    "timeline": "linear-gradient(180deg, #121222 0%, #5a67ff 50%, #8a95ff 100%)",
-    "text": "linear-gradient(90deg, #ff6bcb 0%, #20c997 50%, #ffb84c 100%)"
+    "hero": "linear-gradient(135deg, #5ccfe6 0%, #f78fb3 50%, #ffba5a 100%)",
+    "timeline": "linear-gradient(180deg, #141627 0%, #1f2138 50%, #5ccfe6 100%)",
+    "text": "linear-gradient(90deg, #5ccfe6 0%, #f78fb3 50%, #ffba5a 100%)"
   },
-  "trendNote": "In April 2026, AI-themed websites embrace a refined glassmorphism aesthetic, combining vibrant neon accents with soft frosted surfaces. Typography is clean and geometric, while animations feature smooth, deliberate transitions to highlight sophistication and professionalism in the tech domain."
+  "trendNote": "In April 2026, dark-mode interfaces are embracing vibrant neons and warm pastels against deep, moody backgrounds. Glassmorphism remains dominant, with frosted surfaces and glowing accents creating a futuristic, AI-driven ambiance. High-contrast typography paired with smooth micro-interactions ensures readability and an engaging user experience."
 }
