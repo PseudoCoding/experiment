@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-26",
+  "lastUpdated": "2026-04-27",
   "palette": {
-    "background": "#0a0d14",
-    "surface": "#141826",
-    "surfaceAlt": "#1e2538",
-    "primary": "#7c4dff",
-    "primaryLight": "#a985ff",
-    "secondary": "#00c6ff",
-    "accent": "#ff4081",
-    "accentWarm": "#ffa726",
-    "text": "#f5f7fa",
-    "textMuted": "#b0b4c2",
-    "textSubtle": "#8a90a6",
-    "border": "#2a3248",
-    "glow": "rgba(124, 77, 255, 0.5)"
+    "background": "#0b0d14",
+    "surface": "#151a26",
+    "surfaceAlt": "#1c2233",
+    "primary": "#4e8bff",
+    "primaryLight": "#a8c7ff",
+    "secondary": "#7effd6",
+    "accent": "#ff7fbf",
+    "accentWarm": "#ffb347",
+    "text": "#e9edf6",
+    "textMuted": "#a9b2c3",
+    "textSubtle": "#7a849b",
+    "border": "#2b3245",
+    "glow": "rgba(78, 139, 255, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #7c4dff 0%, #00c6ff 50%, #ffa726 100%)",
-    "timeline": "linear-gradient(180deg, #141826 0%, #7c4dff 50%, #00c6ff 100%)",
-    "text": "linear-gradient(90deg, #ff4081 0%, #a985ff 50%, #00c6ff 100%)"
+    "hero": "linear-gradient(135deg, #4e8bff 0%, #7effd6 50%, #ff7fbf 100%)",
+    "timeline": "linear-gradient(180deg, #4e8bff 0%, #7effd6 50%, #ffb347 100%)",
+    "text": "linear-gradient(90deg, #4e8bff 0%, #7effd6 50%, #ff7fbf 100%)"
   },
-  "trendNote": "April 2026 sees a resurgence of vibrant, glowing hues with glassmorphism leading the aesthetic charge. Designs emphasize depth and transparency, combined with soft gradients and glowing accents to evoke futuristic, AI-driven innovation. Professional typographic choices like Inter ensure readability while animations are smooth and deliberate, staying polished yet dynamic."
+  "trendNote": "In April 2026, the fusion of glassmorphism and vibrant neon color palettes is dominating tech and AI interfaces. Designers are leveraging elevated transparency effects with glowing accents to create a futuristic, immersive experience. Seasonal trends favor softer gradients paired with modern, professional typography to balance innovation with readability."
 }
