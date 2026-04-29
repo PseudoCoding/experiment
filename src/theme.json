@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-28",
+  "lastUpdated": "2026-04-29",
   "palette": {
-    "background": "#0a0b12",
-    "surface": "#151827",
-    "surfaceAlt": "#1c1f2f",
-    "primary": "#4f6dff",
-    "primaryLight": "#8fa8ff",
-    "secondary": "#ff6e6e",
-    "accent": "#00d1b2",
-    "accentWarm": "#ffbe64",
-    "text": "#f4f5fa",
-    "textMuted": "#b0b3c2",
-    "textSubtle": "#8a8c99",
-    "border": "#222539",
-    "glow": "rgba(79, 109, 255, 0.6)"
+    "background": "#0a0b1c",
+    "surface": "#15172b",
+    "surfaceAlt": "#1f2138",
+    "primary": "#4a6cf7",
+    "primaryLight": "#809bfd",
+    "secondary": "#00c9a7",
+    "accent": "#ff7c7c",
+    "accentWarm": "#fca652",
+    "text": "#f1f2f9",
+    "textMuted": "#a6a9b8",
+    "textSubtle": "#676b7e",
+    "border": "#2a2d48",
+    "glow": "rgba(74, 108, 247, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -23,16 +23,16 @@
   },
   "aesthetic": {
     "style": "glassmorphism",
-    "borderRadius": "18px",
-    "cardBlur": "25px",
+    "borderRadius": "16px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.3s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4f6dff 0%, #00d1b2 50%, #ffbe64 100%)",
-    "timeline": "linear-gradient(180deg, #151827 0%, #4f6dff 50%, #ff6e6e 100%)",
-    "text": "linear-gradient(90deg, #4f6dff 0%, #00d1b2 50%, #ff6e6e 100%)"
+    "hero": "linear-gradient(135deg, #4a6cf7 0%, #00c9a7 50%, #ff7c7c 100%)",
+    "timeline": "linear-gradient(180deg, #15172b 0%, #4a6cf7 50%, #fca652 100%)",
+    "text": "linear-gradient(90deg, #4a6cf7 0%, #00c9a7 50%, #f1f2f9 100%)"
   },
-  "trendNote": "In April 2026, dark interfaces embrace glassmorphism with vibrant glowing accents to evoke a futuristic, AI-driven aesthetic. Bright, saturated colors like cobalt blue, neon teal, and warm amber balance professionalism with energy, while smooth animations add a polished, approachable feel for tech audiences."
+  "trendNote": "In April 2026, tech and AI websites are leveraging glassmorphism with subtle card blurs and medium-intensity shadows, creating a clean yet futuristic aesthetic. Bright, high-energy gradients and vivid accent colors balance the dark, immersive backgrounds, reflecting the intersection of technology and human-centered design."
 }
