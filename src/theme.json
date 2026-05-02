@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-01",
+  "lastUpdated": "2026-05-02",
   "palette": {
-    "background": "#0a0c14",
-    "surface": "#141726",
-    "surfaceAlt": "#1d2133",
-    "primary": "#5f8cff",
-    "primaryLight": "#a8c8ff",
-    "secondary": "#ff6363",
-    "accent": "#56fca2",
-    "accentWarm": "#ffb74d",
-    "text": "#f3f4f9",
-    "textMuted": "#b1b4c2",
-    "textSubtle": "#8c8fa1",
-    "border": "#2d334a",
-    "glow": "rgba(95, 140, 255, 0.8)"
+    "background": "#0a0a13",
+    "surface": "#161622",
+    "surfaceAlt": "#242438",
+    "primary": "#4d5cff",
+    "primaryLight": "#727dff",
+    "secondary": "#ff5f5f",
+    "accent": "#5fffcc",
+    "accentWarm": "#ffa84d",
+    "text": "#f8f9fc",
+    "textMuted": "#a3a4b1",
+    "textSubtle": "#707283",
+    "border": "#363641",
+    "glow": "rgba(77, 92, 255, 0.8)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5f8cff 0%, #56fca2 50%, #ffb74d 100%)",
-    "timeline": "linear-gradient(180deg, #5f8cff 0%, #1d2133 50%, #ffb74d 100%)",
-    "text": "linear-gradient(90deg, #56fca2 0%, #5f8cff 50%, #ffb74d 100%)"
+    "hero": "linear-gradient(135deg, #4d5cff 0%, #5fffcc 50%, #ff5f5f 100%)",
+    "timeline": "linear-gradient(180deg, #242438 0%, #4d5cff 50%, #ffa84d 100%)",
+    "text": "linear-gradient(90deg, #5fffcc 0%, #4d5cff 50%, #ffa84d 100%)"
   },
-  "trendNote": "In May 2026, tech and AI-themed websites are embracing a sophisticated glassmorphism aesthetic combined with vibrant, optimistic gradients to signal innovation and energy. Typography balances bold sans-serif headings with clean, readable body text, while glowing accents add a sense of futurism and depth."
+  "trendNote": "May 2026 is ushering in highly futuristic and polished dark-mode designs that feature glassmorphism with vibrant gradients and glowing accents. Designers are leaning into vivid neon-inspired palettes to align with the cutting-edge innovations in AI and tech, while maintaining professionalism through clean typography and balanced animation speeds."
 }
