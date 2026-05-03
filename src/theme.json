@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-02",
+  "lastUpdated": "2026-05-03",
   "palette": {
-    "background": "#0a0a13",
-    "surface": "#161622",
-    "surfaceAlt": "#242438",
-    "primary": "#4d5cff",
-    "primaryLight": "#727dff",
-    "secondary": "#ff5f5f",
-    "accent": "#5fffcc",
-    "accentWarm": "#ffa84d",
-    "text": "#f8f9fc",
-    "textMuted": "#a3a4b1",
-    "textSubtle": "#707283",
-    "border": "#363641",
-    "glow": "rgba(77, 92, 255, 0.8)"
+    "background": "#0a0b12",
+    "surface": "#14151e",
+    "surfaceAlt": "#1e202a",
+    "primary": "#4e91f9",
+    "primaryLight": "#82aeff",
+    "secondary": "#ff6bcb",
+    "accent": "#24d2a1",
+    "accentWarm": "#ffb84d",
+    "text": "#f4f5fa",
+    "textMuted": "#c2c4d3",
+    "textSubtle": "#8f93a6",
+    "border": "#2a2d3e",
+    "glow": "rgba(78,145,249,0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -27,12 +27,12 @@
     "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4d5cff 0%, #5fffcc 50%, #ff5f5f 100%)",
-    "timeline": "linear-gradient(180deg, #242438 0%, #4d5cff 50%, #ffa84d 100%)",
-    "text": "linear-gradient(90deg, #5fffcc 0%, #4d5cff 50%, #ffa84d 100%)"
+    "hero": "linear-gradient(135deg, #4e91f9 0%, #ff6bcb 50%, #24d2a1 100%)",
+    "timeline": "linear-gradient(180deg, #14151e 0%, #4e91f9 50%, #ffb84d 100%)",
+    "text": "linear-gradient(90deg, #4e91f9 0%, #82aeff 50%, #ff6bcb 100%)"
   },
-  "trendNote": "May 2026 is ushering in highly futuristic and polished dark-mode designs that feature glassmorphism with vibrant gradients and glowing accents. Designers are leaning into vivid neon-inspired palettes to align with the cutting-edge innovations in AI and tech, while maintaining professionalism through clean typography and balanced animation speeds."
+  "trendNote": "In May 2026, the fusion of glassmorphism and vivid color gradients continues to dominate tech and AI-themed designs. Soft, blurred surfaces paired with glowing accents and dynamic animations create an advanced, futuristic aesthetic. Seasonal influences bring in warm tones like #ffb84d, balancing the otherwise cool palette with a touch of optimism."
 }
