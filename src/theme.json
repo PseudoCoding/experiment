@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-03",
+  "lastUpdated": "2026-05-04",
   "palette": {
-    "background": "#0a0b12",
-    "surface": "#14151e",
-    "surfaceAlt": "#1e202a",
-    "primary": "#4e91f9",
-    "primaryLight": "#82aeff",
-    "secondary": "#ff6bcb",
-    "accent": "#24d2a1",
-    "accentWarm": "#ffb84d",
-    "text": "#f4f5fa",
-    "textMuted": "#c2c4d3",
-    "textSubtle": "#8f93a6",
-    "border": "#2a2d3e",
-    "glow": "rgba(78,145,249,0.6)"
+    "background": "#050510",
+    "surface": "#101020",
+    "surfaceAlt": "#18182a",
+    "primary": "#7b61ff",
+    "primaryLight": "#9d85ff",
+    "secondary": "#5cf2d6",
+    "accent": "#ff5ca3",
+    "accentWarm": "#ffad61",
+    "text": "#f3f4fa",
+    "textMuted": "#b0b2c7",
+    "textSubtle": "#8a8ca3",
+    "border": "#2a2a3c",
+    "glow": "rgba(123, 97, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -27,12 +27,12 @@
     "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "40px"
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e91f9 0%, #ff6bcb 50%, #24d2a1 100%)",
-    "timeline": "linear-gradient(180deg, #14151e 0%, #4e91f9 50%, #ffb84d 100%)",
-    "text": "linear-gradient(90deg, #4e91f9 0%, #82aeff 50%, #ff6bcb 100%)"
+    "hero": "linear-gradient(135deg, #7b61ff 0%, #5cf2d6 50%, #ff5ca3 100%)",
+    "timeline": "linear-gradient(180deg, #101020 0%, #18182a 50%, #7b61ff 100%)",
+    "text": "linear-gradient(90deg, #ff5ca3 0%, #7b61ff 50%, #5cf2d6 100%)"
   },
-  "trendNote": "In May 2026, the fusion of glassmorphism and vivid color gradients continues to dominate tech and AI-themed designs. Soft, blurred surfaces paired with glowing accents and dynamic animations create an advanced, futuristic aesthetic. Seasonal influences bring in warm tones like #ffb84d, balancing the otherwise cool palette with a touch of optimism."
+  "trendNote": "May 2026 sees a resurgence of glassmorphism with vibrant, high-contrast palettes. Luminous accents and subtle animations dominate, while typography leans on clean, geometric sans-serifs for a balanced blend of modernity and professionalism."
 }
