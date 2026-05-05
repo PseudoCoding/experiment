@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-04",
+  "lastUpdated": "2026-05-05",
   "palette": {
-    "background": "#050510",
-    "surface": "#101020",
-    "surfaceAlt": "#18182a",
-    "primary": "#7b61ff",
-    "primaryLight": "#9d85ff",
-    "secondary": "#5cf2d6",
-    "accent": "#ff5ca3",
-    "accentWarm": "#ffad61",
-    "text": "#f3f4fa",
-    "textMuted": "#b0b2c7",
-    "textSubtle": "#8a8ca3",
-    "border": "#2a2a3c",
-    "glow": "rgba(123, 97, 255, 0.6)"
+    "background": "#0b0d17",
+    "surface": "#13172a",
+    "surfaceAlt": "#1e2336",
+    "primary": "#4d5cff",
+    "primaryLight": "#7286ff",
+    "secondary": "#3dd6d0",
+    "accent": "#ff6bcb",
+    "accentWarm": "#ffc85a",
+    "text": "#f4f5fa",
+    "textMuted": "#a0a4b8",
+    "textSubtle": "#757a8e",
+    "border": "#242838",
+    "glow": "rgba(77, 92, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -27,12 +27,12 @@
     "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "glowRadius": "80px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #7b61ff 0%, #5cf2d6 50%, #ff5ca3 100%)",
-    "timeline": "linear-gradient(180deg, #101020 0%, #18182a 50%, #7b61ff 100%)",
-    "text": "linear-gradient(90deg, #ff5ca3 0%, #7b61ff 50%, #5cf2d6 100%)"
+    "hero": "linear-gradient(135deg, #4d5cff 0%, #3dd6d0 50%, #ff6bcb 100%)",
+    "timeline": "linear-gradient(180deg, #13172a 0%, #4d5cff 50%, #3dd6d0 100%)",
+    "text": "linear-gradient(90deg, #ff6bcb 0%, #4d5cff 50%, #3dd6d0 100%)"
   },
-  "trendNote": "May 2026 sees a resurgence of glassmorphism with vibrant, high-contrast palettes. Luminous accents and subtle animations dominate, while typography leans on clean, geometric sans-serifs for a balanced blend of modernity and professionalism."
+  "trendNote": "In May 2026, tech and AI-themed websites embrace a modernized glassmorphism aesthetic with vivid neons and soft blurs to create a futuristic yet approachable look. Dynamic gradients and glowing primary colors add energy, while thoughtful typography balances professionalism with creativity."
 }
