@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-05",
+  "lastUpdated": "2026-05-07",
   "palette": {
-    "background": "#0b0d17",
-    "surface": "#13172a",
-    "surfaceAlt": "#1e2336",
-    "primary": "#4d5cff",
-    "primaryLight": "#7286ff",
-    "secondary": "#3dd6d0",
-    "accent": "#ff6bcb",
-    "accentWarm": "#ffc85a",
-    "text": "#f4f5fa",
-    "textMuted": "#a0a4b8",
-    "textSubtle": "#757a8e",
-    "border": "#242838",
-    "glow": "rgba(77, 92, 255, 0.4)"
+    "background": "#05050f",
+    "surface": "#0b0b1c",
+    "surfaceAlt": "#151528",
+    "primary": "#4c8fd9",
+    "primaryLight": "#78b6f4",
+    "secondary": "#5c3fc7",
+    "accent": "#e8588c",
+    "accentWarm": "#ff9f43",
+    "text": "#f5f6fb",
+    "textMuted": "#c4c6d6",
+    "textSubtle": "#9fa1b2",
+    "border": "#282a40",
+    "glow": "rgba(76, 143, 217, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "80px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4d5cff 0%, #3dd6d0 50%, #ff6bcb 100%)",
-    "timeline": "linear-gradient(180deg, #13172a 0%, #4d5cff 50%, #3dd6d0 100%)",
-    "text": "linear-gradient(90deg, #ff6bcb 0%, #4d5cff 50%, #3dd6d0 100%)"
+    "hero": "linear-gradient(135deg, #4c8fd9 0%, #5c3fc7 50%, #e8588c 100%)",
+    "timeline": "linear-gradient(180deg, #0b0b1c 0%, #151528 50%, #4c8fd9 100%)",
+    "text": "linear-gradient(90deg, #e8588c 0%, #ff9f43 50%, #78b6f4 100%)"
   },
-  "trendNote": "In May 2026, tech and AI-themed websites embrace a modernized glassmorphism aesthetic with vivid neons and soft blurs to create a futuristic yet approachable look. Dynamic gradients and glowing primary colors add energy, while thoughtful typography balances professionalism with creativity."
+  "trendNote": "May 2026 design trends are embracing a futuristic aesthetic with vibrant colors contrasted against dark, atmospheric backgrounds. Glassmorphism remains dominant, paired with smooth animations and dynamic gradients, reflecting the growing influence of AI interfaces and modern technology."
 }
