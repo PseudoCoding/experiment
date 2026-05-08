@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-05-07",
+  "lastUpdated": "2026-05-08",
   "palette": {
-    "background": "#05050f",
-    "surface": "#0b0b1c",
-    "surfaceAlt": "#151528",
-    "primary": "#4c8fd9",
-    "primaryLight": "#78b6f4",
-    "secondary": "#5c3fc7",
-    "accent": "#e8588c",
-    "accentWarm": "#ff9f43",
-    "text": "#f5f6fb",
-    "textMuted": "#c4c6d6",
-    "textSubtle": "#9fa1b2",
-    "border": "#282a40",
-    "glow": "rgba(76, 143, 217, 0.4)"
+    "background": "#0b0d14",
+    "surface": "#161a21",
+    "surfaceAlt": "#212631",
+    "primary": "#5e7ce2",
+    "primaryLight": "#8aa7f7",
+    "secondary": "#e75a7c",
+    "accent": "#57d1a8",
+    "accentWarm": "#ffa94d",
+    "text": "#e8eaf0",
+    "textMuted": "#a1a6b3",
+    "textSubtle": "#768097",
+    "border": "#2a313f",
+    "glow": "rgba(94, 124, 226, 0.5)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Space Grotesk",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
-    "glowRadius": "80px"
+    "animationSpeed": "0.6s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4c8fd9 0%, #5c3fc7 50%, #e8588c 100%)",
-    "timeline": "linear-gradient(180deg, #0b0b1c 0%, #151528 50%, #4c8fd9 100%)",
-    "text": "linear-gradient(90deg, #e8588c 0%, #ff9f43 50%, #78b6f4 100%)"
+    "hero": "linear-gradient(135deg, #5e7ce2 0%, #57d1a8 50%, #e75a7c 100%)",
+    "timeline": "linear-gradient(180deg, #0b0d14 0%, #161a21 50%, #212631 100%)",
+    "text": "linear-gradient(90deg, #57d1a8 0%, #5e7ce2 50%, #ffa94d 100%)"
   },
-  "trendNote": "May 2026 design trends are embracing a futuristic aesthetic with vibrant colors contrasted against dark, atmospheric backgrounds. Glassmorphism remains dominant, paired with smooth animations and dynamic gradients, reflecting the growing influence of AI interfaces and modern technology."
+  "trendNote": "May 2026 sees a resurgence of glassmorphism, enhanced with vibrant accent colors and soft glowing effects. Designers are balancing futuristic aesthetics with approachable, warm elements to bridge technology and humanity. Seasonal influences bring bright yet soothing tones, creating a fresh and inviting ambiance."
 }
