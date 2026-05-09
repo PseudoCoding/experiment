@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-05-08",
+  "lastUpdated": "2026-05-09",
   "palette": {
-    "background": "#0b0d14",
-    "surface": "#161a21",
-    "surfaceAlt": "#212631",
-    "primary": "#5e7ce2",
-    "primaryLight": "#8aa7f7",
-    "secondary": "#e75a7c",
-    "accent": "#57d1a8",
-    "accentWarm": "#ffa94d",
-    "text": "#e8eaf0",
-    "textMuted": "#a1a6b3",
-    "textSubtle": "#768097",
-    "border": "#2a313f",
-    "glow": "rgba(94, 124, 226, 0.5)"
+    "background": "#0a0c12",
+    "surface": "#16181f",
+    "surfaceAlt": "#1e2028",
+    "primary": "#4cafed",
+    "primaryLight": "#73d2ff",
+    "secondary": "#ff7d96",
+    "accent": "#ffc857",
+    "accentWarm": "#f78b50",
+    "text": "#f2f4fa",
+    "textMuted": "#a6abbc",
+    "textSubtle": "#73788a",
+    "border": "#2b2f3a",
+    "glow": "rgba(76, 175, 237, 0.6)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.6s",
+    "animationSpeed": "0.3s",
     "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e7ce2 0%, #57d1a8 50%, #e75a7c 100%)",
-    "timeline": "linear-gradient(180deg, #0b0d14 0%, #161a21 50%, #212631 100%)",
-    "text": "linear-gradient(90deg, #57d1a8 0%, #5e7ce2 50%, #ffa94d 100%)"
+    "hero": "linear-gradient(135deg, #4cafed 0%, #73d2ff 50%, #ffc857 100%)",
+    "timeline": "linear-gradient(180deg, #ff7d96 0%, #ffc857 50%, #f78b50 100%)",
+    "text": "linear-gradient(90deg, #4cafed 0%, #73d2ff 50%, #ffc857 100%)"
   },
-  "trendNote": "May 2026 sees a resurgence of glassmorphism, enhanced with vibrant accent colors and soft glowing effects. Designers are balancing futuristic aesthetics with approachable, warm elements to bridge technology and humanity. Seasonal influences bring bright yet soothing tones, creating a fresh and inviting ambiance."
+  "trendNote": "In May 2026, dark-mode tech interfaces are embracing glassmorphism with vivid, luminous accents like icy blues, warm corals, and golden yellows. Typography emphasizes clean, modern sans-serif fonts like Inter, paired with dynamic gradients and subtle but elegant motion. Seasonal warmth influences designs, softening the high-tech aesthetic with inviting glows and warm accent tones."
 }
