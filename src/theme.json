@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-10",
+  "lastUpdated": "2026-05-11",
   "palette": {
-    "background": "#08090f",
-    "surface": "#11121b",
-    "surfaceAlt": "#1a1c25",
-    "primary": "#4b8bff",
-    "primaryLight": "#82b1ff",
-    "secondary": "#4fffd3",
-    "accent": "#ff8d96",
-    "accentWarm": "#f9c784",
-    "text": "#f4f5fa",
-    "textMuted": "#a5a9b8",
-    "textSubtle": "#7c8191",
-    "border": "#2b2e3b",
-    "glow": "rgba(75, 139, 255, 0.5)"
+    "background": "#0a0b16",
+    "surface": "#13152a",
+    "surfaceAlt": "#1b1f3b",
+    "primary": "#5a6cff",
+    "primaryLight": "#8c9aff",
+    "secondary": "#ff6bcb",
+    "accent": "#00f5a0",
+    "accentWarm": "#ffb347",
+    "text": "#f5f7fc",
+    "textMuted": "#c2c6d6",
+    "textSubtle": "#8c92ab",
+    "border": "#2c2f4a",
+    "glow": "rgba(90, 108, 255, 0.5)"
   },
   "typography": {
     "fontFamily": "Space Grotesk",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "25px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.3s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4b8bff 0%, #4fffd3 50%, #ff8d96 100%)",
-    "timeline": "linear-gradient(180deg, #4fffd3 0%, #4b8bff 50%, #f9c784 100%)",
-    "text": "linear-gradient(90deg, #4b8bff 0%, #4fffd3 50%, #ff8d96 100%)"
+    "hero": "linear-gradient(135deg, #5a6cff 0%, #ff6bcb 50%, #00f5a0 100%)",
+    "timeline": "linear-gradient(180deg, #1b1f3b 0%, #5a6cff 50%, #ff6bcb 100%)",
+    "text": "linear-gradient(90deg, #ff6bcb 0%, #8c9aff 50%, #5a6cff 100%)"
   },
-  "trendNote": "In May 2026, AI-themed designs prioritize futuristic aesthetics with high contrast and vivid neon accents to evoke a sense of innovation and energy. Glassmorphism is making a resurgence, offering a sleek and layered look with soft-focus effects and glowing elements that feel both modern and approachable, perfect for showcasing technology products."
+  "trendNote": "In May 2026, dark-mode tech interfaces focus on a fusion of glassmorphism with vibrant, futuristic accents and glowing effects. Designers emphasize clarity and depth with soft frosted surfaces and bold, high-contrast typography anchored by vivid electric blues and warm pinks."
 }
