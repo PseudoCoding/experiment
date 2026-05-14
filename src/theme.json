@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-14",
   "palette": {
-    "background": "#0a0b16",
-    "surface": "#131528",
-    "surfaceAlt": "#1c1f37",
-    "primary": "#5a5cf7",
-    "primaryLight": "#8588ff",
-    "secondary": "#15d8bc",
-    "accent": "#ff6f5e",
-    "accentWarm": "#f4a261",
-    "text": "#f7f8fc",
-    "textMuted": "#cfd3e6",
-    "textSubtle": "#a1a6c8",
-    "border": "#30344c",
-    "glow": "rgba(90, 92, 247, 0.4)"
+    "background": "#0b0d21",
+    "surface": "#141633",
+    "surfaceAlt": "#202345",
+    "primary": "#5c7aff",
+    "primaryLight": "#90a4ff",
+    "secondary": "#ff6b92",
+    "accent": "#5fffd0",
+    "accentWarm": "#ffcc88",
+    "text": "#f3f4fa",
+    "textMuted": "#bcc1d6",
+    "textSubtle": "#8f94ab",
+    "border": "#34385e",
+    "glow": "rgba(92, 122, 255, 0.35)"
   },
   "typography": {
-    "fontFamily": "Outfit",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "25px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.6s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a5cf7 0%, #15d8bc 50%, #ff6f5e 100%)",
-    "timeline": "linear-gradient(180deg, #131528 0%, #5a5cf7 50%, #ff6f5e 100%)",
-    "text": "linear-gradient(90deg, #ff6f5e 0%, #15d8bc 50%, #5a5cf7 100%)"
+    "hero": "linear-gradient(135deg, #5c7aff 0%, #ff6b92 50%, #5fffd0 100%)",
+    "timeline": "linear-gradient(180deg, #5c7aff 0%, #90a4ff 50%, #ffcc88 100%)",
+    "text": "linear-gradient(90deg, #ff6b92 0%, #5fffd0 50%, #5c7aff 100%)"
   },
-  "trendNote": "In May 2026, dark-mode interfaces are embracing vibrant colors and ethereal effects like glassmorphism to balance sophistication and playfulness. Designers are favoring bold primary hues with glowing accents, paired with smooth animations to evoke futuristic yet approachable aesthetics."
+  "trendNote": "In May 2026, AI-driven tech websites embrace glassmorphism paired with vivid gradients, giving interfaces a futuristic yet approachable feel. Typography trends favor high readability sans-serif fonts with soft contrasts, while animations prioritize fluidity and sophistication over speed."
 }
