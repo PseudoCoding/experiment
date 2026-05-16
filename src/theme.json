@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-15",
+  "lastUpdated": "2026-05-16",
   "palette": {
     "background": "#0a0b14",
-    "surface": "#171a28",
-    "surfaceAlt": "#1f2233",
-    "primary": "#4a90e2",
-    "primaryLight": "#73aef5",
-    "secondary": "#ff5c93",
-    "accent": "#19ffaa",
-    "accentWarm": "#ffb347",
-    "text": "#f5f7fa",
-    "textMuted": "#c2c6d2",
-    "textSubtle": "#8f93a3",
-    "border": "#2e3247",
-    "glow": "rgba(74, 144, 226, 0.6)"
+    "surface": "#161823",
+    "surfaceAlt": "#1e2130",
+    "primary": "#5865f2",
+    "primaryLight": "#7886ff",
+    "secondary": "#00d0ff",
+    "accent": "#ff6f61",
+    "accentWarm": "#f9a825",
+    "text": "#f1f3fa",
+    "textMuted": "#a6a9b8",
+    "textSubtle": "#6d7285",
+    "border": "#2e3348",
+    "glow": "rgba(88, 101, 242, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "28px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
+    "animationSpeed": "0.3s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a90e2 0%, #19ffaa 50%, #ff5c93 100%)",
-    "timeline": "linear-gradient(180deg, #171a28 0%, #4a90e2 50%, #19ffaa 100%)",
-    "text": "linear-gradient(90deg, #ff5c93 0%, #ffb347 50%, #19ffaa 100%)"
+    "hero": "linear-gradient(135deg, #5865f2 0%, #00d0ff 50%, #ff6f61 100%)",
+    "timeline": "linear-gradient(180deg, #1e2130 0%, #5865f2 50%, #00d0ff 100%)",
+    "text": "linear-gradient(90deg, #ff6f61 0%, #f9a825 50%, #5865f2 100%)"
   },
-  "trendNote": "In May 2026, dark-mode tech websites favor glassmorphism for its futuristic and elegant aesthetic. The use of vivid blues, teals, and warm accents reflects the season's energy and optimism, while smooth animations and glowing effects underline AI's seamless sophistication."
+  "trendNote": "In May 2026, dark mode interfaces emphasize atmospheric depth with glassmorphic layers, vibrant neon accents, and soft edge radii. Typography leans modern and legible, while subtle micro-animations and glowing effects add an advanced, futuristic feel to AI-themed designs."
 }
