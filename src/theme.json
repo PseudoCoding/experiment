@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-16",
+  "lastUpdated": "2026-05-17",
   "palette": {
     "background": "#0a0b14",
-    "surface": "#161823",
-    "surfaceAlt": "#1e2130",
-    "primary": "#5865f2",
-    "primaryLight": "#7886ff",
-    "secondary": "#00d0ff",
-    "accent": "#ff6f61",
-    "accentWarm": "#f9a825",
-    "text": "#f1f3fa",
-    "textMuted": "#a6a9b8",
-    "textSubtle": "#6d7285",
-    "border": "#2e3348",
-    "glow": "rgba(88, 101, 242, 0.5)"
+    "surface": "#141625",
+    "surfaceAlt": "#1d1f33",
+    "primary": "#4e8ef5",
+    "primaryLight": "#87b6ff",
+    "secondary": "#f45d48",
+    "accent": "#6ed399",
+    "accentWarm": "#f9a34d",
+    "text": "#f0f3fc",
+    "textMuted": "#a4a9c0",
+    "textSubtle": "#7a819c",
+    "border": "#2c2f45",
+    "glow": "rgba(78, 142, 245, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -23,16 +23,16 @@
   },
   "aesthetic": {
     "style": "glassmorphism",
-    "borderRadius": "16px",
+    "borderRadius": "18px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5865f2 0%, #00d0ff 50%, #ff6f61 100%)",
-    "timeline": "linear-gradient(180deg, #1e2130 0%, #5865f2 50%, #00d0ff 100%)",
-    "text": "linear-gradient(90deg, #ff6f61 0%, #f9a825 50%, #5865f2 100%)"
+    "hero": "linear-gradient(135deg, #4e8ef5 0%, #6ed399 50%, #f45d48 100%)",
+    "timeline": "linear-gradient(180deg, #4e8ef5 0%, #f9a34d 50%, #f45d48 100%)",
+    "text": "linear-gradient(90deg, #f45d48 0%, #6ed399 50%, #4e8ef5 100%)"
   },
-  "trendNote": "In May 2026, dark mode interfaces emphasize atmospheric depth with glassmorphic layers, vibrant neon accents, and soft edge radii. Typography leans modern and legible, while subtle micro-animations and glowing effects add an advanced, futuristic feel to AI-themed designs."
+  "trendNote": "In May 2026, sleek and futuristic glassmorphism dominates, blending soft blurs with vivid, glowing accents. Bright, energetic gradients paired with clean sans-serif fonts like Inter create an innovative yet approachable aesthetic, while seasonal warmth is reflected in accent colors like coral and amber."
 }
