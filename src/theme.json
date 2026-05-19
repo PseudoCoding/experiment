@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-18",
+  "lastUpdated": "2026-05-19",
   "palette": {
-    "background": "#0a0a16",
-    "surface": "#12122a",
-    "surfaceAlt": "#1c1c3b",
-    "primary": "#5a70ff",
-    "primaryLight": "#8a97ff",
-    "secondary": "#f55660",
-    "accent": "#00d6a9",
-    "accentWarm": "#ffc857",
-    "text": "#e8eaf0",
-    "textMuted": "#a6a8b4",
-    "textSubtle": "#84869a",
-    "border": "#2b2b45",
-    "glow": "rgba(90, 112, 255, 0.5)"
+    "background": "#0b0d18",
+    "surface": "#161a2b",
+    "surfaceAlt": "#1f2438",
+    "primary": "#5372ff",
+    "primaryLight": "#a3b5ff",
+    "secondary": "#34d399",
+    "accent": "#ff6f91",
+    "accentWarm": "#f3a712",
+    "text": "#f4f7fc",
+    "textMuted": "#a9adc1",
+    "textSubtle": "#6f7592",
+    "border": "#2a2f45",
+    "glow": "rgba(83, 114, 255, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "40px"
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a70ff 0%, #00d6a9 50%, #ffc857 100%)",
-    "timeline": "linear-gradient(180deg, #f55660 0%, #5a70ff 50%, #00d6a9 100%)",
-    "text": "linear-gradient(90deg, #5a70ff 0%, #00d6a9 50%, #ffc857 100%)"
+    "hero": "linear-gradient(135deg, #5372ff 0%, #34d399 50%, #ff6f91 100%)",
+    "timeline": "linear-gradient(180deg, #1f2438 0%, #2a2f45 50%, #0b0d18 100%)",
+    "text": "linear-gradient(90deg, #5372ff 0%, #34d399 50%, #f4f7fc 100%)"
   },
-  "trendNote": "In May 2026, glassmorphism continues to dominate tech and AI-themed sites for its sleek and futuristic feel. Vivid accents like electric blues and warm golds are paired with soft blurred surfaces to create a sense of depth and modernity. High-contrast typography ensures readability in these visually dynamic interfaces."
+  "trendNote": "In May 2026, dark-mode interfaces are embracing a bold, futuristic aesthetic with vivid neon highlights and subtle glass-like textures. Glassmorphism dominates, paired with soft gradients and medium blurs to create depth. Typography leans professional yet approachable, balancing clean sans-serif fonts with vibrant color accents for a high-tech, energetic feel."
 }
