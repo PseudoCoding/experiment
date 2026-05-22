@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-05-21",
+  "lastUpdated": "2026-05-22",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#121624",
-    "surfaceAlt": "#1a1f33",
-    "primary": "#5c7aff",
-    "primaryLight": "#8fa5ff",
-    "secondary": "#4ad4c6",
-    "accent": "#ff6f91",
-    "accentWarm": "#ff935c",
-    "text": "#f5f8fc",
-    "textMuted": "#c6cad4",
-    "textSubtle": "#8b8f9c",
-    "border": "#273046",
-    "glow": "rgba(92, 122, 255, 0.35)"
+    "background": "#0b0d14",
+    "surface": "#121420",
+    "surfaceAlt": "#1a1c28",
+    "primary": "#7265f6",
+    "primaryLight": "#a59dfb",
+    "secondary": "#3bc7d4",
+    "accent": "#ff75d1",
+    "accentWarm": "#ff8f5c",
+    "text": "#f4f5fb",
+    "textMuted": "#c7cad6",
+    "textSubtle": "#8b8fa1",
+    "border": "#2b2d3c",
+    "glow": "rgba(114, 101, 246, 0.6)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -27,12 +27,12 @@
     "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "glowRadius": "72px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5c7aff 0%, #4ad4c6 50%, #ff6f91 100%)",
-    "timeline": "linear-gradient(180deg, #121624 0%, #5c7aff 50%, #4ad4c6 100%)",
-    "text": "linear-gradient(90deg, #ff935c 0%, #ff6f91 50%, #5c7aff 100%)"
+    "hero": "linear-gradient(135deg, #7265f6 0%, #3bc7d4 50%, #ff8f5c 100%)",
+    "timeline": "linear-gradient(180deg, #ff75d1 0%, #7265f6 50%, #3bc7d4 100%)",
+    "text": "linear-gradient(90deg, #ff8f5c 0%, #ff75d1 50%, #7265f6 100%)"
   },
-  "trendNote": "May 2026 sees a resurgence of vibrant, futuristic glassmorphism aesthetics paired with vivid gradients, subtly animated hover states, and glowing accent elements. AI-themed interfaces embrace bold contrasts and fluid typography to evoke innovation and trust."
+  "trendNote": "In May 2026, AI-themed websites are leveraging glassmorphism with bold, luminous colors like neon purples, blues, and pinks. Designs emphasize high-contrast text, smooth gradients, and glowing visual effects to evoke a futuristic, tech-forward aesthetic that feels both cutting-edge and approachable."
 }
