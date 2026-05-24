@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-23",
+  "lastUpdated": "2026-05-24",
   "palette": {
-    "background": "#0a0c1a",
-    "surface": "#16182b",
-    "surfaceAlt": "#1f2138",
-    "primary": "#7a5cff",
-    "primaryLight": "#9a7eff",
-    "secondary": "#35e8d5",
-    "accent": "#ff5e79",
-    "accentWarm": "#ff8a42",
-    "text": "#f8f9fc",
-    "textMuted": "#c1c4d6",
-    "textSubtle": "#9094a6",
-    "border": "#2a2d42",
-    "glow": "rgba(122, 92, 255, 0.6)"
+    "background": "#0b0d14",
+    "surface": "#161925",
+    "surfaceAlt": "#1e2233",
+    "primary": "#5e8bff",
+    "primaryLight": "#a8c1ff",
+    "secondary": "#ff7eb3",
+    "accent": "#6df7c1",
+    "accentWarm": "#ffcc88",
+    "text": "#f1f4fc",
+    "textMuted": "#b0b3c2",
+    "textSubtle": "#8a8d99",
+    "border": "#2b2f42",
+    "glow": "rgba(94, 139, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #7a5cff 0%, #35e8d5 50%, #ff5e79 100%)",
-    "timeline": "linear-gradient(180deg, #16182b 0%, #7a5cff 50%, #ff8a42 100%)",
-    "text": "linear-gradient(90deg, #ff8a42 0%, #7a5cff 50%, #35e8d5 100%)"
+    "hero": "linear-gradient(135deg, #5e8bff 0%, #6df7c1 50%, #ff7eb3 100%)",
+    "timeline": "linear-gradient(180deg, #161925 0%, #6df7c1 50%, #5e8bff 100%)",
+    "text": "linear-gradient(90deg, #ff7eb3 0%, #5e8bff 50%, #6df7c1 100%)"
   },
-  "trendNote": "May 2026 sees the rise of bold, glowing accents against soft glass-like surfaces in dark-mode tech designs. Vivid hues like electric purples, aqua blues, and warm oranges are paired with fluid gradients to evoke a futuristic yet approachable aesthetic. Typography remains clean and modern, with animations emphasizing smooth transitions and subtle visual feedback."
+  "trendNote": "In May 2026, designers are favoring futuristic glassmorphism with vibrant, high-contrast palettes to celebrate the tech and AI boom. Subtle glows, smooth animations, and soft blurs create an immersive, professional experience. Seasonal influences bring warm accents and gradients that feel alive and dynamic."
 }
