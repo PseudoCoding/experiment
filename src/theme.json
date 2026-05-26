@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-26",
   "palette": {
-    "background": "#0a0c14",
-    "surface": "#151827",
-    "surfaceAlt": "#1d2136",
-    "primary": "#4a8cff",
-    "primaryLight": "#7daaff",
-    "secondary": "#ff6f61",
-    "accent": "#ffb84d",
-    "accentWarm": "#ffa07a",
-    "text": "#f2f6fc",
-    "textMuted": "#c4c9d6",
-    "textSubtle": "#8991a8",
-    "border": "#2b3148",
-    "glow": "rgba(74, 140, 255, 0.5)"
+    "background": "#0a0a18",
+    "surface": "#14142b",
+    "surfaceAlt": "#1e1e3a",
+    "primary": "#4e91ff",
+    "primaryLight": "#8bbaff",
+    "secondary": "#3ed7c2",
+    "accent": "#ff6bf7",
+    "accentWarm": "#ff9052",
+    "text": "#f5f7fa",
+    "textMuted": "#ccd1e0",
+    "textSubtle": "#8992b0",
+    "border": "#2a2a46",
+    "glow": "rgba(78, 145, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
+    "animationSpeed": "0.6s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a8cff 0%, #ff6f61 50%, #ffb84d 100%)",
-    "timeline": "linear-gradient(180deg, #151827 0%, #1d2136 50%, #4a8cff 100%)",
-    "text": "linear-gradient(90deg, #4a8cff 0%, #ff6f61 50%, #ffa07a 100%)"
+    "hero": "linear-gradient(135deg, #4e91ff 0%, #3ed7c2 50%, #ff6bf7 100%)",
+    "timeline": "linear-gradient(180deg, #4e91ff 0%, #8bbaff 50%, #ff9052 100%)",
+    "text": "linear-gradient(90deg, #4e91ff 0%, #3ed7c2 50%, #ff6bf7 100%)"
   },
-  "trendNote": "May 2026 sees a resurgence of glassmorphism with vivid gradients and glowing accents. Designers are leaning into vibrant, high-contrast palettes to make AI-focused interfaces feel futuristic yet approachable, while smooth animations and rounded corners enhance accessibility and flow."
+  "trendNote": "In May 2026, AI and tech-themed websites are embracing a futuristic glassmorphic aesthetic with soft, blurred surfaces and glowing accents. Vivid primary and accent colors paired with clean, professional typography evoke innovation and energy while staying visually refined."
 }
