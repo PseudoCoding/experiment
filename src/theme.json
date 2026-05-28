@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-27",
+  "lastUpdated": "2026-05-28",
   "palette": {
-    "background": "#0b0d14",
-    "surface": "#151922",
-    "surfaceAlt": "#1f2530",
-    "primary": "#5a8bff",
-    "primaryLight": "#a3c4ff",
-    "secondary": "#ff7eb3",
-    "accent": "#4ce3c4",
-    "accentWarm": "#ffa26b",
-    "text": "#e8eaf0",
-    "textMuted": "#a6abbf",
-    "textSubtle": "#6c7386",
-    "border": "#2e3440",
-    "glow": "rgba(90, 139, 255, 0.5)"
+    "background": "#0a0b10",
+    "surface": "#12131c",
+    "surfaceAlt": "#1a1c26",
+    "primary": "#5a8dee",
+    "primaryLight": "#9cbcff",
+    "secondary": "#8e96c8",
+    "accent": "#22d3ee",
+    "accentWarm": "#f39237",
+    "text": "#eaeefb",
+    "textMuted": "#a0a5b8",
+    "textSubtle": "#676d87",
+    "border": "#2a2e3f",
+    "glow": "rgba(90, 141, 238, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -23,16 +23,16 @@
   },
   "aesthetic": {
     "style": "glassmorphism",
-    "borderRadius": "18px",
-    "cardBlur": "40px",
+    "borderRadius": "16px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
+    "animationSpeed": "0.25s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a8bff 0%, #4ce3c4 50%, #ff7eb3 100%)",
-    "timeline": "linear-gradient(180deg, #151922 0%, #1f2530 50%, #0b0d14 100%)",
-    "text": "linear-gradient(90deg, #5a8bff 0%, #4ce3c4 50%, #ff7eb3 100%)"
+    "hero": "linear-gradient(135deg, #5a8dee 0%, #9cbcff 50%, #22d3ee 100%)",
+    "timeline": "linear-gradient(180deg, #12131c 0%, #5a8dee 50%, #f39237 100%)",
+    "text": "linear-gradient(90deg, #5a8dee 0%, #22d3ee 50%, #f39237 100%)"
   },
-  "trendNote": "May 2026 sees a resurgence of glassmorphism with a focus on fluid, high-tech aesthetics. Designers are embracing vibrant neon accents and soft glows, balancing them with muted, frosted surfaces to create a futuristic, approachable feel. Smooth micro-interactions and dynamic gradients are key to providing a professional yet visually engaging user experience."
+  "trendNote": "In May 2026, tech and AI-themed designs are embracing a sleek, futuristic look with glowing elements and layered transparency inspired by glassmorphism. Vivid neons paired with soft gradients and high-contrast typography evoke a sense of clarity and innovation, ideal for AI interfaces. Seasonal inspiration leans toward warm accents, balancing the cool tech aesthetic with a touch of spring energy."
 }
