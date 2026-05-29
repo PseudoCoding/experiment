@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-28",
+  "lastUpdated": "2026-05-29",
   "palette": {
-    "background": "#0a0b10",
-    "surface": "#12131c",
-    "surfaceAlt": "#1a1c26",
-    "primary": "#5a8dee",
-    "primaryLight": "#9cbcff",
-    "secondary": "#8e96c8",
-    "accent": "#22d3ee",
-    "accentWarm": "#f39237",
-    "text": "#eaeefb",
-    "textMuted": "#a0a5b8",
-    "textSubtle": "#676d87",
-    "border": "#2a2e3f",
-    "glow": "rgba(90, 141, 238, 0.5)"
+    "background": "#0b0c13",
+    "surface": "#16171f",
+    "surfaceAlt": "#1d1f29",
+    "primary": "#5c7cfa",
+    "primaryLight": "#89a0ff",
+    "secondary": "#ff6f61",
+    "accent": "#32d3a8",
+    "accentWarm": "#f4a261",
+    "text": "#f5f7fa",
+    "textMuted": "#a5abb6",
+    "textSubtle": "#7c8494",
+    "border": "#2a2e3a",
+    "glow": "rgba(92, 124, 250, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.25s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a8dee 0%, #9cbcff 50%, #22d3ee 100%)",
-    "timeline": "linear-gradient(180deg, #12131c 0%, #5a8dee 50%, #f39237 100%)",
-    "text": "linear-gradient(90deg, #5a8dee 0%, #22d3ee 50%, #f39237 100%)"
+    "hero": "linear-gradient(135deg, #32d3a8 0%, #5c7cfa 50%, #ff6f61 100%)",
+    "timeline": "linear-gradient(180deg, #5c7cfa 0%, #32d3a8 50%, #f4a261 100%)",
+    "text": "linear-gradient(90deg, #5c7cfa 0%, #32d3a8 50%, #f4a261 100%)"
   },
-  "trendNote": "In May 2026, tech and AI-themed designs are embracing a sleek, futuristic look with glowing elements and layered transparency inspired by glassmorphism. Vivid neons paired with soft gradients and high-contrast typography evoke a sense of clarity and innovation, ideal for AI interfaces. Seasonal inspiration leans toward warm accents, balancing the cool tech aesthetic with a touch of spring energy."
+  "trendNote": "In May 2026, dark-mode tech interfaces favor bold yet harmonious color combinations, with vibrant accents and gradients. Glassmorphism remains dominant, paired with soft blurs, medium shadows, and glowing highlights for a futuristic feel. Typography emphasizes clarity and professionalism, blending modern sans-serifs with subtle contrasts."
 }
