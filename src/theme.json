@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-29",
+  "lastUpdated": "2026-05-30",
   "palette": {
-    "background": "#0b0c13",
-    "surface": "#16171f",
-    "surfaceAlt": "#1d1f29",
-    "primary": "#5c7cfa",
-    "primaryLight": "#89a0ff",
-    "secondary": "#ff6f61",
-    "accent": "#32d3a8",
-    "accentWarm": "#f4a261",
-    "text": "#f5f7fa",
-    "textMuted": "#a5abb6",
-    "textSubtle": "#7c8494",
-    "border": "#2a2e3a",
-    "glow": "rgba(92, 124, 250, 0.5)"
+    "background": "#0b0d16",
+    "surface": "#161a24",
+    "surfaceAlt": "#1d212e",
+    "primary": "#6a5cff",
+    "primaryLight": "#9b90ff",
+    "secondary": "#00d8c1",
+    "accent": "#f43f5e",
+    "accentWarm": "#ff8b37",
+    "text": "#f4f5fc",
+    "textMuted": "#a5a9b8",
+    "textSubtle": "#d1d4e0",
+    "border": "#23283a",
+    "glow": "rgba(106, 92, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
+    "animationSpeed": "0.3s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #32d3a8 0%, #5c7cfa 50%, #ff6f61 100%)",
-    "timeline": "linear-gradient(180deg, #5c7cfa 0%, #32d3a8 50%, #f4a261 100%)",
-    "text": "linear-gradient(90deg, #5c7cfa 0%, #32d3a8 50%, #f4a261 100%)"
+    "hero": "linear-gradient(135deg, #6a5cff 0%, #00d8c1 50%, #f43f5e 100%)",
+    "timeline": "linear-gradient(180deg, #1d212e 0%, #161a24 50%, #0b0d16 100%)",
+    "text": "linear-gradient(90deg, #6a5cff 0%, #00d8c1 50%, #f43f5e 100%)"
   },
-  "trendNote": "In May 2026, dark-mode tech interfaces favor bold yet harmonious color combinations, with vibrant accents and gradients. Glassmorphism remains dominant, paired with soft blurs, medium shadows, and glowing highlights for a futuristic feel. Typography emphasizes clarity and professionalism, blending modern sans-serifs with subtle contrasts."
+  "trendNote": "May 2026 sees glassmorphism dominating AI and tech interfaces, merging clean transparency with vivid, glowing accents. The use of dynamic gradients and smooth animations adds a futuristic and engaging touch, reflecting the ongoing innovation in AI and technology."
 }
