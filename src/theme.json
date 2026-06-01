@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-31",
+  "lastUpdated": "2026-06-01",
   "palette": {
-    "background": "#0a0e14",
-    "surface": "#141821",
-    "surfaceAlt": "#1e2430",
-    "primary": "#ff6f61",
-    "primaryLight": "#ff8a7a",
-    "secondary": "#5ac8fa",
-    "accent": "#ffd700",
-    "accentWarm": "#ff9e44",
-    "text": "#f5f7fa",
-    "textMuted": "#b0b8c1",
-    "textSubtle": "#7c8591",
-    "border": "#2c313e",
-    "glow": "rgba(255, 111, 97, 0.4)"
+    "background": "#0b0c14",
+    "surface": "#16181f",
+    "surfaceAlt": "#1c1e26",
+    "primary": "#4d8dff",
+    "primaryLight": "#93baff",
+    "secondary": "#ff6f61",
+    "accent": "#38f1a6",
+    "accentWarm": "#f9c74f",
+    "text": "#f1f3fa",
+    "textMuted": "#a9acb8",
+    "textSubtle": "#7f8596",
+    "border": "#2b2d36",
+    "glow": "rgba(77, 141, 255, 0.45)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -23,16 +23,16 @@
   },
   "aesthetic": {
     "style": "glassmorphism",
-    "borderRadius": "16px",
-    "cardBlur": "24px",
+    "borderRadius": "24px",
+    "cardBlur": "40px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5ac8fa 0%, #ff6f61 50%, #ffd700 100%)",
-    "timeline": "linear-gradient(180deg, #141821 0%, #1e2430 50%, #5ac8fa 100%)",
-    "text": "linear-gradient(90deg, #ff6f61 0%, #5ac8fa 50%, #ffd700 100%)"
+    "hero": "linear-gradient(135deg, #4d8dff 0%, #ff6f61 50%, #f9c74f 100%)",
+    "timeline": "linear-gradient(180deg, #16181f 0%, #4d8dff 50%, #38f1a6 100%)",
+    "text": "linear-gradient(90deg, #38f1a6 0%, #4d8dff 50%, #ff6f61 100%)"
   },
-  "trendNote": "In May 2026, dark-mode tech interfaces embrace vibrant, optimistic palettes with warm accents, blending bold hues like coral and gold with calming blues. Glassmorphism continues to dominate due to its modern and tactile aesthetic, paired with smooth animations and elevated focus on glowing effects for a futuristic yet professional vibe."
+  "trendNote": "June 2026 sees a focus on fluidity and vibrancy, with glassmorphism enabling depth and transparency alongside vivid gradients. Summery accents like coral and gold bring warmth, complementing the tech-forward blues and greens typical of AI-driven designs."
 }
