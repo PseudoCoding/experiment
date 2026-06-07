@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-06-06",
+  "lastUpdated": "2026-06-07",
   "palette": {
-    "background": "#0a0b1f",
-    "surface": "#16182e",
-    "surfaceAlt": "#1e2148",
-    "primary": "#5e7eff",
-    "primaryLight": "#8aa6ff",
-    "secondary": "#7bdaff",
-    "accent": "#ff6bcb",
-    "accentWarm": "#ffa877",
-    "text": "#f0f3ff",
-    "textMuted": "#b0b3c8",
-    "textSubtle": "#8f92a7",
-    "border": "#373c60",
-    "glow": "rgba(126, 144, 255, 0.8)"
+    "background": "#0a0a14",
+    "surface": "#161623",
+    "surfaceAlt": "#1e1e32",
+    "primary": "#5a74f2",
+    "primaryLight": "#9faeff",
+    "secondary": "#f28c28",
+    "accent": "#16d9d0",
+    "accentWarm": "#f25d5d",
+    "text": "#f3f4fa",
+    "textMuted": "#a6a9b6",
+    "textSubtle": "#84889a",
+    "border": "#2e2e47",
+    "glow": "rgba(90, 116, 242, 0.5)"
   },
   "typography": {
-    "fontFamily": "Plus Jakarta Sans",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "25px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.5s",
+    "glowRadius": "64px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e7eff 0%, #7bdaff 50%, #ff6bcb 100%)",
-    "timeline": "linear-gradient(180deg, #5e7eff 0%, #8aa6ff 50%, #ffa877 100%)",
-    "text": "linear-gradient(90deg, #7bdaff 0%, #5e7eff 50%, #ff6bcb 100%)"
+    "hero": "linear-gradient(135deg, #5a74f2 0%, #16d9d0 50%, #f28c28 100%)",
+    "timeline": "linear-gradient(180deg, #5a74f2 0%, #9faeff 50%, #f25d5d 100%)",
+    "text": "linear-gradient(90deg, #f28c28 0%, #16d9d0 50%, #5a74f2 100%)"
   },
-  "trendNote": "In June 2026, tech and AI websites embrace sophisticated, high-contrast dark modes with vibrant neon accents and calming gradients. Glassmorphism, with its frosted surfaces and soft glows, remains dominant, emphasizing futurism and elegance while animations are subtle, quick, and polished to maintain professionalism."
+  "trendNote": "June 2026 embraces bold and futuristic aesthetics with glassmorphism leading the charge, paired with vibrant, glowing accents and subtle blurs. Color palettes balance a modern dark mode foundation with vivid pops of electric blues and warm oranges, mirroring summer's dynamic energy combined with high-tech sophistication."
 }
