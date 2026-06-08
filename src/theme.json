@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-07",
+  "lastUpdated": "2026-06-08",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#161623",
-    "surfaceAlt": "#1e1e32",
-    "primary": "#5a74f2",
-    "primaryLight": "#9faeff",
-    "secondary": "#f28c28",
-    "accent": "#16d9d0",
-    "accentWarm": "#f25d5d",
-    "text": "#f3f4fa",
-    "textMuted": "#a6a9b6",
-    "textSubtle": "#84889a",
-    "border": "#2e2e47",
-    "glow": "rgba(90, 116, 242, 0.5)"
+    "background": "#0a0b12",
+    "surface": "#151826",
+    "surfaceAlt": "#1c1f2e",
+    "primary": "#5a7cff",
+    "primaryLight": "#8aaaff",
+    "secondary": "#ff6e6c",
+    "accent": "#21d4fd",
+    "accentWarm": "#ffb74d",
+    "text": "#f8f9fc",
+    "textMuted": "#b0b3c2",
+    "textSubtle": "#787c91",
+    "border": "#2c2f3e",
+    "glow": "rgba(90, 124, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
-    "glowRadius": "64px"
+    "animationSpeed": "0.3s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a74f2 0%, #16d9d0 50%, #f28c28 100%)",
-    "timeline": "linear-gradient(180deg, #5a74f2 0%, #9faeff 50%, #f25d5d 100%)",
-    "text": "linear-gradient(90deg, #f28c28 0%, #16d9d0 50%, #5a74f2 100%)"
+    "hero": "linear-gradient(135deg, #5a7cff 0%, #21d4fd 50%, #ff6e6c 100%)",
+    "timeline": "linear-gradient(180deg, #1c1f2e 0%, #5a7cff 50%, #21d4fd 100%)",
+    "text": "linear-gradient(90deg, #21d4fd 0%, #8aaaff 50%, #ff6e6c 100%)"
   },
-  "trendNote": "June 2026 embraces bold and futuristic aesthetics with glassmorphism leading the charge, paired with vibrant, glowing accents and subtle blurs. Color palettes balance a modern dark mode foundation with vivid pops of electric blues and warm oranges, mirroring summer's dynamic energy combined with high-tech sophistication."
+  "trendNote": "In June 2026, dark-mode interfaces are embracing glassmorphism with soft blurs, dynamic gradients, and glows that evoke futuristic elegance. Bright, saturated colors like electric blue and warm coral create striking contrasts against deep, muted backgrounds, while subtle animations and rounded corners keep things approachable and modern."
 }
