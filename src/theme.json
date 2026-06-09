@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-08",
+  "lastUpdated": "2026-06-09",
   "palette": {
-    "background": "#0a0b12",
-    "surface": "#151826",
-    "surfaceAlt": "#1c1f2e",
-    "primary": "#5a7cff",
-    "primaryLight": "#8aaaff",
-    "secondary": "#ff6e6c",
-    "accent": "#21d4fd",
+    "background": "#0a0c18",
+    "surface": "#15172a",
+    "surfaceAlt": "#1f2140",
+    "primary": "#4a90e2",
+    "primaryLight": "#7fb8ff",
+    "secondary": "#ff6f61",
+    "accent": "#15c39a",
     "accentWarm": "#ffb74d",
-    "text": "#f8f9fc",
-    "textMuted": "#b0b3c2",
-    "textSubtle": "#787c91",
-    "border": "#2c2f3e",
-    "glow": "rgba(90, 124, 255, 0.6)"
+    "text": "#f4f5fa",
+    "textMuted": "#c5c8d6",
+    "textSubtle": "#8a8fa6",
+    "border": "#2d2f4d",
+    "glow": "rgba(74, 144, 226, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "18px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.35s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a7cff 0%, #21d4fd 50%, #ff6e6c 100%)",
-    "timeline": "linear-gradient(180deg, #1c1f2e 0%, #5a7cff 50%, #21d4fd 100%)",
-    "text": "linear-gradient(90deg, #21d4fd 0%, #8aaaff 50%, #ff6e6c 100%)"
+    "hero": "linear-gradient(135deg, #4a90e2 0%, #15c39a 50%, #ff6f61 100%)",
+    "timeline": "linear-gradient(180deg, #15172a 0%, #1f2140 50%, #4a90e2 100%)",
+    "text": "linear-gradient(90deg, #7fb8ff 0%, #15c39a 50%, #ffb74d 100%)"
   },
-  "trendNote": "In June 2026, dark-mode interfaces are embracing glassmorphism with soft blurs, dynamic gradients, and glows that evoke futuristic elegance. Bright, saturated colors like electric blue and warm coral create striking contrasts against deep, muted backgrounds, while subtle animations and rounded corners keep things approachable and modern."
+  "trendNote": "In June 2026, dark-mode designs are embracing glassmorphism paired with vibrant gradients and glowing accents, creating a futuristic and tactile experience. Typography trends focus on clean sans-serifs like Inter, while animations remain subtle yet fluid to retain a professional look."
 }
