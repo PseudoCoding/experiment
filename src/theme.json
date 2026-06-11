@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-11",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#151a28",
-    "surfaceAlt": "#1c2133",
-    "primary": "#4e9dff",
-    "primaryLight": "#90caff",
-    "secondary": "#ff6f61",
-    "accent": "#ffca3a",
-    "accentWarm": "#e85d04",
-    "text": "#eef2f7",
-    "textMuted": "#a1a8b8",
-    "textSubtle": "#8d95a8",
-    "border": "#2b3245",
-    "glow": "rgba(78, 157, 255, 0.5)"
+    "background": "#0a0a17",
+    "surface": "#12122b",
+    "surfaceAlt": "#1c1c3b",
+    "primary": "#5a7bff",
+    "primaryLight": "#93a8ff",
+    "secondary": "#ff8a48",
+    "accent": "#4ce2c0",
+    "accentWarm": "#ff5e7e",
+    "text": "#f5f7fa",
+    "textMuted": "#a3a6b8",
+    "textSubtle": "#6e7187",
+    "border": "#292950",
+    "glow": "rgba(90, 123, 255, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
+    "animationSpeed": "0.3s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e9dff 0%, #ff6f61 50%, #ffca3a 100%)",
-    "timeline": "linear-gradient(180deg, #4e9dff 0%, #e85d04 50%, #ffca3a 100%)",
-    "text": "linear-gradient(90deg, #4e9dff 0%, #90caff 50%, #ffca3a 100%)"
+    "hero": "linear-gradient(135deg, #5a7bff 0%, #4ce2c0 50%, #ff5e7e 100%)",
+    "timeline": "linear-gradient(180deg, #12122b 0%, #5a7bff 50%, #ff8a48 100%)",
+    "text": "linear-gradient(90deg, #5a7bff 0%, #4ce2c0 50%, #ff5e7e 100%)"
   },
-  "trendNote": "June 2026 sees a strong embrace of layered glassmorphism with soft glows and medium shadows, evoking a sense of depth and modernity. Vivid, energetic colors like azure blue and warm orange-yellow dominate alongside serene, clean typography for a futuristic yet approachable design."
+  "trendNote": "In June 2026, tech and AI-themed websites are embracing bold glassmorphism designs paired with glowing, high-contrast color palettes. Vivid blues and teals dominate as primary accents, complemented by warm, summery oranges and pinks to evoke energy and innovation. Animation is smooth and quick, reflecting the speed of progress in AI technologies."
 }
