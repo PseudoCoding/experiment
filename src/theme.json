@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-11",
+  "lastUpdated": "2026-06-12",
   "palette": {
-    "background": "#0a0a17",
-    "surface": "#12122b",
-    "surfaceAlt": "#1c1c3b",
-    "primary": "#5a7bff",
-    "primaryLight": "#93a8ff",
-    "secondary": "#ff8a48",
-    "accent": "#4ce2c0",
-    "accentWarm": "#ff5e7e",
-    "text": "#f5f7fa",
-    "textMuted": "#a3a6b8",
-    "textSubtle": "#6e7187",
-    "border": "#292950",
-    "glow": "rgba(90, 123, 255, 0.5)"
+    "background": "#0b0d14",
+    "surface": "#16191f",
+    "surfaceAlt": "#1f232b",
+    "primary": "#5e72eb",
+    "primaryLight": "#8e9eff",
+    "secondary": "#ff6d6d",
+    "accent": "#00d4a4",
+    "accentWarm": "#ff9f43",
+    "text": "#f2f4f8",
+    "textMuted": "#a9afc1",
+    "textSubtle": "#6f7385",
+    "border": "#2a2f3b",
+    "glow": "rgba(94, 114, 235, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -27,12 +27,12 @@
     "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.3s",
-    "glowRadius": "60px"
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a7bff 0%, #4ce2c0 50%, #ff5e7e 100%)",
-    "timeline": "linear-gradient(180deg, #12122b 0%, #5a7bff 50%, #ff8a48 100%)",
-    "text": "linear-gradient(90deg, #5a7bff 0%, #4ce2c0 50%, #ff5e7e 100%)"
+    "hero": "linear-gradient(135deg, #5e72eb 0%, #ff6d6d 50%, #00d4a4 100%)",
+    "timeline": "linear-gradient(180deg, #16191f 0%, #5e72eb 50%, #ff9f43 100%)",
+    "text": "linear-gradient(90deg, #5e72eb 0%, #ff6d6d 50%, #00d4a4 100%)"
   },
-  "trendNote": "In June 2026, tech and AI-themed websites are embracing bold glassmorphism designs paired with glowing, high-contrast color palettes. Vivid blues and teals dominate as primary accents, complemented by warm, summery oranges and pinks to evoke energy and innovation. Animation is smooth and quick, reflecting the speed of progress in AI technologies."
+  "trendNote": "June 2026 sees a sophisticated evolution of glassmorphism, focusing on frosted surfaces with vivid neon accents and soft glowing highlights. Typography is clean and modern with geometric sans fonts, while animations are swift but subtle, emphasizing fluidity and precision. The use of warm, summer-inspired accents reflects seasonal vibrance."
 }
