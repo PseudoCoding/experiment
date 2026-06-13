@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-13",
   "palette": {
-    "background": "#0b0d14",
-    "surface": "#16191f",
-    "surfaceAlt": "#1f232b",
-    "primary": "#5e72eb",
-    "primaryLight": "#8e9eff",
-    "secondary": "#ff6d6d",
-    "accent": "#00d4a4",
-    "accentWarm": "#ff9f43",
-    "text": "#f2f4f8",
-    "textMuted": "#a9afc1",
-    "textSubtle": "#6f7385",
-    "border": "#2a2f3b",
-    "glow": "rgba(94, 114, 235, 0.6)"
+    "background": "#0a0b1f",
+    "surface": "#15172e",
+    "surfaceAlt": "#1c1f3a",
+    "primary": "#4e9aff",
+    "primaryLight": "#84b8ff",
+    "secondary": "#ff7e5e",
+    "accent": "#ffd700",
+    "accentWarm": "#ffae42",
+    "text": "#f2f4fb",
+    "textMuted": "#b0b3c5",
+    "textSubtle": "#8a8da5",
+    "border": "#26294a",
+    "glow": "rgba(78, 154, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.5s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e72eb 0%, #ff6d6d 50%, #00d4a4 100%)",
-    "timeline": "linear-gradient(180deg, #16191f 0%, #5e72eb 50%, #ff9f43 100%)",
-    "text": "linear-gradient(90deg, #5e72eb 0%, #ff6d6d 50%, #00d4a4 100%)"
+    "hero": "linear-gradient(135deg, #4e9aff 0%, #6b57ff 50%, #d36aff 100%)",
+    "timeline": "linear-gradient(180deg, #15172e 0%, #3a3d60 50%, #626584 100%)",
+    "text": "linear-gradient(90deg, #ffd700 0%, #ff7e5e 50%, #ffae42 100%)"
   },
-  "trendNote": "June 2026 sees a sophisticated evolution of glassmorphism, focusing on frosted surfaces with vivid neon accents and soft glowing highlights. Typography is clean and modern with geometric sans fonts, while animations are swift but subtle, emphasizing fluidity and precision. The use of warm, summer-inspired accents reflects seasonal vibrance."
+  "trendNote": "In June 2026, dark-mode interfaces are embracing ultra-dark backgrounds paired with vibrant, high-contrast colors like electric blues and warm golds. Glassmorphism continues to dominate, with frosted surfaces, soft gradients, and glowing effects enhancing a sleek and futuristic aesthetic for tech and AI platforms."
 }
