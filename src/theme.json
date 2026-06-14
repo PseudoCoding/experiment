@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-13",
+  "lastUpdated": "2026-06-14",
   "palette": {
-    "background": "#0a0b1f",
-    "surface": "#15172e",
-    "surfaceAlt": "#1c1f3a",
-    "primary": "#4e9aff",
-    "primaryLight": "#84b8ff",
-    "secondary": "#ff7e5e",
-    "accent": "#ffd700",
-    "accentWarm": "#ffae42",
-    "text": "#f2f4fb",
-    "textMuted": "#b0b3c5",
-    "textSubtle": "#8a8da5",
-    "border": "#26294a",
-    "glow": "rgba(78, 154, 255, 0.6)"
+    "background": "#0b0d13",
+    "surface": "#15171f",
+    "surfaceAlt": "#1e2230",
+    "primary": "#3a82f8",
+    "primaryLight": "#66a4ff",
+    "secondary": "#f47174",
+    "accent": "#13c1be",
+    "accentWarm": "#f7a93b",
+    "text": "#f2f4f9",
+    "textMuted": "#8892b0",
+    "textSubtle": "#4c5f7a",
+    "border": "#1e2230",
+    "glow": "rgba(58, 130, 248, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -25,14 +25,14 @@
     "style": "glassmorphism",
     "borderRadius": "16px",
     "cardBlur": "24px",
-    "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "shadowIntensity": "high",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e9aff 0%, #6b57ff 50%, #d36aff 100%)",
-    "timeline": "linear-gradient(180deg, #15172e 0%, #3a3d60 50%, #626584 100%)",
-    "text": "linear-gradient(90deg, #ffd700 0%, #ff7e5e 50%, #ffae42 100%)"
+    "hero": "linear-gradient(135deg, #3a82f8 0%, #13c1be 50%, #f47174 100%)",
+    "timeline": "linear-gradient(180deg, #15171f 0%, #3a82f8 50%, #f7a93b 100%)",
+    "text": "linear-gradient(90deg, #f47174 0%, #f7a93b 50%, #13c1be 100%)"
   },
-  "trendNote": "In June 2026, dark-mode interfaces are embracing ultra-dark backgrounds paired with vibrant, high-contrast colors like electric blues and warm golds. Glassmorphism continues to dominate, with frosted surfaces, soft gradients, and glowing effects enhancing a sleek and futuristic aesthetic for tech and AI platforms."
+  "trendNote": "In June 2026, dark interfaces are leaning towards a harmonious blend of vivid, glowing colors paired with glassmorphism. The use of high-contrast, futuristic tones like electric blues, teals, and warm accents creates a dynamic and tech-forward aesthetic. Typography emphasizes clear readability and a modern, professional feel with subtle but smooth micro-interactions."
 }
