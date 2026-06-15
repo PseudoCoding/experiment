@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-06-15",
   "palette": {
-    "background": "#0b0d13",
-    "surface": "#15171f",
-    "surfaceAlt": "#1e2230",
-    "primary": "#3a82f8",
-    "primaryLight": "#66a4ff",
-    "secondary": "#f47174",
-    "accent": "#13c1be",
-    "accentWarm": "#f7a93b",
-    "text": "#f2f4f9",
-    "textMuted": "#8892b0",
-    "textSubtle": "#4c5f7a",
-    "border": "#1e2230",
-    "glow": "rgba(58, 130, 248, 0.5)"
+    "background": "#0a0b14",
+    "surface": "#151827",
+    "surfaceAlt": "#1d2133",
+    "primary": "#4a90e2",
+    "primaryLight": "#72b2ff",
+    "secondary": "#8f62ff",
+    "accent": "#ff6f61",
+    "accentWarm": "#f8a849",
+    "text": "#f1f3fa",
+    "textMuted": "#b0b4c2",
+    "textSubtle": "#6e7381",
+    "border": "#2a2f42",
+    "glow": "rgba(74, 144, 226, 0.45)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -25,14 +25,14 @@
     "style": "glassmorphism",
     "borderRadius": "16px",
     "cardBlur": "24px",
-    "shadowIntensity": "high",
-    "animationSpeed": "0.35s",
-    "glowRadius": "60px"
+    "shadowIntensity": "medium",
+    "animationSpeed": "0.5s",
+    "glowRadius": "30px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #3a82f8 0%, #13c1be 50%, #f47174 100%)",
-    "timeline": "linear-gradient(180deg, #15171f 0%, #3a82f8 50%, #f7a93b 100%)",
-    "text": "linear-gradient(90deg, #f47174 0%, #f7a93b 50%, #13c1be 100%)"
+    "hero": "linear-gradient(135deg, #4a90e2 0%, #8f62ff 50%, #ff6f61 100%)",
+    "timeline": "linear-gradient(180deg, #151827 0%, #4a90e2 50%, #f8a849 100%)",
+    "text": "linear-gradient(90deg, #ff6f61 0%, #8f62ff 50%, #4a90e2 100%)"
   },
-  "trendNote": "In June 2026, dark interfaces are leaning towards a harmonious blend of vivid, glowing colors paired with glassmorphism. The use of high-contrast, futuristic tones like electric blues, teals, and warm accents creates a dynamic and tech-forward aesthetic. Typography emphasizes clear readability and a modern, professional feel with subtle but smooth micro-interactions."
+  "trendNote": "In June 2026, AI-themed websites are embracing an evolved form of glassmorphism, featuring frosted surfaces, vivid electric blues, and glowing accents to convey technological sophistication. Typography trends lean towards clarity and modernity, with geometric sans-serif fonts like 'Inter' paired with softer, fluid animations that feel inviting and professional."
 }
