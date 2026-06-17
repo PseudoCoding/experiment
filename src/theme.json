@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-16",
+  "lastUpdated": "2026-06-17",
   "palette": {
-    "background": "#0b0d14",
-    "surface": "#16181f",
-    "surfaceAlt": "#1e2028",
-    "primary": "#6c5ce7",
-    "primaryLight": "#a29bfe",
-    "secondary": "#00cec9",
-    "accent": "#fd79a8",
-    "accentWarm": "#fab1a0",
-    "text": "#f8f9fc",
-    "textMuted": "#a4a6b3",
-    "textSubtle": "#7f8190",
-    "border": "#2d303c",
-    "glow": "rgba(108, 92, 231, 0.4)"
+    "background": "#0a0a18",
+    "surface": "#12122b",
+    "surfaceAlt": "#1e1e3c",
+    "primary": "#6c57ff",
+    "primaryLight": "#b39aff",
+    "secondary": "#4dc9ff",
+    "accent": "#ff7e79",
+    "accentWarm": "#ffa94d",
+    "text": "#f3f4fa",
+    "textMuted": "#b0b3c3",
+    "textSubtle": "#8a8da3",
+    "border": "#2b2b44",
+    "glow": "rgba(108, 87, 255, 0.8)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
-    "headingWeight": "600",
+    "headingWeight": "700",
     "bodyWeight": "400"
   },
   "aesthetic": {
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.6s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #6c5ce7 0%, #00cec9 50%, #fd79a8 100%)",
-    "timeline": "linear-gradient(180deg, #1e2028 0%, #6c5ce7 50%, #00cec9 100%)",
-    "text": "linear-gradient(90deg, #6c5ce7 0%, #fd79a8 50%, #fab1a0 100%)"
+    "hero": "linear-gradient(135deg, #6c57ff 0%, #4dc9ff 50%, #ff7e79 100%)",
+    "timeline": "linear-gradient(180deg, #12122b 0%, #4dc9ff 50%, #ff7e79 100%)",
+    "text": "linear-gradient(90deg, #6c57ff 0%, #4dc9ff 50%, #ffa94d 100%)"
   },
-  "trendNote": "In June 2026, dark mode design embraces vibrant pops of color like electric purple and teal paired with glassmorphism aesthetics to create futuristic, AI-driven experiences. Typography trends favor geometric sans-serif fonts with smooth animations that emphasize fluid and polished interactions."
+  "trendNote": "June 2026 sees AI and tech interfaces embracing a vibrant, futuristic aesthetic with bold gradients and glowing accents. Glassmorphism continues to dominate, paired with smooth animations and clean typography for a polished yet approachable experience. Seasonal tones include warm golden oranges to reflect summer energy alongside crisp, high-contrast hues."
 }
