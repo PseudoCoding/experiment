@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-18",
+  "lastUpdated": "2026-06-19",
   "palette": {
-    "background": "#0a0c14",
-    "surface": "#14171f",
-    "surfaceAlt": "#1e2230",
-    "primary": "#00b4d8",
-    "primaryLight": "#60efff",
-    "secondary": "#ff6f61",
-    "accent": "#00d68f",
-    "accentWarm": "#ffae42",
-    "text": "#f0f4fc",
-    "textMuted": "#b0b8cc",
-    "textSubtle": "#8a92a5",
-    "border": "#2a2f3d",
-    "glow": "rgba(0, 180, 216, 0.3)"
+    "background": "#0a0b13",
+    "surface": "#141625",
+    "surfaceAlt": "#1c1f33",
+    "primary": "#4e9eff",
+    "primaryLight": "#88bdff",
+    "secondary": "#ff6f91",
+    "accent": "#19f9d8",
+    "accentWarm": "#ff9e47",
+    "text": "#f0f3ff",
+    "textMuted": "#c2c6d6",
+    "textSubtle": "#8b90a0",
+    "border": "#2c2f43",
+    "glow": "rgba(78, 158, 255, 0.8)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #00b4d8 0%, #60efff 50%, #ff6f61 100%)",
-    "timeline": "linear-gradient(180deg, #14171f 0%, #00d68f 50%, #ffae42 100%)",
-    "text": "linear-gradient(90deg, #60efff 0%, #00b4d8 50%, #ff6f61 100%)"
+    "hero": "linear-gradient(135deg, #4e9eff 0%, #19f9d8 50%, #ff6f91 100%)",
+    "timeline": "linear-gradient(180deg, #141625 0%, #4e9eff 50%, #ff9e47 100%)",
+    "text": "linear-gradient(90deg, #4e9eff 0%, #19f9d8 50%, #ff6f91 100%)"
   },
-  "trendNote": "In June 2026, dark-mode tech interfaces embrace vibrant neon accents and glassmorphism, combining depth with futuristic transparency. Smooth animations and high-contrast fonts reflect the season's energetic yet professional aesthetic, with gradients evoking a summery, high-tech vibe."
+  "trendNote": "June 2026 trends emphasize futuristic, AI-inspired aesthetics with a strong focus on glassmorphism for depth and layering. Bright accents like cyan and coral stand out against moody dark backgrounds, creating a vivid yet professional feel that resonates with the summer season's energetic vibe."
 }
