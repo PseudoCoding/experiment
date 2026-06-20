@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-20",
   "palette": {
-    "background": "#0a0b13",
-    "surface": "#141625",
+    "background": "#0a0b14",
+    "surface": "#141626",
     "surfaceAlt": "#1c1f33",
-    "primary": "#4e9eff",
-    "primaryLight": "#88bdff",
-    "secondary": "#ff6f91",
-    "accent": "#19f9d8",
-    "accentWarm": "#ff9e47",
-    "text": "#f0f3ff",
-    "textMuted": "#c2c6d6",
-    "textSubtle": "#8b90a0",
-    "border": "#2c2f43",
-    "glow": "rgba(78, 158, 255, 0.8)"
+    "primary": "#5d5ffe",
+    "primaryLight": "#8a8dff",
+    "secondary": "#1ec8a5",
+    "accent": "#ff6e6e",
+    "accentWarm": "#ffb545",
+    "text": "#e8eaf0",
+    "textMuted": "#a8adbf",
+    "textSubtle": "#6c7284",
+    "border": "#2a2d45",
+    "glow": "rgba(93, 95, 254, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e9eff 0%, #19f9d8 50%, #ff6f91 100%)",
-    "timeline": "linear-gradient(180deg, #141625 0%, #4e9eff 50%, #ff9e47 100%)",
-    "text": "linear-gradient(90deg, #4e9eff 0%, #19f9d8 50%, #ff6f91 100%)"
+    "hero": "linear-gradient(135deg, #5d5ffe 0%, #1ec8a5 50%, #ff6e6e 100%)",
+    "timeline": "linear-gradient(180deg, #1c1f33 0%, #5d5ffe 50%, #8a8dff 100%)",
+    "text": "linear-gradient(90deg, #5d5ffe 0%, #ff6e6e 50%, #ffb545 100%)"
   },
-  "trendNote": "June 2026 trends emphasize futuristic, AI-inspired aesthetics with a strong focus on glassmorphism for depth and layering. Bright accents like cyan and coral stand out against moody dark backgrounds, creating a vivid yet professional feel that resonates with the summer season's energetic vibe."
+  "trendNote": "In June 2026, dark-mode tech interfaces embrace a futuristic, glassmorphic aesthetic featuring layered transparency and soft glows. Vivid gradients and neon-inspired accents create striking contrasts against deeply muted backgrounds, embodying a blend of professionalism and innovation."
 }
