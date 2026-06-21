@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-20",
+  "lastUpdated": "2026-06-21",
   "palette": {
     "background": "#0a0b14",
-    "surface": "#141626",
+    "surface": "#131526",
     "surfaceAlt": "#1c1f33",
-    "primary": "#5d5ffe",
-    "primaryLight": "#8a8dff",
-    "secondary": "#1ec8a5",
-    "accent": "#ff6e6e",
-    "accentWarm": "#ffb545",
-    "text": "#e8eaf0",
-    "textMuted": "#a8adbf",
-    "textSubtle": "#6c7284",
-    "border": "#2a2d45",
-    "glow": "rgba(93, 95, 254, 0.5)"
+    "primary": "#4a90e2",
+    "primaryLight": "#6baef7",
+    "secondary": "#10cfcf",
+    "accent": "#f76fa3",
+    "accentWarm": "#ff9e5c",
+    "text": "#f3f4fa",
+    "textMuted": "#b3b6c6",
+    "textSubtle": "#8c8fa0",
+    "border": "#262a40",
+    "glow": "rgba(74, 144, 226, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5d5ffe 0%, #1ec8a5 50%, #ff6e6e 100%)",
-    "timeline": "linear-gradient(180deg, #1c1f33 0%, #5d5ffe 50%, #8a8dff 100%)",
-    "text": "linear-gradient(90deg, #5d5ffe 0%, #ff6e6e 50%, #ffb545 100%)"
+    "hero": "linear-gradient(135deg, #4a90e2 0%, #10cfcf 50%, #f76fa3 100%)",
+    "timeline": "linear-gradient(180deg, #131526 0%, #4a90e2 50%, #10cfcf 100%)",
+    "text": "linear-gradient(90deg, #f76fa3 0%, #ff9e5c 50%, #4a90e2 100%)"
   },
-  "trendNote": "In June 2026, dark-mode tech interfaces embrace a futuristic, glassmorphic aesthetic featuring layered transparency and soft glows. Vivid gradients and neon-inspired accents create striking contrasts against deeply muted backgrounds, embodying a blend of professionalism and innovation."
+  "trendNote": "June 2026 sees a resurgence of refined glassmorphism, combining frosted surfaces with high-contrast vivid accents like electric blue and neon coral. Typography trends favor geometric sans-serifs such as Inter, paired with dynamic, fluid animations that balance sophistication with tech-forward energy. Seasonal influences bring warmer accent tones like coral and peach to complement cool blues."
 }
