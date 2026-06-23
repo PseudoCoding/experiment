@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "palette": {
-    "background": "#0a0b11",
-    "surface": "#16181e",
-    "surfaceAlt": "#1f2128",
-    "primary": "#5d5cff",
-    "primaryLight": "#7f7dff",
-    "secondary": "#02e9e4",
-    "accent": "#ff8edb",
-    "accentWarm": "#ff6e3d",
-    "text": "#f1f2f7",
-    "textMuted": "#c4c8d1",
-    "textSubtle": "#9094a3",
-    "border": "#292c36",
-    "glow": "rgba(93, 92, 255, 0.4)"
+    "background": "#0b0d17",
+    "surface": "#151a2f",
+    "surfaceAlt": "#1f253e",
+    "primary": "#4f9dff",
+    "primaryLight": "#8abbff",
+    "secondary": "#ff758f",
+    "accent": "#36ef8f",
+    "accentWarm": "#ffa74a",
+    "text": "#edf0fa",
+    "textMuted": "#a3a9bf",
+    "textSubtle": "#747a94",
+    "border": "#2d3552",
+    "glow": "rgba(79, 157, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "40px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5d5cff 0%, #02e9e4 50%, #ff8edb 100%)",
-    "timeline": "linear-gradient(180deg, #1f2128 0%, #5d5cff 50%, #02e9e4 100%)",
-    "text": "linear-gradient(90deg, #5d5cff 0%, #ff8edb 50%, #ff6e3d 100%)"
+    "hero": "linear-gradient(135deg, #4f9dff 0%, #36ef8f 50%, #ff758f 100%)",
+    "timeline": "linear-gradient(180deg, #151a2f 0%, #4f9dff 50%, #ffa74a 100%)",
+    "text": "linear-gradient(90deg, #ff758f 0%, #36ef8f 50%, #4f9dff 100%)"
   },
-  "trendNote": "June 2026 sees a rise in glassmorphism paired with vivid, neon-inspired color palettes for tech and AI websites. Typography leans on modern sans-serif fonts with clean, professional weights, while animations balance smoothness with intentionality to convey cutting-edge sophistication."
+  "trendNote": "In June 2026, dark-mode interfaces are embracing vivid, high-contrast palettes with gradients and glowing elements, creating an ultra-modern and energetic feel. Glassmorphism continues to dominate, paired with smooth animations and rounded edges that evoke a futuristic yet approachable aesthetic."
 }
