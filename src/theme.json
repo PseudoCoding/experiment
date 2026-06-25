@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-24",
+  "lastUpdated": "2026-06-25",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#121526",
-    "surfaceAlt": "#1a1e33",
-    "primary": "#4a90e2",
-    "primaryLight": "#7bb7ff",
-    "secondary": "#e26d5a",
-    "accent": "#8a7ce2",
-    "accentWarm": "#e2a45a",
-    "text": "#f5f7fb",
-    "textMuted": "#c1c4d6",
-    "textSubtle": "#8a8d99",
-    "border": "#2a2e44",
-    "glow": "rgba(74, 144, 226, 0.4)"
+    "background": "#0a0d14",
+    "surface": "#11151f",
+    "surfaceAlt": "#1b202d",
+    "primary": "#4d7cff",
+    "primaryLight": "#809bff",
+    "secondary": "#00d8ff",
+    "accent": "#ff4d6d",
+    "accentWarm": "#f29f05",
+    "text": "#f2f5fc",
+    "textMuted": "#a4abc2",
+    "textSubtle": "#6f768d",
+    "border": "#25304a",
+    "glow": "rgba(77, 124, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.35s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a90e2 0%, #8a7ce2 50%, #e26d5a 100%)",
-    "timeline": "linear-gradient(180deg, #121526 0%, #1a1e33 50%, #4a90e2 100%)",
-    "text": "linear-gradient(90deg, #ff7eb3 0%, #ff758c 50%, #ff6f61 100%)"
+    "hero": "linear-gradient(135deg, #4d7cff 0%, #00d8ff 50%, #ff4d6d 100%)",
+    "timeline": "linear-gradient(180deg, #11151f 0%, #4d7cff 50%, #f29f05 100%)",
+    "text": "linear-gradient(90deg, #4d7cff 0%, #00d8ff 50%, #ff4d6d 100%)"
   },
-  "trendNote": "In June 2026, tech and AI-themed websites are embracing glassmorphism with soft frosted surfaces, vibrant gradients, and glowing accents for a futuristic feel. Dark mode interfaces are elevated with high-contrast text, warm and cool accent hues, and fluid animations to create an engaging, professional aesthetic."
+  "trendNote": "In June 2026, dark mode interfaces favor glassmorphism with ethereal glows and blurred surfaces, creating a futuristic yet inviting aesthetic. Vivid blues and neon accents dominate, complemented by warm golds for balance, while animations are smooth and fast to align with AI's dynamic branding."
 }
