@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-26",
   "palette": {
-    "background": "#0a0d14",
-    "surface": "#11151f",
-    "surfaceAlt": "#1b202d",
-    "primary": "#4d7cff",
-    "primaryLight": "#809bff",
-    "secondary": "#00d8ff",
-    "accent": "#ff4d6d",
-    "accentWarm": "#f29f05",
-    "text": "#f2f5fc",
-    "textMuted": "#a4abc2",
-    "textSubtle": "#6f768d",
-    "border": "#25304a",
-    "glow": "rgba(77, 124, 255, 0.6)"
+    "background": "#0b0b12",
+    "surface": "#15151f",
+    "surfaceAlt": "#1e1e2c",
+    "primary": "#3a6df0",
+    "primaryLight": "#7a9dfc",
+    "secondary": "#5bcfbf",
+    "accent": "#ff7ac6",
+    "accentWarm": "#ffb347",
+    "text": "#f1f3f8",
+    "textMuted": "#c2c5d3",
+    "textSubtle": "#8f92a3",
+    "border": "#272736",
+    "glow": "rgba(58, 109, 240, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
-    "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
+    "cardBlur": "25px",
+    "shadowIntensity": "high",
+    "animationSpeed": "0.6s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4d7cff 0%, #00d8ff 50%, #ff4d6d 100%)",
-    "timeline": "linear-gradient(180deg, #11151f 0%, #4d7cff 50%, #f29f05 100%)",
-    "text": "linear-gradient(90deg, #4d7cff 0%, #00d8ff 50%, #ff4d6d 100%)"
+    "hero": "linear-gradient(135deg, #3a6df0 0%, #ff7ac6 50%, #5bcfbf 100%)",
+    "timeline": "linear-gradient(180deg, #0b0b12 0%, #3a6df0 50%, #ffb347 100%)",
+    "text": "linear-gradient(90deg, #3a6df0 0%, #5bcfbf 50%, #ff7ac6 100%)"
   },
-  "trendNote": "In June 2026, dark mode interfaces favor glassmorphism with ethereal glows and blurred surfaces, creating a futuristic yet inviting aesthetic. Vivid blues and neon accents dominate, complemented by warm golds for balance, while animations are smooth and fast to align with AI's dynamic branding."
+  "trendNote": "In June 2026, glassmorphism remains dominant in tech and AI-themed websites, complementing sharp, vibrant color accents with high-contrast dark backgrounds. Subtle frosted-glass effects and neon-inspired glows evoke a futuristic yet approachable aesthetic. Typography emphasizes clarity and sophistication with bold sans-serif headings and clean body text."
 }
