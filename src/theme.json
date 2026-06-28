@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-27",
+  "lastUpdated": "2026-06-28",
   "palette": {
-    "background": "#0a0f17",
-    "surface": "#111827",
-    "surfaceAlt": "#1a1f2e",
-    "primary": "#5e70ff",
-    "primaryLight": "#889fff",
-    "secondary": "#ff7b57",
-    "accent": "#51d2b5",
-    "accentWarm": "#ffbc47",
-    "text": "#f4f6fb",
-    "textMuted": "#c6cad6",
-    "textSubtle": "#9ba1b2",
-    "border": "#303846",
-    "glow": "rgba(94, 112, 255, 0.6)"
+    "background": "#0a0b14",
+    "surface": "#161822",
+    "surfaceAlt": "#1e2130",
+    "primary": "#5d5fe1",
+    "primaryLight": "#8789ff",
+    "secondary": "#19d3da",
+    "accent": "#ff7d6a",
+    "accentWarm": "#f8b400",
+    "text": "#f8f9fc",
+    "textMuted": "#c2c5d3",
+    "textSubtle": "#8e94a6",
+    "border": "#2b2f3f",
+    "glow": "rgba(93, 95, 225, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.4s",
+    "animationSpeed": "0.3s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e70ff 0%, #51d2b5 50%, #ff7b57 100%)",
-    "timeline": "linear-gradient(180deg, #5e70ff 0%, #ffbc47 50%, #ff7b57 100%)",
-    "text": "linear-gradient(90deg, #51d2b5 0%, #5e70ff 50%, #ffbc47 100%)"
+    "hero": "linear-gradient(135deg, #5d5fe1 0%, #19d3da 50%, #ff7d6a 100%)",
+    "timeline": "linear-gradient(180deg, #1e2130 0%, #5d5fe1 50%, #19d3da 100%)",
+    "text": "linear-gradient(90deg, #ff7d6a 0%, #f8b400 50%, #19d3da 100%)"
   },
-  "trendNote": "June 2026 trends favor vibrant, saturated colors paired with dark, rich backgrounds for tech interfaces. Glassmorphism remains strong with elevated surfaces, soft shadows, and frosted blurs, while glowing accents create a futuristic yet approachable aesthetic that aligns with summer energy and AI innovation."
+  "trendNote": "In June 2026, bold glassmorphism with vivid accent colors like periwinkle and aqua dominate AI-themed designs, paired with clean sans-serif typography like Inter. Seasonal warmth is reflected in orange and yellow accents, while glowing details and dynamic gradients add depth and a futuristic feel to dark, atmospheric interfaces."
 }
