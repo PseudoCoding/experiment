@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-06-29",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#161822",
-    "surfaceAlt": "#1e2130",
-    "primary": "#5d5fe1",
-    "primaryLight": "#8789ff",
-    "secondary": "#19d3da",
-    "accent": "#ff7d6a",
-    "accentWarm": "#f8b400",
-    "text": "#f8f9fc",
-    "textMuted": "#c2c5d3",
-    "textSubtle": "#8e94a6",
-    "border": "#2b2f3f",
-    "glow": "rgba(93, 95, 225, 0.6)"
+    "background": "#050510",
+    "surface": "#121223",
+    "surfaceAlt": "#1e1e36",
+    "primary": "#6a5bff",
+    "primaryLight": "#928bff",
+    "secondary": "#ff5e7e",
+    "accent": "#00e0e0",
+    "accentWarm": "#f2994a",
+    "text": "#f6f8fc",
+    "textMuted": "#c1c3d1",
+    "textSubtle": "#a0a2b8",
+    "border": "#2e2e4a",
+    "glow": "rgba(106, 91, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -23,16 +23,16 @@
   },
   "aesthetic": {
     "style": "glassmorphism",
-    "borderRadius": "16px",
+    "borderRadius": "18px",
     "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5d5fe1 0%, #19d3da 50%, #ff7d6a 100%)",
-    "timeline": "linear-gradient(180deg, #1e2130 0%, #5d5fe1 50%, #19d3da 100%)",
-    "text": "linear-gradient(90deg, #ff7d6a 0%, #f8b400 50%, #19d3da 100%)"
+    "hero": "linear-gradient(135deg, #6a5bff 0%, #ff5e7e 50%, #00e0e0 100%)",
+    "timeline": "linear-gradient(180deg, #ff5e7e 0%, #6a5bff 50%, #00e0e0 100%)",
+    "text": "linear-gradient(90deg, #f2994a 0%, #ff5e7e 50%, #6a5bff 100%)"
   },
-  "trendNote": "In June 2026, bold glassmorphism with vivid accent colors like periwinkle and aqua dominate AI-themed designs, paired with clean sans-serif typography like Inter. Seasonal warmth is reflected in orange and yellow accents, while glowing details and dynamic gradients add depth and a futuristic feel to dark, atmospheric interfaces."
+  "trendNote": "In June 2026, technology and AI-themed designs embrace a futuristic yet approachable look with vivid neons and calm glassy surfaces. Glassmorphism, paired with subtle animations and bold gradients, creates depth while maintaining a sleek, professional aesthetic. Summer trends inspire a warm yet balanced interplay of glowing accents and vibrant tones."
 }
