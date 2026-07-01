@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-01",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#12121f",
-    "surfaceAlt": "#1b1b2c",
-    "primary": "#4e8cff",
-    "primaryLight": "#8db9ff",
-    "secondary": "#6a57ff",
-    "accent": "#ff6b8a",
-    "accentWarm": "#ffbf64",
-    "text": "#f1f3f9",
-    "textMuted": "#b0b3c5",
-    "textSubtle": "#888ba3",
-    "border": "#23233a",
-    "glow": "rgba(78, 140, 255, 0.3)"
+    "background": "#0a0d14",
+    "surface": "#121826",
+    "surfaceAlt": "#1b2436",
+    "primary": "#4a8fff",
+    "primaryLight": "#82afff",
+    "secondary": "#ff6ae6",
+    "accent": "#00e0a3",
+    "accentWarm": "#fc8d3f",
+    "text": "#f5f7fa",
+    "textMuted": "#c2c8d6",
+    "textSubtle": "#8a92a6",
+    "border": "#253147",
+    "glow": "rgba(74, 143, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e8cff 0%, #6a57ff 50%, #ff6b8a 100%)",
-    "timeline": "linear-gradient(180deg, #12121f 0%, #4e8cff 50%, #ffbf64 100%)",
-    "text": "linear-gradient(90deg, #ff6b8a 0%, #4e8cff 50%, #6a57ff 100%)"
+    "hero": "linear-gradient(135deg, #4a8fff 0%, #a05bff 50%, #ff6ae6 100%)",
+    "timeline": "linear-gradient(180deg, #00e0a3 0%, #fc8d3f 50%, #ff6ae6 100%)",
+    "text": "linear-gradient(90deg, #82afff 0%, #4a8fff 50%, #00e0a3 100%)"
   },
-  "trendNote": "In June 2026, dark-mode interfaces embrace vibrant, high-contrast color schemes with a strong focus on glows and gradients to convey energy and sophistication. Glassmorphism remains dominant, softening the bold color palettes with translucent surfaces and diffused shadows, while animations are smooth and deliberate to enhance the futuristic aesthetic."
+  "trendNote": "July 2026 design trends emphasize futuristic aesthetics with refined glassmorphism, vivid neons, and professional gradients. Dark-mode palettes now focus on rich blues and purples paired with warm accents for high visual impact, while animations are smooth and deliberate to enhance user experience in tech and AI interfaces."
 }
