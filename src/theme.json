@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-02",
   "palette": {
-    "background": "#0a0d14",
-    "surface": "#121826",
-    "surfaceAlt": "#1b2436",
-    "primary": "#4a8fff",
-    "primaryLight": "#82afff",
-    "secondary": "#ff6ae6",
-    "accent": "#00e0a3",
-    "accentWarm": "#fc8d3f",
-    "text": "#f5f7fa",
-    "textMuted": "#c2c8d6",
-    "textSubtle": "#8a92a6",
-    "border": "#253147",
-    "glow": "rgba(74, 143, 255, 0.6)"
+    "background": "#05050e",
+    "surface": "#12121b",
+    "surfaceAlt": "#1c1c27",
+    "primary": "#4a90e2",
+    "primaryLight": "#6fb6ff",
+    "secondary": "#c768eb",
+    "accent": "#ff7f50",
+    "accentWarm": "#ffae42",
+    "text": "#f3f4f9",
+    "textMuted": "#c2c4d5",
+    "textSubtle": "#8a8ea3",
+    "border": "#292938",
+    "glow": "rgba(72, 118, 255, 0.3)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a8fff 0%, #a05bff 50%, #ff6ae6 100%)",
-    "timeline": "linear-gradient(180deg, #00e0a3 0%, #fc8d3f 50%, #ff6ae6 100%)",
-    "text": "linear-gradient(90deg, #82afff 0%, #4a8fff 50%, #00e0a3 100%)"
+    "hero": "linear-gradient(135deg, #4a90e2 0%, #c768eb 50%, #ff7f50 100%)",
+    "timeline": "linear-gradient(180deg, #12121b 0%, #4a90e2 50%, #c768eb 100%)",
+    "text": "linear-gradient(90deg, #4a90e2 0%, #ff7f50 50%, #ffae42 100%)"
   },
-  "trendNote": "July 2026 design trends emphasize futuristic aesthetics with refined glassmorphism, vivid neons, and professional gradients. Dark-mode palettes now focus on rich blues and purples paired with warm accents for high visual impact, while animations are smooth and deliberate to enhance user experience in tech and AI interfaces."
+  "trendNote": "July 2026 design trends center around futuristic, visually soft aesthetics with a focus on glassmorphism and luminescent accents. Tech interfaces balance high contrast with vivid, glowing gradients, while leveraging smooth animations and professional typography for a modern and sophisticated look."
 }
