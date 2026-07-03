@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-02",
+  "lastUpdated": "2026-07-03",
   "palette": {
-    "background": "#05050e",
-    "surface": "#12121b",
-    "surfaceAlt": "#1c1c27",
+    "background": "#0b0d11",
+    "surface": "#12151c",
+    "surfaceAlt": "#1a1f2a",
     "primary": "#4a90e2",
-    "primaryLight": "#6fb6ff",
-    "secondary": "#c768eb",
-    "accent": "#ff7f50",
-    "accentWarm": "#ffae42",
-    "text": "#f3f4f9",
-    "textMuted": "#c2c4d5",
-    "textSubtle": "#8a8ea3",
-    "border": "#292938",
-    "glow": "rgba(72, 118, 255, 0.3)"
+    "primaryLight": "#73abf2",
+    "secondary": "#ffa726",
+    "accent": "#ff4081",
+    "accentWarm": "#ff6f61",
+    "text": "#f8f9fc",
+    "textMuted": "#c7cfdd",
+    "textSubtle": "#8a94a7",
+    "border": "#2d3442",
+    "glow": "rgba(74, 144, 226, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.3s",
+    "glowRadius": "70px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a90e2 0%, #c768eb 50%, #ff7f50 100%)",
-    "timeline": "linear-gradient(180deg, #12121b 0%, #4a90e2 50%, #c768eb 100%)",
-    "text": "linear-gradient(90deg, #4a90e2 0%, #ff7f50 50%, #ffae42 100%)"
+    "hero": "linear-gradient(135deg, #4a90e2 0%, #73abf2 50%, #ffa726 100%)",
+    "timeline": "linear-gradient(180deg, #1a1f2a 0%, #4a90e2 50%, #ff4081 100%)",
+    "text": "linear-gradient(90deg, #4a90e2 0%, #ff4081 50%, #ffa726 100%)"
   },
-  "trendNote": "July 2026 design trends center around futuristic, visually soft aesthetics with a focus on glassmorphism and luminescent accents. Tech interfaces balance high contrast with vivid, glowing gradients, while leveraging smooth animations and professional typography for a modern and sophisticated look."
+  "trendNote": "In July 2026, tech and AI websites embrace glassmorphism with frosted surfaces and vibrant neon accents, reflecting a futuristic aesthetic. High contrast between dark backgrounds and vivid primary colors, combined with soft glows and subtle animations, creates an immersive and polished experience."
 }
