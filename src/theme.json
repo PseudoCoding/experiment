@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-03",
+  "lastUpdated": "2026-07-04",
   "palette": {
-    "background": "#0b0d11",
-    "surface": "#12151c",
-    "surfaceAlt": "#1a1f2a",
-    "primary": "#4a90e2",
-    "primaryLight": "#73abf2",
-    "secondary": "#ffa726",
-    "accent": "#ff4081",
-    "accentWarm": "#ff6f61",
-    "text": "#f8f9fc",
-    "textMuted": "#c7cfdd",
-    "textSubtle": "#8a94a7",
-    "border": "#2d3442",
-    "glow": "rgba(74, 144, 226, 0.4)"
+    "background": "#0b0d14",
+    "surface": "#151922",
+    "surfaceAlt": "#1e2430",
+    "primary": "#5a4ff2",
+    "primaryLight": "#837aff",
+    "secondary": "#23d6e2",
+    "accent": "#ff6a89",
+    "accentWarm": "#ff9e57",
+    "text": "#e9edf5",
+    "textMuted": "#b0b7c7",
+    "textSubtle": "#81889b",
+    "border": "#2b2f3a",
+    "glow": "rgba(90, 79, 242, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "70px"
+    "animationSpeed": "0.35s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a90e2 0%, #73abf2 50%, #ffa726 100%)",
-    "timeline": "linear-gradient(180deg, #1a1f2a 0%, #4a90e2 50%, #ff4081 100%)",
-    "text": "linear-gradient(90deg, #4a90e2 0%, #ff4081 50%, #ffa726 100%)"
+    "hero": "linear-gradient(135deg, #5a4ff2 0%, #23d6e2 50%, #ff6a89 100%)",
+    "timeline": "linear-gradient(180deg, #151922 0%, #5a4ff2 50%, #23d6e2 100%)",
+    "text": "linear-gradient(90deg, #23d6e2 0%, #5a4ff2 50%, #ff9e57 100%)"
   },
-  "trendNote": "In July 2026, tech and AI websites embrace glassmorphism with frosted surfaces and vibrant neon accents, reflecting a futuristic aesthetic. High contrast between dark backgrounds and vivid primary colors, combined with soft glows and subtle animations, creates an immersive and polished experience."
+  "trendNote": "In July 2026, tech and AI websites are embracing vibrant electric hues with a mix of cool and warm tones to create dynamic, optimistic designs. Glassmorphism paired with subtle glowing effects and fluid animations evokes a futuristic, approachable aesthetic that's perfect for cutting-edge industries."
 }
