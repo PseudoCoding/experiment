@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-04",
+  "lastUpdated": "2026-07-05",
   "palette": {
-    "background": "#0b0d14",
-    "surface": "#151922",
-    "surfaceAlt": "#1e2430",
-    "primary": "#5a4ff2",
-    "primaryLight": "#837aff",
-    "secondary": "#23d6e2",
-    "accent": "#ff6a89",
-    "accentWarm": "#ff9e57",
-    "text": "#e9edf5",
-    "textMuted": "#b0b7c7",
-    "textSubtle": "#81889b",
-    "border": "#2b2f3a",
-    "glow": "rgba(90, 79, 242, 0.6)"
+    "background": "#0a0b16",
+    "surface": "#111122",
+    "surfaceAlt": "#1a1b2e",
+    "primary": "#5d5fef",
+    "primaryLight": "#8a8dff",
+    "secondary": "#19bfa7",
+    "accent": "#f2545b",
+    "accentWarm": "#ff8a3d",
+    "text": "#f8f9fc",
+    "textMuted": "#b0b4c0",
+    "textSubtle": "#8a8e9a",
+    "border": "#30334a",
+    "glow": "rgba(93, 95, 239, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.6s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a4ff2 0%, #23d6e2 50%, #ff6a89 100%)",
-    "timeline": "linear-gradient(180deg, #151922 0%, #5a4ff2 50%, #23d6e2 100%)",
-    "text": "linear-gradient(90deg, #23d6e2 0%, #5a4ff2 50%, #ff9e57 100%)"
+    "hero": "linear-gradient(135deg, #5d5fef 0%, #19bfa7 50%, #f2545b 100%)",
+    "timeline": "linear-gradient(180deg, #0a0b16 0%, #1a1b2e 50%, #5d5fef 100%)",
+    "text": "linear-gradient(90deg, #5d5fef 0%, #19bfa7 50%, #ff8a3d 100%)"
   },
-  "trendNote": "In July 2026, tech and AI websites are embracing vibrant electric hues with a mix of cool and warm tones to create dynamic, optimistic designs. Glassmorphism paired with subtle glowing effects and fluid animations evokes a futuristic, approachable aesthetic that's perfect for cutting-edge industries."
+  "trendNote": "In July 2026, dark-mode interfaces emphasize vibrant, electric hues like violet, teal, and coral, paired with subtle glassmorphic effects for depth. Designs are clean yet futuristic, with glowing accents and soft animations that evoke a sense of innovation and summer energy."
 }
