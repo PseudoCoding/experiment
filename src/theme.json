@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-06",
   "palette": {
-    "background": "#0a0b16",
-    "surface": "#111122",
-    "surfaceAlt": "#1a1b2e",
-    "primary": "#5d5fef",
-    "primaryLight": "#8a8dff",
-    "secondary": "#19bfa7",
-    "accent": "#f2545b",
-    "accentWarm": "#ff8a3d",
-    "text": "#f8f9fc",
-    "textMuted": "#b0b4c0",
-    "textSubtle": "#8a8e9a",
-    "border": "#30334a",
-    "glow": "rgba(93, 95, 239, 0.4)"
+    "background": "#0a0a14",
+    "surface": "#121225",
+    "surfaceAlt": "#1b1b33",
+    "primary": "#4e98ff",
+    "primaryLight": "#82b2ff",
+    "secondary": "#ffa26d",
+    "accent": "#7de2a6",
+    "accentWarm": "#ffd67a",
+    "text": "#f2f3f8",
+    "textMuted": "#c6c9d6",
+    "textSubtle": "#a1a3b5",
+    "border": "#30304a",
+    "glow": "rgba(78, 152, 255, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.6s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5d5fef 0%, #19bfa7 50%, #f2545b 100%)",
-    "timeline": "linear-gradient(180deg, #0a0b16 0%, #1a1b2e 50%, #5d5fef 100%)",
-    "text": "linear-gradient(90deg, #5d5fef 0%, #19bfa7 50%, #ff8a3d 100%)"
+    "hero": "linear-gradient(135deg, #4e98ff 0%, #7de2a6 50%, #ffa26d 100%)",
+    "timeline": "linear-gradient(180deg, #121225 0%, #4e98ff 50%, #ffa26d 100%)",
+    "text": "linear-gradient(90deg, #4e98ff 0%, #ffd67a 50%, #7de2a6 100%)"
   },
-  "trendNote": "In July 2026, dark-mode interfaces emphasize vibrant, electric hues like violet, teal, and coral, paired with subtle glassmorphic effects for depth. Designs are clean yet futuristic, with glowing accents and soft animations that evoke a sense of innovation and summer energy."
+  "trendNote": "July 2026 design trends for tech and AI websites emphasize refined luxury with crisp glassmorphic elements, vibrant gradients, and subtle glows that simulate futuristic interfaces. Seasonal influence brings warmth to accents and gradients, balancing the cool, tech-inspired palette for a sleek yet approachable visual identity."
 }
