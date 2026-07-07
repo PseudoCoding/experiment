@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-06",
+  "lastUpdated": "2026-07-07",
   "palette": {
-    "background": "#0a0a14",
-    "surface": "#121225",
-    "surfaceAlt": "#1b1b33",
-    "primary": "#4e98ff",
-    "primaryLight": "#82b2ff",
-    "secondary": "#ffa26d",
-    "accent": "#7de2a6",
-    "accentWarm": "#ffd67a",
-    "text": "#f2f3f8",
-    "textMuted": "#c6c9d6",
-    "textSubtle": "#a1a3b5",
-    "border": "#30304a",
-    "glow": "rgba(78, 152, 255, 0.5)"
+    "background": "#0a0d14",
+    "surface": "#131924",
+    "surfaceAlt": "#1b2330",
+    "primary": "#5a8dee",
+    "primaryLight": "#a5c2f5",
+    "secondary": "#51de92",
+    "accent": "#fa5b72",
+    "accentWarm": "#f9c74f",
+    "text": "#f1f3f8",
+    "textMuted": "#a1a6b2",
+    "textSubtle": "#6d7380",
+    "border": "#2a3446",
+    "glow": "rgba(90, 141, 238, 0.45)"
   },
   "typography": {
-    "fontFamily": "Inter",
+    "fontFamily": "Manrope",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.35s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4e98ff 0%, #7de2a6 50%, #ffa26d 100%)",
-    "timeline": "linear-gradient(180deg, #121225 0%, #4e98ff 50%, #ffa26d 100%)",
-    "text": "linear-gradient(90deg, #4e98ff 0%, #ffd67a 50%, #7de2a6 100%)"
+    "hero": "linear-gradient(135deg, #5a8dee 0%, #51de92 50%, #fa5b72 100%)",
+    "timeline": "linear-gradient(180deg, #131924 0%, #5a8dee 50%, #f9c74f 100%)",
+    "text": "linear-gradient(90deg, #f1f3f8 0%, #a5c2f5 50%, #fa5b72 100%)"
   },
-  "trendNote": "July 2026 design trends for tech and AI websites emphasize refined luxury with crisp glassmorphic elements, vibrant gradients, and subtle glows that simulate futuristic interfaces. Seasonal influence brings warmth to accents and gradients, balancing the cool, tech-inspired palette for a sleek yet approachable visual identity."
+  "trendNote": "July 2026 sees a resurgence of glassmorphism, enhanced with glowing accents and vivid colors to evoke a futuristic yet approachable aesthetic. Bright primary and accent tones paired with smooth gradients reflect the summer season, while animations remain professional with moderate speed and fluidity."
 }
