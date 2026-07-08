@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-07",
+  "lastUpdated": "2026-07-08",
   "palette": {
-    "background": "#0a0d14",
-    "surface": "#131924",
-    "surfaceAlt": "#1b2330",
-    "primary": "#5a8dee",
-    "primaryLight": "#a5c2f5",
-    "secondary": "#51de92",
-    "accent": "#fa5b72",
-    "accentWarm": "#f9c74f",
-    "text": "#f1f3f8",
-    "textMuted": "#a1a6b2",
-    "textSubtle": "#6d7380",
-    "border": "#2a3446",
-    "glow": "rgba(90, 141, 238, 0.45)"
+    "background": "#070712",
+    "surface": "#10101e",
+    "surfaceAlt": "#1a1a2e",
+    "primary": "#4d5bff",
+    "primaryLight": "#6e7bff",
+    "secondary": "#00d6c2",
+    "accent": "#ff4d6d",
+    "accentWarm": "#ff9e3b",
+    "text": "#f5f6fa",
+    "textMuted": "#a4a6b3",
+    "textSubtle": "#6a6d7e",
+    "border": "#1f1f33",
+    "glow": "rgba(77, 91, 255, 0.3)"
   },
   "typography": {
-    "fontFamily": "Manrope",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.3s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a8dee 0%, #51de92 50%, #fa5b72 100%)",
-    "timeline": "linear-gradient(180deg, #131924 0%, #5a8dee 50%, #f9c74f 100%)",
-    "text": "linear-gradient(90deg, #f1f3f8 0%, #a5c2f5 50%, #fa5b72 100%)"
+    "hero": "linear-gradient(135deg, #4d5bff 0%, #3bb3ff 50%, #00d6c2 100%)",
+    "timeline": "linear-gradient(180deg, #10101e 0%, #1a1a2e 50%, #4d5bff 100%)",
+    "text": "linear-gradient(90deg, #ff9e3b 0%, #ff4d6d 50%, #00d6c2 100%)"
   },
-  "trendNote": "July 2026 sees a resurgence of glassmorphism, enhanced with glowing accents and vivid colors to evoke a futuristic yet approachable aesthetic. Bright primary and accent tones paired with smooth gradients reflect the summer season, while animations remain professional with moderate speed and fluidity."
+  "trendNote": "Dark-mode tech interfaces in July 2026 are embracing vivid electric hues paired with soft glassmorphic surfaces and subtle glowing accents to evoke a sense of futuristic elegance. The design language prioritizes clean typography, fluid animations, and dynamic gradients to balance energy with professionalism."
 }
