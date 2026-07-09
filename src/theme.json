@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-08",
+  "lastUpdated": "2026-07-09",
   "palette": {
-    "background": "#070712",
-    "surface": "#10101e",
-    "surfaceAlt": "#1a1a2e",
-    "primary": "#4d5bff",
-    "primaryLight": "#6e7bff",
-    "secondary": "#00d6c2",
-    "accent": "#ff4d6d",
-    "accentWarm": "#ff9e3b",
-    "text": "#f5f6fa",
-    "textMuted": "#a4a6b3",
-    "textSubtle": "#6a6d7e",
-    "border": "#1f1f33",
-    "glow": "rgba(77, 91, 255, 0.3)"
+    "background": "#0a0b10",
+    "surface": "#12131c",
+    "surfaceAlt": "#1c1d26",
+    "primary": "#5e8dff",
+    "primaryLight": "#a6c1ff",
+    "secondary": "#ff6d6d",
+    "accent": "#ffcf4d",
+    "accentWarm": "#ffa14d",
+    "text": "#f3f4f9",
+    "textMuted": "#a5a8b9",
+    "textSubtle": "#7f8191",
+    "border": "#2a2b38",
+    "glow": "rgba(94, 141, 255, 0.8)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -30,9 +30,9 @@
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4d5bff 0%, #3bb3ff 50%, #00d6c2 100%)",
-    "timeline": "linear-gradient(180deg, #10101e 0%, #1a1a2e 50%, #4d5bff 100%)",
-    "text": "linear-gradient(90deg, #ff9e3b 0%, #ff4d6d 50%, #00d6c2 100%)"
+    "hero": "linear-gradient(135deg, #5e8dff 0%, #a6c1ff 50%, #ff6d6d 100%)",
+    "timeline": "linear-gradient(180deg, #1c1d26 0%, #5e8dff 50%, #ffa14d 100%)",
+    "text": "linear-gradient(90deg, #ffcf4d 0%, #ff6d6d 50%, #5e8dff 100%)"
   },
-  "trendNote": "Dark-mode tech interfaces in July 2026 are embracing vivid electric hues paired with soft glassmorphic surfaces and subtle glowing accents to evoke a sense of futuristic elegance. The design language prioritizes clean typography, fluid animations, and dynamic gradients to balance energy with professionalism."
+  "trendNote": "In July 2026, tech and AI-themed websites are embracing sleek glassmorphism with glowing accents to convey futuristic visuals. Bright, vivid colors like electric blue and warm oranges create contrast against deep, muted backgrounds, reflecting an optimistic and innovative aesthetic that aligns with summer vibrancy."
 }
