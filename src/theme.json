@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-09",
+  "lastUpdated": "2026-07-10",
   "palette": {
-    "background": "#0a0b10",
-    "surface": "#12131c",
-    "surfaceAlt": "#1c1d26",
-    "primary": "#5e8dff",
-    "primaryLight": "#a6c1ff",
-    "secondary": "#ff6d6d",
-    "accent": "#ffcf4d",
-    "accentWarm": "#ffa14d",
-    "text": "#f3f4f9",
-    "textMuted": "#a5a8b9",
-    "textSubtle": "#7f8191",
-    "border": "#2a2b38",
-    "glow": "rgba(94, 141, 255, 0.8)"
+    "background": "#06060d",
+    "surface": "#10101a",
+    "surfaceAlt": "#181820",
+    "primary": "#5c7cfa",
+    "primaryLight": "#809cff",
+    "secondary": "#3bc9db",
+    "accent": "#ff6b6b",
+    "accentWarm": "#ffa94d",
+    "text": "#f5f7fa",
+    "textMuted": "#d0d4e0",
+    "textSubtle": "#a8aec2",
+    "border": "#29293b",
+    "glow": "rgba(92, 124, 250, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.5s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5e8dff 0%, #a6c1ff 50%, #ff6d6d 100%)",
-    "timeline": "linear-gradient(180deg, #1c1d26 0%, #5e8dff 50%, #ffa14d 100%)",
-    "text": "linear-gradient(90deg, #ffcf4d 0%, #ff6d6d 50%, #5e8dff 100%)"
+    "hero": "linear-gradient(135deg, #5c7cfa 0%, #3bc9db 50%, #ff6b6b 100%)",
+    "timeline": "linear-gradient(180deg, #10101a 0%, #5c7cfa 50%, #3bc9db 100%)",
+    "text": "linear-gradient(90deg, #5c7cfa 0%, #3bc9db 50%, #ffa94d 100%)"
   },
-  "trendNote": "In July 2026, tech and AI-themed websites are embracing sleek glassmorphism with glowing accents to convey futuristic visuals. Bright, vivid colors like electric blue and warm oranges create contrast against deep, muted backgrounds, reflecting an optimistic and innovative aesthetic that aligns with summer vibrancy."
+  "trendNote": "In July 2026, AI-themed websites are embracing a refined glassmorphism aesthetic with vivid gradients and soft glowing elements to evoke a futuristic yet approachable feel. Vivid blues, teals, and warm accents balance professionalism and creativity while animations remain smooth but noticeable, creating an engaging experience."
 }
