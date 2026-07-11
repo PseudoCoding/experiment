@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-10",
+  "lastUpdated": "2026-07-11",
   "palette": {
-    "background": "#06060d",
-    "surface": "#10101a",
-    "surfaceAlt": "#181820",
-    "primary": "#5c7cfa",
-    "primaryLight": "#809cff",
-    "secondary": "#3bc9db",
-    "accent": "#ff6b6b",
-    "accentWarm": "#ffa94d",
-    "text": "#f5f7fa",
-    "textMuted": "#d0d4e0",
-    "textSubtle": "#a8aec2",
-    "border": "#29293b",
-    "glow": "rgba(92, 124, 250, 0.5)"
+    "background": "#0b0d14",
+    "surface": "#161a25",
+    "surfaceAlt": "#1f2433",
+    "primary": "#4a8cff",
+    "primaryLight": "#99c2ff",
+    "secondary": "#ff6bcb",
+    "accent": "#39e6b0",
+    "accentWarm": "#ffb66b",
+    "text": "#f2f4fa",
+    "textMuted": "#b0b3c0",
+    "textSubtle": "#8a8d9a",
+    "border": "#283043",
+    "glow": "rgba(74, 140, 255, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -27,12 +27,12 @@
     "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "40px"
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5c7cfa 0%, #3bc9db 50%, #ff6b6b 100%)",
-    "timeline": "linear-gradient(180deg, #10101a 0%, #5c7cfa 50%, #3bc9db 100%)",
-    "text": "linear-gradient(90deg, #5c7cfa 0%, #3bc9db 50%, #ffa94d 100%)"
+    "hero": "linear-gradient(135deg, #4a8cff 0%, #ff6bcb 50%, #39e6b0 100%)",
+    "timeline": "linear-gradient(180deg, #0b0d14 0%, #1f2433 50%, #4a8cff 100%)",
+    "text": "linear-gradient(90deg, #39e6b0 0%, #ff6bcb 50%, #ffb66b 100%)"
   },
-  "trendNote": "In July 2026, AI-themed websites are embracing a refined glassmorphism aesthetic with vivid gradients and soft glowing elements to evoke a futuristic yet approachable feel. Vivid blues, teals, and warm accents balance professionalism and creativity while animations remain smooth but noticeable, creating an engaging experience."
+  "trendNote": "In July 2026, tech and AI-themed designs are embracing a fresh take on glassmorphism with pronounced glows and vibrant gradients. Seasonal summer tones influence the palettes, blending vivid blues, pinks, and greens with warm accents, while animations remain smooth and deliberate to evoke a polished, professional feel."
 }
