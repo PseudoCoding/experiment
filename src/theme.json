@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-11",
+  "lastUpdated": "2026-07-12",
   "palette": {
-    "background": "#0b0d14",
-    "surface": "#161a25",
-    "surfaceAlt": "#1f2433",
-    "primary": "#4a8cff",
-    "primaryLight": "#99c2ff",
-    "secondary": "#ff6bcb",
-    "accent": "#39e6b0",
-    "accentWarm": "#ffb66b",
-    "text": "#f2f4fa",
-    "textMuted": "#b0b3c0",
-    "textSubtle": "#8a8d9a",
-    "border": "#283043",
-    "glow": "rgba(74, 140, 255, 0.6)"
+    "background": "#0b0d18",
+    "surface": "#121526",
+    "surfaceAlt": "#1a1e33",
+    "primary": "#0078ff",
+    "primaryLight": "#4da6ff",
+    "secondary": "#ff6a00",
+    "accent": "#22c55e",
+    "accentWarm": "#facc15",
+    "text": "#f4f6fa",
+    "textMuted": "#a1a6b3",
+    "textSubtle": "#7d8596",
+    "border": "#24283b",
+    "glow": "rgba(0, 120, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a8cff 0%, #ff6bcb 50%, #39e6b0 100%)",
-    "timeline": "linear-gradient(180deg, #0b0d14 0%, #1f2433 50%, #4a8cff 100%)",
-    "text": "linear-gradient(90deg, #39e6b0 0%, #ff6bcb 50%, #ffb66b 100%)"
+    "hero": "linear-gradient(135deg, #0078ff 0%, #4da6ff 50%, #22c55e 100%)",
+    "timeline": "linear-gradient(180deg, #0078ff 0%, #ff6a00 50%, #facc15 100%)",
+    "text": "linear-gradient(90deg, #4da6ff 0%, #ff6a00 50%, #f4f6fa 100%)"
   },
-  "trendNote": "In July 2026, tech and AI-themed designs are embracing a fresh take on glassmorphism with pronounced glows and vibrant gradients. Seasonal summer tones influence the palettes, blending vivid blues, pinks, and greens with warm accents, while animations remain smooth and deliberate to evoke a polished, professional feel."
+  "trendNote": "In July 2026, AI-themed websites are embracing sleek glassmorphic aesthetics to convey innovation and clarity. Vibrant primary colors like electric blue and warm accents are paired with soft gradients and subtle glows, evoking energy and futuristic precision while being seasonally fresh for summer."
 }
