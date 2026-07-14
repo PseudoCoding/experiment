@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-14",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#13141f",
-    "surfaceAlt": "#1e1f2b",
-    "primary": "#4b6aff",
-    "primaryLight": "#718dff",
-    "secondary": "#33e5b5",
-    "accent": "#ff5a87",
-    "accentWarm": "#ff944d",
-    "text": "#f4f6fc",
-    "textMuted": "#b0b3c1",
-    "textSubtle": "#8c8fa1",
-    "border": "#2a2b39",
-    "glow": "rgba(75, 106, 255, 0.4)"
+    "background": "#0a0b1d",
+    "surface": "#13152b",
+    "surfaceAlt": "#1b1e3a",
+    "primary": "#5a9bff",
+    "primaryLight": "#a5c9ff",
+    "secondary": "#ffc759",
+    "accent": "#9d6bff",
+    "accentWarm": "#fa5f4c",
+    "text": "#e8eaf0",
+    "textMuted": "#a6a9b9",
+    "textSubtle": "#6d7186",
+    "border": "#232845",
+    "glow": "rgba(90, 155, 255, 0.5)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "25px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.6s",
-    "glowRadius": "60px"
+    "animationSpeed": "0.35s",
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4b6aff 0%, #33e5b5 50%, #ff5a87 100%)",
-    "timeline": "linear-gradient(180deg, #1e1f2b 0%, #4b6aff 50%, #33e5b5 100%)",
-    "text": "linear-gradient(90deg, #ff944d 0%, #ff5a87 50%, #4b6aff 100%)"
+    "hero": "linear-gradient(135deg, #5a9bff 0%, #9d6bff 50%, #fa5f4c 100%)",
+    "timeline": "linear-gradient(180deg, #5a9bff 0%, #ffc759 50%, #fa5f4c 100%)",
+    "text": "linear-gradient(90deg, #5a9bff 0%, #9d6bff 50%, #ffc759 100%)"
   },
-  "trendNote": "In July 2026, tech and AI-themed websites focus on vibrant contrasts and glass-like layers. Bold, glowing primary colors like vivid blues and pinks pair with soft, blurred surfaces for a futuristic, approachable feel. Typography emphasizes clarity and elegance while animations feel fluid and intentional, aligning with the dynamic nature of AI advancements."
+  "trendNote": "July 2026 design trends emphasize a futuristic yet approachable aesthetic with vivid neon tones and glass-like effects, reflecting the growing influence of AI themes. Interfaces are highly interactive with smooth, subtle animations and glowing elements, evoking a sense of technology without overwhelming the user."
 }
