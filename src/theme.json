@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-15",
   "palette": {
-    "background": "#0a0b1d",
-    "surface": "#13152b",
-    "surfaceAlt": "#1b1e3a",
-    "primary": "#5a9bff",
-    "primaryLight": "#a5c9ff",
-    "secondary": "#ffc759",
-    "accent": "#9d6bff",
-    "accentWarm": "#fa5f4c",
-    "text": "#e8eaf0",
-    "textMuted": "#a6a9b9",
-    "textSubtle": "#6d7186",
-    "border": "#232845",
-    "glow": "rgba(90, 155, 255, 0.5)"
+    "background": "#0b0d17",
+    "surface": "#161a26",
+    "surfaceAlt": "#1e2233",
+    "primary": "#5a96ff",
+    "primaryLight": "#91b8ff",
+    "secondary": "#4dd8a0",
+    "accent": "#ff6ad5",
+    "accentWarm": "#f4a261",
+    "text": "#f1f4fc",
+    "textMuted": "#a3abbd",
+    "textSubtle": "#6c7488",
+    "border": "#2a2e40",
+    "glow": "rgba(90, 150, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.5s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a9bff 0%, #9d6bff 50%, #fa5f4c 100%)",
-    "timeline": "linear-gradient(180deg, #5a9bff 0%, #ffc759 50%, #fa5f4c 100%)",
-    "text": "linear-gradient(90deg, #5a9bff 0%, #9d6bff 50%, #ffc759 100%)"
+    "hero": "linear-gradient(135deg, #5a96ff 0%, #ff6ad5 50%, #4dd8a0 100%)",
+    "timeline": "linear-gradient(180deg, #ff6ad5 0%, #f4a261 50%, #5a96ff 100%)",
+    "text": "linear-gradient(90deg, #5a96ff 0%, #4dd8a0 50%, #f4a261 100%)"
   },
-  "trendNote": "July 2026 design trends emphasize a futuristic yet approachable aesthetic with vivid neon tones and glass-like effects, reflecting the growing influence of AI themes. Interfaces are highly interactive with smooth, subtle animations and glowing elements, evoking a sense of technology without overwhelming the user."
+  "trendNote": "In July 2026, dark-mode tech interfaces lean heavily on glassmorphism with soft blurs and glowing accents. Vivid, saturated colors like electric blues, magentas, and teals dominate, offering a futuristic aesthetic that reflects advancements in AI and technology. Designs are clean yet vibrant, balancing professionalism with a sense of innovation."
 }
