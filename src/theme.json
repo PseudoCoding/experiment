@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "palette": {
-    "background": "#0b0d17",
-    "surface": "#161a26",
-    "surfaceAlt": "#1e2233",
-    "primary": "#5a96ff",
-    "primaryLight": "#91b8ff",
-    "secondary": "#4dd8a0",
-    "accent": "#ff6ad5",
-    "accentWarm": "#f4a261",
-    "text": "#f1f4fc",
-    "textMuted": "#a3abbd",
-    "textSubtle": "#6c7488",
-    "border": "#2a2e40",
-    "glow": "rgba(90, 150, 255, 0.4)"
+    "background": "#05050d",
+    "surface": "#12121b",
+    "surfaceAlt": "#1c1c29",
+    "primary": "#56ccf2",
+    "primaryLight": "#81d4fa",
+    "secondary": "#bb86fc",
+    "accent": "#ff5c8d",
+    "accentWarm": "#ff9e45",
+    "text": "#f8f9fc",
+    "textMuted": "#c0c4d6",
+    "textSubtle": "#8f94a2",
+    "border": "#2c2c3a",
+    "glow": "rgba(86, 204, 242, 0.45)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a96ff 0%, #ff6ad5 50%, #4dd8a0 100%)",
-    "timeline": "linear-gradient(180deg, #ff6ad5 0%, #f4a261 50%, #5a96ff 100%)",
-    "text": "linear-gradient(90deg, #5a96ff 0%, #4dd8a0 50%, #f4a261 100%)"
+    "hero": "linear-gradient(135deg, #56ccf2 0%, #bb86fc 50%, #ff5c8d 100%)",
+    "timeline": "linear-gradient(180deg, #1c1c29 0%, #56ccf2 50%, #81d4fa 100%)",
+    "text": "linear-gradient(90deg, #56ccf2 0%, #bb86fc 50%, #ff5c8d 100%)"
   },
-  "trendNote": "In July 2026, dark-mode tech interfaces lean heavily on glassmorphism with soft blurs and glowing accents. Vivid, saturated colors like electric blues, magentas, and teals dominate, offering a futuristic aesthetic that reflects advancements in AI and technology. Designs are clean yet vibrant, balancing professionalism with a sense of innovation."
+  "trendNote": "In July 2026, tech and AI-themed websites are embracing vibrant, futuristic palettes with a focus on glassmorphism for added depth and sophistication. Animations are swift yet subtle, ensuring a balance between professionalism and modern flair, while gradients evoke energy and evoke a summery vibrancy suitable for the season."
 }
