@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-17",
   "palette": {
-    "background": "#05050d",
-    "surface": "#12121b",
-    "surfaceAlt": "#1c1c29",
-    "primary": "#56ccf2",
-    "primaryLight": "#81d4fa",
-    "secondary": "#bb86fc",
-    "accent": "#ff5c8d",
-    "accentWarm": "#ff9e45",
-    "text": "#f8f9fc",
-    "textMuted": "#c0c4d6",
-    "textSubtle": "#8f94a2",
-    "border": "#2c2c3a",
-    "glow": "rgba(86, 204, 242, 0.45)"
+    "background": "#0a0b14",
+    "surface": "#171a2e",
+    "surfaceAlt": "#1f2239",
+    "primary": "#ff6bcb",
+    "primaryLight": "#ff92d6",
+    "secondary": "#4fd1ff",
+    "accent": "#a29bfe",
+    "accentWarm": "#ff9f43",
+    "text": "#f5f7ff",
+    "textMuted": "#a0a3b8",
+    "textSubtle": "#73778c",
+    "border": "#2e3148",
+    "glow": "rgba(255, 107, 203, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #56ccf2 0%, #bb86fc 50%, #ff5c8d 100%)",
-    "timeline": "linear-gradient(180deg, #1c1c29 0%, #56ccf2 50%, #81d4fa 100%)",
-    "text": "linear-gradient(90deg, #56ccf2 0%, #bb86fc 50%, #ff5c8d 100%)"
+    "hero": "linear-gradient(135deg, #4fd1ff 0%, #ff6bcb 50%, #a29bfe 100%)",
+    "timeline": "linear-gradient(180deg, #171a2e 0%, #4fd1ff 50%, #ff6bcb 100%)",
+    "text": "linear-gradient(90deg, #ff6bcb 0%, #4fd1ff 50%, #ff9f43 100%)"
   },
-  "trendNote": "In July 2026, tech and AI-themed websites are embracing vibrant, futuristic palettes with a focus on glassmorphism for added depth and sophistication. Animations are swift yet subtle, ensuring a balance between professionalism and modern flair, while gradients evoke energy and evoke a summery vibrancy suitable for the season."
+  "trendNote": "In July 2026, tech and AI websites are embracing glassmorphism paired with vibrant neon palettes to evoke a futuristic and energetic feel. Interfaces focus on vivid contrasts, glowing accents, and smooth micro-interactions, creating a polished yet compelling experience that feels both modern and approachable."
 }
