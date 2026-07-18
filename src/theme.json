@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-17",
+  "lastUpdated": "2026-07-18",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#171a2e",
-    "surfaceAlt": "#1f2239",
-    "primary": "#ff6bcb",
-    "primaryLight": "#ff92d6",
-    "secondary": "#4fd1ff",
-    "accent": "#a29bfe",
-    "accentWarm": "#ff9f43",
-    "text": "#f5f7ff",
-    "textMuted": "#a0a3b8",
-    "textSubtle": "#73778c",
-    "border": "#2e3148",
-    "glow": "rgba(255, 107, 203, 0.6)"
+    "background": "#0b0d11",
+    "surface": "#161a23",
+    "surfaceAlt": "#1e2430",
+    "primary": "#5a80ff",
+    "primaryLight": "#7a9dff",
+    "secondary": "#ee457e",
+    "accent": "#00e5a8",
+    "accentWarm": "#ff7f50",
+    "text": "#f4f7fc",
+    "textMuted": "#b0b8c6",
+    "textSubtle": "#8a94a6",
+    "border": "#2c3a4d",
+    "glow": "rgba(90, 128, 255, 0.4)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "24px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4fd1ff 0%, #ff6bcb 50%, #a29bfe 100%)",
-    "timeline": "linear-gradient(180deg, #171a2e 0%, #4fd1ff 50%, #ff6bcb 100%)",
-    "text": "linear-gradient(90deg, #ff6bcb 0%, #4fd1ff 50%, #ff9f43 100%)"
+    "hero": "linear-gradient(135deg, #5a80ff 0%, #2ab4ff 50%, #00e5a8 100%)",
+    "timeline": "linear-gradient(180deg, #0b0d11 0%, #2a2e39 50%, #161a23 100%)",
+    "text": "linear-gradient(90deg, #5a80ff 0%, #ee457e 50%, #00e5a8 100%)"
   },
-  "trendNote": "In July 2026, tech and AI websites are embracing glassmorphism paired with vibrant neon palettes to evoke a futuristic and energetic feel. Interfaces focus on vivid contrasts, glowing accents, and smooth micro-interactions, creating a polished yet compelling experience that feels both modern and approachable."
+  "trendNote": "In July 2026, dark mode interfaces are embracing a high-tech yet inviting look, blending glassmorphism's frosted blur effects with rich, saturated colors like bright cobalt blue, coral pink, and neon teal. Subtle glowing accents and smooth animations timed around 0.5s provide a futuristic, polished feel, while rounded corners and medium-intensity shadows keep designs approachable during the summer season."
 }
