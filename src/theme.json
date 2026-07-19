@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-18",
+  "lastUpdated": "2026-07-19",
   "palette": {
-    "background": "#0b0d11",
-    "surface": "#161a23",
-    "surfaceAlt": "#1e2430",
-    "primary": "#5a80ff",
-    "primaryLight": "#7a9dff",
-    "secondary": "#ee457e",
-    "accent": "#00e5a8",
-    "accentWarm": "#ff7f50",
-    "text": "#f4f7fc",
-    "textMuted": "#b0b8c6",
-    "textSubtle": "#8a94a6",
-    "border": "#2c3a4d",
-    "glow": "rgba(90, 128, 255, 0.4)"
+    "background": "#0a0b1a",
+    "surface": "#17182b",
+    "surfaceAlt": "#23253c",
+    "primary": "#7c4dff",
+    "primaryLight": "#b09fff",
+    "secondary": "#00e5ff",
+    "accent": "#ff4081",
+    "accentWarm": "#ff6d00",
+    "text": "#f4f6fc",
+    "textMuted": "#a8aac2",
+    "textSubtle": "#707288",
+    "border": "#2d2f47",
+    "glow": "rgba(124, 77, 255, 0.8)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
     "animationSpeed": "0.5s",
-    "glowRadius": "60px"
+    "glowRadius": "40px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a80ff 0%, #2ab4ff 50%, #00e5a8 100%)",
-    "timeline": "linear-gradient(180deg, #0b0d11 0%, #2a2e39 50%, #161a23 100%)",
-    "text": "linear-gradient(90deg, #5a80ff 0%, #ee457e 50%, #00e5a8 100%)"
+    "hero": "linear-gradient(135deg, #7c4dff 0%, #00e5ff 50%, #ff4081 100%)",
+    "timeline": "linear-gradient(180deg, #17182b 0%, #7c4dff 50%, #ff6d00 100%)",
+    "text": "linear-gradient(90deg, #00e5ff 0%, #7c4dff 50%, #ff4081 100%)"
   },
-  "trendNote": "In July 2026, dark mode interfaces are embracing a high-tech yet inviting look, blending glassmorphism's frosted blur effects with rich, saturated colors like bright cobalt blue, coral pink, and neon teal. Subtle glowing accents and smooth animations timed around 0.5s provide a futuristic, polished feel, while rounded corners and medium-intensity shadows keep designs approachable during the summer season."
+  "trendNote": "In July 2026, tech and AI-themed websites are embracing a sleek glassmorphism aesthetic with vibrant colors and glowing effects. Dark, immersive backgrounds combined with vivid accents create a futuristic but approachable atmosphere. Typography has shifted towards clean, modern sans-serifs like Inter, while smooth, medium-paced animations provide subtle dynamism."
 }
