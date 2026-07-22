@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-22",
   "palette": {
-    "background": "#0a0b14",
-    "surface": "#1a1d29",
-    "surfaceAlt": "#222533",
-    "primary": "#4fa4f7",
-    "primaryLight": "#76c1ff",
-    "secondary": "#8c7cf9",
-    "accent": "#f44585",
-    "accentWarm": "#f9a03f",
-    "text": "#f3f6fa",
-    "textMuted": "#a3a9b8",
-    "textSubtle": "#6e7381",
-    "border": "#2d3245",
-    "glow": "rgba(79, 164, 247, 0.6)"
+    "background": "#0b0d18",
+    "surface": "#141828",
+    "surfaceAlt": "#1a1f33",
+    "primary": "#2d91fc",
+    "primaryLight": "#5aa8ff",
+    "secondary": "#9c27b0",
+    "accent": "#22d1ee",
+    "accentWarm": "#ff7a45",
+    "text": "#f0f4ff",
+    "textMuted": "#c3cad9",
+    "textSubtle": "#a2a7b5",
+    "border": "#2a2f40",
+    "glow": "rgba(45, 145, 252, 0.6)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -24,15 +24,15 @@
   "aesthetic": {
     "style": "glassmorphism",
     "borderRadius": "16px",
-    "cardBlur": "30px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4fa4f7 0%, #8c7cf9 50%, #f44585 100%)",
-    "timeline": "linear-gradient(180deg, #1a1d29 0%, #4fa4f7 50%, #f9a03f 100%)",
-    "text": "linear-gradient(90deg, #f44585 0%, #8c7cf9 50%, #4fa4f7 100%)"
+    "hero": "linear-gradient(135deg, #2d91fc 0%, #9c27b0 50%, #22d1ee 100%)",
+    "timeline": "linear-gradient(180deg, #1a1f33 0%, #2d91fc 50%, #ff7a45 100%)",
+    "text": "linear-gradient(90deg, #2d91fc 0%, #22d1ee 50%, #ff7a45 100%)"
   },
-  "trendNote": "In July 2026, AI-themed websites embrace vibrant, futuristic tones like electric blues and warm accents to convey innovation. Glassmorphism continues to dominate, offering a clean yet immersive aesthetic, complemented by smooth animations and glowing accents for depth and modernity."
+  "trendNote": "In July 2026, tech and AI-themed websites prioritize dark, luminous aesthetics with vibrant accents that contrast the deep backgrounds. Glassmorphism remains dominant, balancing sleek transparency with striking neon glows. Typography emphasizes readability and modernity, while animations are smooth yet dynamic to convey cutting-edge innovation."
 }
