@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-25",
+  "lastUpdated": "2026-07-26",
   "palette": {
-    "background": "#0b0d18",
-    "surface": "#161a2b",
-    "surfaceAlt": "#1e2237",
-    "primary": "#5f7cff",
-    "primaryLight": "#8da8ff",
-    "secondary": "#ff6f61",
-    "accent": "#22d3ee",
-    "accentWarm": "#ffae42",
-    "text": "#f5f6fc",
-    "textMuted": "#a3a8c9",
-    "textSubtle": "#7881a4",
-    "border": "#252a3e",
-    "glow": "rgba(95, 124, 255, 0.8)"
+    "background": "#0a0a14",
+    "surface": "#121220",
+    "surfaceAlt": "#1a1a2e",
+    "primary": "#5a5fff",
+    "primaryLight": "#8c91ff",
+    "secondary": "#ff6c8b",
+    "accent": "#37e2d5",
+    "accentWarm": "#ffad42",
+    "text": "#f3f4fa",
+    "textMuted": "#c4c7d1",
+    "textSubtle": "#8c91a3",
+    "border": "#2a2a3c",
+    "glow": "rgba(90, 95, 255, 0.5)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -23,16 +23,16 @@
   },
   "aesthetic": {
     "style": "glassmorphism",
-    "borderRadius": "16px",
-    "cardBlur": "24px",
+    "borderRadius": "18px",
+    "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.35s",
-    "glowRadius": "40px"
+    "animationSpeed": "0.3s",
+    "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5f7cff 0%, #22d3ee 50%, #ff6f61 100%)",
-    "timeline": "linear-gradient(180deg, #1e2237 0%, #5f7cff 50%, #ffae42 100%)",
-    "text": "linear-gradient(90deg, #ff6f61 0%, #22d3ee 50%, #8da8ff 100%)"
+    "hero": "linear-gradient(135deg, #5a5fff 0%, #37e2d5 50%, #ff6c8b 100%)",
+    "timeline": "linear-gradient(180deg, #121220 0%, #1a1a2e 50%, #5a5fff 100%)",
+    "text": "linear-gradient(90deg, #ff6c8b 0%, #5a5fff 50%, #37e2d5 100%)"
   },
-  "trendNote": "July 2026 sees a resurgence of vibrant glassmorphism, blending frosted glass effects with vivid neon accents. Dark-mode interfaces lean on deep blues and purples, offset by glowing gradients and clean typography, creating a futuristic yet approachable theme for AI-focused designs."
+  "trendNote": "In July 2026, AI-themed designs favor a sleek glassmorphism aesthetic with vivid gradients and glowing accents to convey innovation. Trendsetters are pairing deep, moody dark modes with vibrant, almost electric neons to highlight futuristic tech concepts and maintain accessibility with sharp contrast."
 }
