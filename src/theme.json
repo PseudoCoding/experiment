@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "palette": {
     "background": "#0a0a14",
-    "surface": "#121220",
-    "surfaceAlt": "#1a1a2e",
-    "primary": "#5a5fff",
-    "primaryLight": "#8c91ff",
-    "secondary": "#ff6c8b",
-    "accent": "#37e2d5",
-    "accentWarm": "#ffad42",
-    "text": "#f3f4fa",
-    "textMuted": "#c4c7d1",
-    "textSubtle": "#8c91a3",
-    "border": "#2a2a3c",
-    "glow": "rgba(90, 95, 255, 0.5)"
+    "surface": "#161629",
+    "surfaceAlt": "#1c1c33",
+    "primary": "#5e60ce",
+    "primaryLight": "#8488ff",
+    "secondary": "#00c6a3",
+    "accent": "#ff6b6b",
+    "accentWarm": "#ff9f43",
+    "text": "#f8f9fc",
+    "textMuted": "#b0b3c6",
+    "textSubtle": "#8a8da7",
+    "border": "#26263d",
+    "glow": "rgba(94, 96, 206, 0.45)"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -23,16 +23,16 @@
   },
   "aesthetic": {
     "style": "glassmorphism",
-    "borderRadius": "18px",
-    "cardBlur": "30px",
+    "borderRadius": "16px",
+    "cardBlur": "24px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.3s",
+    "animationSpeed": "0.5s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #5a5fff 0%, #37e2d5 50%, #ff6c8b 100%)",
-    "timeline": "linear-gradient(180deg, #121220 0%, #1a1a2e 50%, #5a5fff 100%)",
-    "text": "linear-gradient(90deg, #ff6c8b 0%, #5a5fff 50%, #37e2d5 100%)"
+    "hero": "linear-gradient(135deg, #5e60ce 0%, #00c6a3 50%, #ff9f43 100%)",
+    "timeline": "linear-gradient(180deg, #161629 0%, #5e60ce 50%, #ff6b6b 100%)",
+    "text": "linear-gradient(90deg, #8488ff 0%, #00c6a3 50%, #ff9f43 100%)"
   },
-  "trendNote": "In July 2026, AI-themed designs favor a sleek glassmorphism aesthetic with vivid gradients and glowing accents to convey innovation. Trendsetters are pairing deep, moody dark modes with vibrant, almost electric neons to highlight futuristic tech concepts and maintain accessibility with sharp contrast."
+  "trendNote": "July 2026 sees a strong embrace of glassmorphism paired with vibrant gradients and glowing accents, evoking a sense of futuristic elegance. Typography leans towards clean, modern sans-serif styles that balance professionalism with approachability, while animations focus on fluid transitions to enhance user engagement."
 }
