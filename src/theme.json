@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-07-29",
   "palette": {
-    "background": "#0a0a12",
-    "surface": "#141428",
-    "surfaceAlt": "#1c1c2f",
-    "primary": "#4a90e2",
-    "primaryLight": "#7db8ff",
-    "secondary": "#42e2b8",
-    "accent": "#ff6f61",
-    "accentWarm": "#ff9f43",
-    "text": "#f2f4fb",
-    "textMuted": "#a3a6b9",
-    "textSubtle": "#666980",
-    "border": "#2e2e4a",
-    "glow": "rgba(74, 144, 226, 0.6)"
+    "background": "#0b0d18",
+    "surface": "#161a28",
+    "surfaceAlt": "#1d2233",
+    "primary": "#6c63ff",
+    "primaryLight": "#918aff",
+    "secondary": "#ff6f61",
+    "accent": "#18e8c9",
+    "accentWarm": "#ffcc66",
+    "text": "#f4f7fb",
+    "textMuted": "#c1c5d1",
+    "textSubtle": "#8f94a3",
+    "border": "#2a2f42",
+    "glow": "rgba(108, 99, 255, 0.5)"
   },
   "typography": {
-    "fontFamily": "Space Grotesk",
+    "fontFamily": "Inter",
     "codeFontFamily": "Fira Code",
     "headingWeight": "700",
     "bodyWeight": "400"
@@ -26,13 +26,13 @@
     "borderRadius": "16px",
     "cardBlur": "30px",
     "shadowIntensity": "medium",
-    "animationSpeed": "0.5s",
+    "animationSpeed": "0.35s",
     "glowRadius": "60px"
   },
   "gradient": {
-    "hero": "linear-gradient(135deg, #4a90e2 0%, #42e2b8 50%, #ff6f61 100%)",
-    "timeline": "linear-gradient(180deg, #0a0a12 0%, #4a90e2 50%, #42e2b8 100%)",
-    "text": "linear-gradient(90deg, #ff6f61 0%, #42e2b8 50%, #7db8ff 100%)"
+    "hero": "linear-gradient(135deg, #6c63ff 0%, #18e8c9 50%, #ff6f61 100%)",
+    "timeline": "linear-gradient(180deg, #161a28 0%, #6c63ff 50%, #ffcc66 100%)",
+    "text": "linear-gradient(90deg, #6c63ff 0%, #18e8c9 50%, #ffcc66 100%)"
   },
-  "trendNote": "July 2026 sees a resurgence in glassmorphism, balanced by clean, high-contrast typographic systems. Vibrant, saturated hues like vivid blue and teal dominate dark mode interfaces, complemented by warm accent tones. Subtle glowing effects and gradient highlights contribute to a futuristic yet approachable aesthetic, echoing the seasonal vibrancy of summer."
+  "trendNote": "July 2026 design aesthetics focus on bold, futuristic visuals with glowing accents and vivid gradients. Glassmorphism has matured to include softer blurs and medium-radius corners, balancing elegance and clarity. Vivid purples and teals dominate, evoking a high-tech, AI-driven energy for summer."
 }
